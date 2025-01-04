@@ -258,7 +258,9 @@ struct PublicSettingsVisitor {
     {
         for (auto& value : values)
         {
-            MRDOCS_TRY(normalizeStringPath(self, name, value, dirs, opts, usingDefault));
+            report::warn("before: {}", value);
+            normalizeStringPath(self, name, value, dirs, opts, usingDefault);
+            report::warn("after: {}", value);
         }
 
         // Move command line sink values to appropriate destinations

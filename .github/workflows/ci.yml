@@ -375,7 +375,7 @@ jobs:
           package-dir: packages
           package-generators: ${{ matrix.mrdocs-package-generators }}
           package-artifact: false
-          # shared: ${{ matrix.shared }}
+          shared: ${{ matrix.shared }}
 
       - name: Check YAML schema
         run: |
