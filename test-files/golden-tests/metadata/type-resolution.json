@@ -1,0 +1,2502 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "T8COa5LWeytxzI9W9tsQ0yn3pMQ=": {
+      "id": "T8COa5LWeytxzI9W9tsQ0yn3pMQ=",
+      "name": "i4",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 47
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "D",
+                        "id": "LXTs1uTCF/vevZU29QYVICehLFQ="
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "AIIJjypsyznlYuu8zS5f9VVTsqM=": {
+      "id": "AIIJjypsyznlYuu8zS5f9VVTsqM=",
+      "name": "h8",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 41
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "pointer": {
+                      "cv_qualifiers": "const",
+                      "pointee": {
+                        "named": {
+                          "name": {
+                            "kind": "specialization",
+                            "name": "B",
+                            "id": "swBEqeWAJoaWVKty+1lCoYUK04A=",
+                            "template_args": [
+                              {
+                                "type": {
+                                  "type": {
+                                    "named": {
+                                      "name": {
+                                        "kind": "identifier",
+                                        "name": "short"
+                                      }
+                                    }
+                                  }
+                                }
+                              },
+                              {
+                                "type": {
+                                  "type": {
+                                    "named": {
+                                      "name": {
+                                        "kind": "identifier",
+                                        "name": "long"
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          "cv_qualifiers": "const"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "4+iF5tOtJgZ7ZcqfZljDl0zsJaY=": {
+      "id": "4+iF5tOtJgZ7ZcqfZljDl0zsJaY=",
+      "name": "h6",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 39
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "pointer": {
+                      "pointee": {
+                        "named": {
+                          "name": {
+                            "kind": "specialization",
+                            "name": "B",
+                            "id": "swBEqeWAJoaWVKty+1lCoYUK04A=",
+                            "template_args": [
+                              {
+                                "type": {
+                                  "type": {
+                                    "named": {
+                                      "name": {
+                                        "kind": "identifier",
+                                        "name": "short"
+                                      }
+                                    }
+                                  }
+                                }
+                              },
+                              {
+                                "type": {
+                                  "type": {
+                                    "named": {
+                                      "name": {
+                                        "kind": "identifier",
+                                        "name": "long"
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "NmPMV0MWNFJUjfSOLHtzdbgpFoQ=": {
+      "id": "NmPMV0MWNFJUjfSOLHtzdbgpFoQ=",
+      "name": "f0",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 13
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "A",
+                    "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM="
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "Rj6P6+H/ZPGfGuoquGgLekbJPqg=": {
+      "id": "Rj6P6+H/ZPGfGuoquGgLekbJPqg=",
+      "name": "g1",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 24
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "C",
+                    "id": "f75RIL8qKOwbyH6ffvrv59F0nCA="
+                  },
+                  "cv_qualifiers": "const"
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "YrPSaKAbmXgzCAX5WByx4eVoqBM=": {
+      "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "type-resolution.cpp",
+        "source_path": "type-resolution.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "swBEqeWAJoaWVKty+1lCoYUK04A=": {
+      "id": "swBEqeWAJoaWVKty+1lCoYUK04A=",
+      "name": "B",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "type-resolution.cpp",
+        "source_path": "type-resolution.cpp",
+        "line": 3
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              },
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {}
+        }
+      }
+    },
+    "f75RIL8qKOwbyH6ffvrv59F0nCA=": {
+      "id": "f75RIL8qKOwbyH6ffvrv59F0nCA=",
+      "name": "C",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "A",
+                "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM="
+              }
+            }
+          },
+          "is_using": true
+        }
+      }
+    },
+    "7hoCtaKnV3q0+0LGpIwT05DsCzM=": {
+      "id": "7hoCtaKnV3q0+0LGpIwT05DsCzM=",
+      "name": "f2",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 15
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "lvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "A",
+                        "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM="
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "UUnnujM/qHDrH/lhqape19i4ygc=": {
+      "id": "UUnnujM/qHDrH/lhqape19i4ygc=",
+      "name": "i0",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 43
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "D",
+                    "id": "LXTs1uTCF/vevZU29QYVICehLFQ="
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "BaEDPGJuuB/LSgDi3IbZIcI8+hQ=": {
+      "id": "BaEDPGJuuB/LSgDi3IbZIcI8+hQ=",
+      "name": "f1",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 14
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "A",
+                    "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM="
+                  },
+                  "cv_qualifiers": "const"
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "ZjHOF6kLLIcBXeh5KZapmnzPEnI=": {
+      "id": "ZjHOF6kLLIcBXeh5KZapmnzPEnI=",
+      "name": "i7",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 50
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "pointer": {
+                      "pointee": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "D",
+                            "id": "LXTs1uTCF/vevZU29QYVICehLFQ="
+                          },
+                          "cv_qualifiers": "const"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "LXTs1uTCF/vevZU29QYVICehLFQ=": {
+      "id": "LXTs1uTCF/vevZU29QYVICehLFQ=",
+      "name": "D",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 8
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "specialization",
+                "name": "B",
+                "id": "swBEqeWAJoaWVKty+1lCoYUK04A=",
+                "template_args": [
+                  {
+                    "type": {
+                      "type": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "short"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "type": {
+                      "type": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "long"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "is_using": true
+        }
+      }
+    },
+    "yrx2OB9QNNSl9+wzVkVQ8SEabRs=": {
+      "id": "yrx2OB9QNNSl9+wzVkVQ8SEabRs=",
+      "name": "g0",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 23
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "C",
+                    "id": "f75RIL8qKOwbyH6ffvrv59F0nCA="
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "ikh/cWe22atB10u7UsOKS5W39CA=": {
+      "id": "ikh/cWe22atB10u7UsOKS5W39CA=",
+      "name": "E",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 10
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "specialization",
+                "name": "B",
+                "id": "swBEqeWAJoaWVKty+1lCoYUK04A=",
+                "template_args": [
+                  {
+                    "type": {
+                      "type": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "T"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "type": {
+                      "type": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "long"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "is_using": true,
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "+u77KXnhVCt71fF6pXSP0epFvnk=": {
+      "id": "+u77KXnhVCt71fF6pXSP0epFvnk=",
+      "name": "f3",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 16
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "lvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "A",
+                        "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM="
+                      },
+                      "cv_qualifiers": "const"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "9T7aRCZADylTGfrzXLBOVh0ozys=": {
+      "id": "9T7aRCZADylTGfrzXLBOVh0ozys=",
+      "name": "f4",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 17
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "A",
+                        "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM="
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "kT0jo07C7QGLPer3WTjynau4uqw=": {
+      "id": "kT0jo07C7QGLPer3WTjynau4uqw=",
+      "name": "f5",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 18
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "A",
+                        "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM="
+                      },
+                      "cv_qualifiers": "const"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "MdHfxQfzVjQ3CUyn9Mpn7fQk+/M=": {
+      "id": "MdHfxQfzVjQ3CUyn9Mpn7fQk+/M=",
+      "name": "f6",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 19
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "pointer": {
+                      "pointee": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "A",
+                            "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM="
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "D9mUtv975QoRibry0HtjynvRkzs=": {
+      "id": "D9mUtv975QoRibry0HtjynvRkzs=",
+      "name": "i8",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 51
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "pointer": {
+                      "cv_qualifiers": "const",
+                      "pointee": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "D",
+                            "id": "LXTs1uTCF/vevZU29QYVICehLFQ="
+                          },
+                          "cv_qualifiers": "const"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "w10F/8wyLcytn7L65/ILYU0EdXo=": {
+      "id": "w10F/8wyLcytn7L65/ILYU0EdXo=",
+      "name": "f7",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 20
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "pointer": {
+                      "pointee": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "A",
+                            "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM="
+                          },
+                          "cv_qualifiers": "const"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "PaQ7BnZjNHfJZQsH/h+VxhlT36c=": {
+      "id": "PaQ7BnZjNHfJZQsH/h+VxhlT36c=",
+      "name": "g5",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 28
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "C",
+                        "id": "f75RIL8qKOwbyH6ffvrv59F0nCA="
+                      },
+                      "cv_qualifiers": "const"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "c258MEng+EH63J85RJQ0lCqTn9c=": {
+      "id": "c258MEng+EH63J85RJQ0lCqTn9c=",
+      "name": "g7",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 30
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "pointer": {
+                      "pointee": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "C",
+                            "id": "f75RIL8qKOwbyH6ffvrv59F0nCA="
+                          },
+                          "cv_qualifiers": "const"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "CClm4VbfLVJuyMbCoDMeADEgyqc=": {
+      "id": "CClm4VbfLVJuyMbCoDMeADEgyqc=",
+      "name": "f8",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 21
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "pointer": {
+                      "cv_qualifiers": "const",
+                      "pointee": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "A",
+                            "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM="
+                          },
+                          "cv_qualifiers": "const"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "fIfvv5LTjuRTX2EoKkdnMHXq8E0=": {
+      "id": "fIfvv5LTjuRTX2EoKkdnMHXq8E0=",
+      "name": "h4",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 37
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "specialization",
+                        "name": "B",
+                        "id": "swBEqeWAJoaWVKty+1lCoYUK04A=",
+                        "template_args": [
+                          {
+                            "type": {
+                              "type": {
+                                "named": {
+                                  "name": {
+                                    "kind": "identifier",
+                                    "name": "short"
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "type": {
+                              "type": {
+                                "named": {
+                                  "name": {
+                                    "kind": "identifier",
+                                    "name": "long"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "ZoIZSEi5P7rybxKK8Kjgxla7+4Y=": {
+      "id": "ZoIZSEi5P7rybxKK8Kjgxla7+4Y=",
+      "name": "g2",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 25
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "lvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "C",
+                        "id": "f75RIL8qKOwbyH6ffvrv59F0nCA="
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "Q0DuYbFpCkEF2ouXRvQLKKq1zh8=": {
+      "id": "Q0DuYbFpCkEF2ouXRvQLKKq1zh8=",
+      "name": "g3",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 26
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "lvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "C",
+                        "id": "f75RIL8qKOwbyH6ffvrv59F0nCA="
+                      },
+                      "cv_qualifiers": "const"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "SayuQ3M/mTSdbTbGozDw6t08++w=": {
+      "id": "SayuQ3M/mTSdbTbGozDw6t08++w=",
+      "name": "g4",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 27
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "C",
+                        "id": "f75RIL8qKOwbyH6ffvrv59F0nCA="
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "Q3jmjtDscKaRlk9NmZeWQrE/qC0=": {
+      "id": "Q3jmjtDscKaRlk9NmZeWQrE/qC0=",
+      "name": "g6",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 29
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "pointer": {
+                      "pointee": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "C",
+                            "id": "f75RIL8qKOwbyH6ffvrv59F0nCA="
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "ycKVTIHwB/Z8IbNKkEaJj75S3bA=": {
+      "id": "ycKVTIHwB/Z8IbNKkEaJj75S3bA=",
+      "name": "g8",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 31
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "pointer": {
+                      "cv_qualifiers": "const",
+                      "pointee": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "C",
+                            "id": "f75RIL8qKOwbyH6ffvrv59F0nCA="
+                          },
+                          "cv_qualifiers": "const"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "E5y/fD9iZ0MCXYoHtunBFFWTWhg=": {
+      "id": "E5y/fD9iZ0MCXYoHtunBFFWTWhg=",
+      "name": "h0",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 33
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "specialization",
+                    "name": "B",
+                    "id": "swBEqeWAJoaWVKty+1lCoYUK04A=",
+                    "template_args": [
+                      {
+                        "type": {
+                          "type": {
+                            "named": {
+                              "name": {
+                                "kind": "identifier",
+                                "name": "short"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "type": {
+                          "type": {
+                            "named": {
+                              "name": {
+                                "kind": "identifier",
+                                "name": "long"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "BI0JWw00VfmJGJLhcVYpoks79MI=": {
+      "id": "BI0JWw00VfmJGJLhcVYpoks79MI=",
+      "name": "h1",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 34
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "specialization",
+                    "name": "B",
+                    "id": "swBEqeWAJoaWVKty+1lCoYUK04A=",
+                    "template_args": [
+                      {
+                        "type": {
+                          "type": {
+                            "named": {
+                              "name": {
+                                "kind": "identifier",
+                                "name": "short"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "type": {
+                          "type": {
+                            "named": {
+                              "name": {
+                                "kind": "identifier",
+                                "name": "long"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  "cv_qualifiers": "const"
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "ysfWNk4t2HuUA1jfw595fkiD1PA=": {
+      "id": "ysfWNk4t2HuUA1jfw595fkiD1PA=",
+      "name": "h2",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 35
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "lvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "specialization",
+                        "name": "B",
+                        "id": "swBEqeWAJoaWVKty+1lCoYUK04A=",
+                        "template_args": [
+                          {
+                            "type": {
+                              "type": {
+                                "named": {
+                                  "name": {
+                                    "kind": "identifier",
+                                    "name": "short"
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "type": {
+                              "type": {
+                                "named": {
+                                  "name": {
+                                    "kind": "identifier",
+                                    "name": "long"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "3YZIC0cuzzvjybwCWJjk6kMYkzk=": {
+      "id": "3YZIC0cuzzvjybwCWJjk6kMYkzk=",
+      "name": "h3",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 36
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "lvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "specialization",
+                        "name": "B",
+                        "id": "swBEqeWAJoaWVKty+1lCoYUK04A=",
+                        "template_args": [
+                          {
+                            "type": {
+                              "type": {
+                                "named": {
+                                  "name": {
+                                    "kind": "identifier",
+                                    "name": "short"
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "type": {
+                              "type": {
+                                "named": {
+                                  "name": {
+                                    "kind": "identifier",
+                                    "name": "long"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "cv_qualifiers": "const"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "yjcvYN+iBULxlO9Ye2mlCrItu0E=": {
+      "id": "yjcvYN+iBULxlO9Ye2mlCrItu0E=",
+      "name": "i5",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 48
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "D",
+                        "id": "LXTs1uTCF/vevZU29QYVICehLFQ="
+                      },
+                      "cv_qualifiers": "const"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "oFewAAa3bKYS3Sk8SzrCV2pZjwY=": {
+      "id": "oFewAAa3bKYS3Sk8SzrCV2pZjwY=",
+      "name": "h5",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 38
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "specialization",
+                        "name": "B",
+                        "id": "swBEqeWAJoaWVKty+1lCoYUK04A=",
+                        "template_args": [
+                          {
+                            "type": {
+                              "type": {
+                                "named": {
+                                  "name": {
+                                    "kind": "identifier",
+                                    "name": "short"
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "type": {
+                              "type": {
+                                "named": {
+                                  "name": {
+                                    "kind": "identifier",
+                                    "name": "long"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "cv_qualifiers": "const"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "rjNquALg5slBV3zcGK7kbMiR/Oc=": {
+      "id": "rjNquALg5slBV3zcGK7kbMiR/Oc=",
+      "name": "j8",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 61
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "pointer": {
+                      "cv_qualifiers": "const",
+                      "pointee": {
+                        "named": {
+                          "name": {
+                            "kind": "specialization",
+                            "name": "E",
+                            "id": "ikh/cWe22atB10u7UsOKS5W39CA=",
+                            "template_args": [
+                              {
+                                "type": {
+                                  "type": {
+                                    "named": {
+                                      "name": {
+                                        "kind": "identifier",
+                                        "name": "short"
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          "cv_qualifiers": "const"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "spvd/tFS+th4JW6fc601EqTD5hA=": {
+      "id": "spvd/tFS+th4JW6fc601EqTD5hA=",
+      "name": "h7",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 40
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "pointer": {
+                      "pointee": {
+                        "named": {
+                          "name": {
+                            "kind": "specialization",
+                            "name": "B",
+                            "id": "swBEqeWAJoaWVKty+1lCoYUK04A=",
+                            "template_args": [
+                              {
+                                "type": {
+                                  "type": {
+                                    "named": {
+                                      "name": {
+                                        "kind": "identifier",
+                                        "name": "short"
+                                      }
+                                    }
+                                  }
+                                }
+                              },
+                              {
+                                "type": {
+                                  "type": {
+                                    "named": {
+                                      "name": {
+                                        "kind": "identifier",
+                                        "name": "long"
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          "cv_qualifiers": "const"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "oZaT3+tjcRZ1TqV3dDRcibfcIUA=": {
+      "id": "oZaT3+tjcRZ1TqV3dDRcibfcIUA=",
+      "name": "i1",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 44
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "D",
+                    "id": "LXTs1uTCF/vevZU29QYVICehLFQ="
+                  },
+                  "cv_qualifiers": "const"
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "9ssXVWUhTzxQgA12dFAzDjoQsSo=": {
+      "id": "9ssXVWUhTzxQgA12dFAzDjoQsSo=",
+      "name": "i2",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 45
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "lvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "D",
+                        "id": "LXTs1uTCF/vevZU29QYVICehLFQ="
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "lt3C1MYHyvgc69kaQIicxt6GShw=": {
+      "id": "lt3C1MYHyvgc69kaQIicxt6GShw=",
+      "name": "i3",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 46
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "lvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "D",
+                        "id": "LXTs1uTCF/vevZU29QYVICehLFQ="
+                      },
+                      "cv_qualifiers": "const"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "n5ijVugkR+RdqWc8HhULfhumEa8=": {
+      "id": "n5ijVugkR+RdqWc8HhULfhumEa8=",
+      "name": "i6",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 49
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "pointer": {
+                      "pointee": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "D",
+                            "id": "LXTs1uTCF/vevZU29QYVICehLFQ="
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "iegBG/1Lpr/GF9vznbapPd8d6Ws=": {
+      "id": "iegBG/1Lpr/GF9vznbapPd8d6Ws=",
+      "name": "j0",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 53
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "specialization",
+                    "name": "E",
+                    "id": "ikh/cWe22atB10u7UsOKS5W39CA=",
+                    "template_args": [
+                      {
+                        "type": {
+                          "type": {
+                            "named": {
+                              "name": {
+                                "kind": "identifier",
+                                "name": "short"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "al+9zRjNTBZZcU69a8iMD6KngWA=": {
+      "id": "al+9zRjNTBZZcU69a8iMD6KngWA=",
+      "name": "j1",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 54
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "specialization",
+                    "name": "E",
+                    "id": "ikh/cWe22atB10u7UsOKS5W39CA=",
+                    "template_args": [
+                      {
+                        "type": {
+                          "type": {
+                            "named": {
+                              "name": {
+                                "kind": "identifier",
+                                "name": "short"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  "cv_qualifiers": "const"
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "2cJI8v0G+GfLxlnF+d0p52Lt9zE=": {
+      "id": "2cJI8v0G+GfLxlnF+d0p52Lt9zE=",
+      "name": "j2",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 55
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "lvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "specialization",
+                        "name": "E",
+                        "id": "ikh/cWe22atB10u7UsOKS5W39CA=",
+                        "template_args": [
+                          {
+                            "type": {
+                              "type": {
+                                "named": {
+                                  "name": {
+                                    "kind": "identifier",
+                                    "name": "short"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "gGkJqESKyHkjrDimz/Z1Uj2cK+0=": {
+      "id": "gGkJqESKyHkjrDimz/Z1Uj2cK+0=",
+      "name": "j3",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 56
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "lvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "specialization",
+                        "name": "E",
+                        "id": "ikh/cWe22atB10u7UsOKS5W39CA=",
+                        "template_args": [
+                          {
+                            "type": {
+                              "type": {
+                                "named": {
+                                  "name": {
+                                    "kind": "identifier",
+                                    "name": "short"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "cv_qualifiers": "const"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "Mj/s1nUSVoc1ekzTBsQf9pPgkFw=": {
+      "id": "Mj/s1nUSVoc1ekzTBsQf9pPgkFw=",
+      "name": "j4",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 57
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "specialization",
+                        "name": "E",
+                        "id": "ikh/cWe22atB10u7UsOKS5W39CA=",
+                        "template_args": [
+                          {
+                            "type": {
+                              "type": {
+                                "named": {
+                                  "name": {
+                                    "kind": "identifier",
+                                    "name": "short"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "gVVoORJQLKCql9+xiRwm1JBfiBE=": {
+      "id": "gVVoORJQLKCql9+xiRwm1JBfiBE=",
+      "name": "j5",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 58
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "specialization",
+                        "name": "E",
+                        "id": "ikh/cWe22atB10u7UsOKS5W39CA=",
+                        "template_args": [
+                          {
+                            "type": {
+                              "type": {
+                                "named": {
+                                  "name": {
+                                    "kind": "identifier",
+                                    "name": "short"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "cv_qualifiers": "const"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "sprKg2FCJZqWV8vVSeoW2hF5RL8=": {
+      "id": "sprKg2FCJZqWV8vVSeoW2hF5RL8=",
+      "name": "j6",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 59
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "pointer": {
+                      "pointee": {
+                        "named": {
+                          "name": {
+                            "kind": "specialization",
+                            "name": "E",
+                            "id": "ikh/cWe22atB10u7UsOKS5W39CA=",
+                            "template_args": [
+                              {
+                                "type": {
+                                  "type": {
+                                    "named": {
+                                      "name": {
+                                        "kind": "identifier",
+                                        "name": "short"
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "VSCpXF9FwRBZvC4dq2fu0/+CXgY=": {
+      "id": "VSCpXF9FwRBZvC4dq2fu0/+CXgY=",
+      "name": "j7",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "type-resolution.cpp",
+          "source_path": "type-resolution.cpp",
+          "line": 60
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "pointer": {
+                      "pointee": {
+                        "named": {
+                          "name": {
+                            "kind": "specialization",
+                            "name": "E",
+                            "id": "ikh/cWe22atB10u7UsOKS5W39CA=",
+                            "template_args": [
+                              {
+                                "type": {
+                                  "type": {
+                                    "named": {
+                                      "name": {
+                                        "kind": "identifier",
+                                        "name": "short"
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          "cv_qualifiers": "const"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

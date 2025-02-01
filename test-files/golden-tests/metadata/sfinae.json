@@ -1,0 +1,1084 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "Bs19YS1cqZhrsbv149xgnjRFUAk=": {
+      "id": "Bs19YS1cqZhrsbv149xgnjRFUAk=",
+      "name": "f1",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Enabled via return type"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "sfinae.cpp",
+          "source_path": "sfinae.cpp",
+          "line": 5,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "value",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "T"
+                  }
+                }
+              }
+            }
+          ],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ]
+          },
+          "requires": "std::is_integral_v<T>"
+        }
+      }
+    },
+    "HIZ4NeNKvHJFhj0tJIjpjaLL30U=": {
+      "id": "HIZ4NeNKvHJFhj0tJIjpjaLL30U=",
+      "name": "f3",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Enabling a specified return type in another namespace"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "sfinae.cpp",
+          "source_path": "sfinae.cpp",
+          "line": 19,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "C",
+                "id": "r/5vKTgl4cXSK5TnuZ/+P7qmkJ0=",
+                "prefix": {
+                  "kind": "identifier",
+                  "name": "B",
+                  "id": "kPgq2AM8TvyGDGm5jEWfqYlOPmY="
+                }
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "value",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "T"
+                  }
+                }
+              }
+            }
+          ],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ]
+          },
+          "requires": "std::is_integral_v<T>"
+        }
+      }
+    },
+    "uckUKgu5WdbIitoodkl2kXQ7RWI=": {
+      "id": "uckUKgu5WdbIitoodkl2kXQ7RWI=",
+      "name": "f2",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Enabling a specified return type"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "sfinae.cpp",
+          "source_path": "sfinae.cpp",
+          "line": 10,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "value",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "T"
+                  }
+                }
+              }
+            }
+          ],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ]
+          },
+          "requires": "std::is_integral_v<T>"
+        }
+      }
+    },
+    "kPgq2AM8TvyGDGm5jEWfqYlOPmY=": {
+      "id": "kPgq2AM8TvyGDGm5jEWfqYlOPmY=",
+      "name": "B",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "sfinae.cpp",
+          "source_path": "sfinae.cpp",
+          "line": 14
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "g0UNZpdodOU5mGCtcpviXd8o6Vk=": {
+      "id": "g0UNZpdodOU5mGCtcpviXd8o6Vk=",
+      "name": "S",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "SFINAE with std::void_t"
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "sfinae.cpp",
+        "source_path": "sfinae.cpp",
+        "line": 84,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "partial",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ],
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "T"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "type": {
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "specialization",
+                        "name": "void_t",
+                        "id": "ufklklEfToWw3vWwTaylBlmD2VI=",
+                        "prefix": {
+                          "kind": "identifier",
+                          "name": "std",
+                          "id": "eIvg7iueGIPcE8p1NVfngsp2ojw="
+                        },
+                        "template_args": [
+                          {
+                            "type": {
+                              "type": {
+                                "named": {
+                                  "name": {
+                                    "kind": "identifier",
+                                    "name": "b",
+                                    "prefix": {
+                                      "kind": "identifier",
+                                      "name": "a",
+                                      "prefix": {
+                                        "kind": "identifier",
+                                        "name": "T"
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            ],
+            "primary": "IZrmVBMJu1uvsP9zur5JVrwgYmE="
+          },
+          "interface": {
+            "public": {
+              "functions": [
+                "2KfuSRGlpNo9Lk/lk1bhwZqm/BY="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "r/5vKTgl4cXSK5TnuZ/+P7qmkJ0=": {
+      "id": "r/5vKTgl4cXSK5TnuZ/+P7qmkJ0=",
+      "name": "C",
+      "parent": "kPgq2AM8TvyGDGm5jEWfqYlOPmY=",
+      "def_loc": {
+        "short_path": "sfinae.cpp",
+        "source_path": "sfinae.cpp",
+        "line": 15
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "45LJB0/nCsN3KRlVtnRqNrJG818=": {
+      "id": "45LJB0/nCsN3KRlVtnRqNrJG818=",
+      "name": "f4",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Enabled via return type with std::enable_if"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "sfinae.cpp",
+          "source_path": "sfinae.cpp",
+          "line": 24,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "value",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "T"
+                  }
+                }
+              }
+            }
+          ],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ]
+          },
+          "requires": "std::is_integral_v<T>"
+        }
+      }
+    },
+    "a+UWurTVrgCdwaj2WmRbGzoFaPE=": {
+      "id": "a+UWurTVrgCdwaj2WmRbGzoFaPE=",
+      "name": "f5",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Enabled via a non-type template parameter with helper"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "sfinae.cpp",
+          "source_path": "sfinae.cpp",
+          "line": 29,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "value",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "T"
+                  }
+                }
+              }
+            }
+          ],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ],
+            "requires": "std::is_integral_v<T>"
+          }
+        }
+      }
+    },
+    "/yE6fwRwAIxETBjA2qovg6HKvcI=": {
+      "id": "/yE6fwRwAIxETBjA2qovg6HKvcI=",
+      "name": "f6",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Enabled via a non-type template parameter without helper"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "sfinae.cpp",
+          "source_path": "sfinae.cpp",
+          "line": 34,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "value",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "T"
+                  }
+                }
+              }
+            }
+          ],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ],
+            "requires": "std::is_integral_v<T>"
+          }
+        }
+      }
+    },
+    "1hZIKbRpnfaQN31DmwXQdyOuadA=": {
+      "id": "1hZIKbRpnfaQN31DmwXQdyOuadA=",
+      "name": "f7",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Enabled via a non-type template parameter using int instead of bool"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "sfinae.cpp",
+          "source_path": "sfinae.cpp",
+          "line": 39,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "value",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "T"
+                  }
+                }
+              }
+            }
+          ],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ],
+            "requires": "std::is_integral_v<T>"
+          }
+        }
+      }
+    },
+    "Gf4cp25Ok5ZDmOsaPZYkV1j/6kM=": {
+      "id": "Gf4cp25Ok5ZDmOsaPZYkV1j/6kM=",
+      "name": "f8",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Enabled via parameter without helper"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "sfinae.cpp",
+          "source_path": "sfinae.cpp",
+          "line": 43,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "value",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "T"
+                  }
+                }
+              }
+            }
+          ],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ]
+          },
+          "requires": "std::is_integral_v<T>"
+        }
+      }
+    },
+    "nt7dkGV/+Wo4uvfBAeMzChGggJs=": {
+      "id": "nt7dkGV/+Wo4uvfBAeMzChGggJs=",
+      "name": "f9",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Enabled via parameter with helper"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "sfinae.cpp",
+          "source_path": "sfinae.cpp",
+          "line": 48,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "value",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "T"
+                  }
+                }
+              }
+            }
+          ],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ]
+          },
+          "requires": "std::is_integral_v<T>"
+        }
+      }
+    },
+    "MX3B1GMAk3D0sirBOV2sk9C49uw=": {
+      "id": "MX3B1GMAk3D0sirBOV2sk9C49uw=",
+      "name": "f10",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Enabled via type template parameter"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "This pattern should not be used because the function signature is unmodified and therefore only supports one overload."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "It's a common mistake is to declare two function templates that differ only in their default template arguments."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "This does not work because the declarations are treated as redeclarations of the same function template (default template"
+            },
+            {
+              "text": " arguments are not accounted for in function template equivalence)."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "sfinae.cpp",
+          "source_path": "sfinae.cpp",
+          "line": 64,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "value",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "T"
+                  }
+                }
+              }
+            }
+          ],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ],
+            "requires": "std::is_integral_v<T>"
+          }
+        }
+      }
+    },
+    "m/JW900ik2XLYvUdA4MCuWZQd80=": {
+      "id": "m/JW900ik2XLYvUdA4MCuWZQd80=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "The partial specialization of A is enabled via a template parameter"
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "sfinae.cpp",
+        "source_path": "sfinae.cpp",
+        "line": 68,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              },
+              {
+                "type": {
+                  "name": "Enable",
+                  "default": {
+                    "type": {
+                      "type": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "void"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "key": "class"
+                }
+              }
+            ]
+          },
+          "interface": {}
+        }
+      }
+    },
+    "IiCxqBbybfSkEqtDiLE90hOwXD8=": {
+      "id": "IiCxqBbybfSkEqtDiLE90hOwXD8=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Specialization for floating point types"
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "sfinae.cpp",
+        "source_path": "sfinae.cpp",
+        "line": 73,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "template": {
+            "kind": "partial",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ],
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "T"
+                      }
+                    }
+                  }
+                }
+              }
+            ],
+            "requires": "std::is_integral_v<T>",
+            "primary": "m/JW900ik2XLYvUdA4MCuWZQd80="
+          },
+          "interface": {}
+        }
+      }
+    },
+    "IZrmVBMJu1uvsP9zur5JVrwgYmE=": {
+      "id": "IZrmVBMJu1uvsP9zur5JVrwgYmE=",
+      "name": "S",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "SFINAE with std::void_t"
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "sfinae.cpp",
+        "source_path": "sfinae.cpp",
+        "line": 76,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              },
+              {
+                "type": {
+                  "name": "Enable",
+                  "default": {
+                    "type": {
+                      "type": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "void"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "key": "class"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "functions": [
+                "KmwKarrWHSv7aalrBX18hjPbEfs="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "KmwKarrWHSv7aalrBX18hjPbEfs=": {
+      "id": "KmwKarrWHSv7aalrBX18hjPbEfs=",
+      "name": "store",
+      "access": "public",
+      "parent": "IZrmVBMJu1uvsP9zur5JVrwgYmE=",
+      "def_loc": {
+        "short_path": "sfinae.cpp",
+        "source_path": "sfinae.cpp",
+        "line": 79
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "void"
+                      },
+                      "cv_qualifiers": "const"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "ufklklEfToWw3vWwTaylBlmD2VI=": {
+      "id": "ufklklEfToWw3vWwTaylBlmD2VI=",
+      "name": "void_t",
+      "extraction": "dependency",
+      "parent": "/ppH3Z0ubmO1O4tQMYNyXcdud94=",
+      "locations": [
+        {
+          "short_path": "__type_traits/void_t.h",
+          "source_path": "",
+          "line": 21
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "is_using": true,
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "",
+                  "is_parameter_pack": true,
+                  "key": "class"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "/ppH3Z0ubmO1O4tQMYNyXcdud94=": {
+      "id": "/ppH3Z0ubmO1O4tQMYNyXcdud94=",
+      "name": "__1",
+      "extraction": "dependency",
+      "parent": "eIvg7iueGIPcE8p1NVfngsp2ojw=",
+      "locations": [
+        {
+          "short_path": "__type_traits/void_t.h",
+          "source_path": "",
+          "line": 18
+        }
+      ],
+      "inner": {
+        "namespace": {
+          "is_inline": true
+        }
+      }
+    },
+    "2KfuSRGlpNo9Lk/lk1bhwZqm/BY=": {
+      "id": "2KfuSRGlpNo9Lk/lk1bhwZqm/BY=",
+      "name": "store",
+      "access": "public",
+      "parent": "g0UNZpdodOU5mGCtcpviXd8o6Vk=",
+      "def_loc": {
+        "short_path": "sfinae.cpp",
+        "source_path": "sfinae.cpp",
+        "line": 86
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "void"
+                      },
+                      "cv_qualifiers": "const"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "eIvg7iueGIPcE8p1NVfngsp2ojw=": {
+      "id": "eIvg7iueGIPcE8p1NVfngsp2ojw=",
+      "name": "std",
+      "extraction": "dependency",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "__type_traits/void_t.h",
+          "source_path": "",
+          "line": 18
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    }
+  }
+}

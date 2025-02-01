@@ -1,0 +1,72 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "HJGSj0okQR/JSIlbm5chSNvd9c8=": {
+      "id": "HJGSj0okQR/JSIlbm5chSNvd9c8=",
+      "name": "terminate",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Exit the program."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "The program will end immediately."
+            }
+          ]
+        },
+        {
+          "admonition": {
+            "kind": "note",
+            "content": [
+              {
+                "text": "This function does not return."
+              }
+            ]
+          }
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "terminate.cpp",
+          "source_path": "terminate.cpp",
+          "line": 8,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "noexcept": {
+            "implicit": false,
+            "kind": "noexcept"
+          },
+          "is_no_return": true,
+          "attributes": [
+            "noreturn"
+          ]
+        }
+      }
+    }
+  }
+}

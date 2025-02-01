@@ -1,0 +1,668 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "80mHUKSfQIyK2/8/2Pv7Vx6gUbE=": {
+      "id": "80mHUKSfQIyK2/8/2Pv7Vx6gUbE=",
+      "name": "N7",
+      "parent": "Hd7HJHspRdJ75zQ2gjaf37XEVEI=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This namespace should be included because it matches "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "N5::N6::*7"
+              }
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "whitelist_0.cpp",
+          "source_path": "whitelist_0.cpp",
+          "line": 73,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "tySliu/J1lEvVfGwELlCaMsWPUs=": {
+      "id": "tySliu/J1lEvVfGwELlCaMsWPUs=",
+      "name": "N3_WL",
+      "parent": "BjVED4etdK1saUZITQfgE7SCCPI=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This namespace should extracted because it's explicitly included by "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "N1::N3_WL"
+              }
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "whitelist_0.cpp",
+          "source_path": "whitelist_0.cpp",
+          "line": 33,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "YAQKEfxRmUjg43kkhT1n65uziVY=": {
+      "id": "YAQKEfxRmUjg43kkhT1n65uziVY=",
+      "name": "N0",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This namespace should extracted because it's implied by "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "N0::f0_WL"
+              }
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "whitelist_0.cpp",
+          "source_path": "whitelist_0.cpp",
+          "line": 3,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "Wh1//CHkEeCK/Sbv3ShkayyURHI=": {
+      "id": "Wh1//CHkEeCK/Sbv3ShkayyURHI=",
+      "name": "f0_WL",
+      "parent": "YAQKEfxRmUjg43kkhT1n65uziVY=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should be included because it matches "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "N0::f0_WL"
+              }
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "whitelist_0.cpp",
+          "source_path": "whitelist_0.cpp",
+          "line": 7,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "DqNFGUiBz22gD9dvzuf4hmwiMIQ=": {
+      "id": "DqNFGUiBz22gD9dvzuf4hmwiMIQ=",
+      "name": "f1_WL",
+      "parent": "gTTyBBJ//JO3QEp36iu198cetXI=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should extracted because it matches "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "N1::N4::f1_WL"
+              }
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "whitelist_0.cpp",
+          "source_path": "whitelist_0.cpp",
+          "line": 47,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "BjVED4etdK1saUZITQfgE7SCCPI=": {
+      "id": "BjVED4etdK1saUZITQfgE7SCCPI=",
+      "name": "N1",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This namespace should extracted because it's implied by "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "N1::N3_WL"
+              }
+            },
+            {
+              "text": " and "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "N1::N4::f1_WL"
+              }
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "whitelist_0.cpp",
+          "source_path": "whitelist_0.cpp",
+          "line": 16,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "bhpVTks6uYUbdSEnCkcSZ80Va4Y=": {
+      "id": "bhpVTks6uYUbdSEnCkcSZ80Va4Y=",
+      "name": "N5",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This namespace should extracted because it's implied by "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "N5::N6::*7"
+              }
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "whitelist_0.cpp",
+          "source_path": "whitelist_0.cpp",
+          "line": 57,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "eGeX3DO44VLOHBJLdaGkYowxcHk=": {
+      "id": "eGeX3DO44VLOHBJLdaGkYowxcHk=",
+      "name": "f1_WL",
+      "parent": "tySliu/J1lEvVfGwELlCaMsWPUs=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should extracted because the namespace "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "N1::N3_WL"
+              }
+            },
+            {
+              "text": " is included"
+            },
+            {
+              "text": " as a literal."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "whitelist_0.cpp",
+          "source_path": "whitelist_0.cpp",
+          "line": 38,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "gTTyBBJ//JO3QEp36iu198cetXI=": {
+      "id": "gTTyBBJ//JO3QEp36iu198cetXI=",
+      "name": "N4",
+      "parent": "BjVED4etdK1saUZITQfgE7SCCPI=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This namespace should extracted because it's implied by "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "N1::N4::f1_WL"
+              }
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "whitelist_0.cpp",
+          "source_path": "whitelist_0.cpp",
+          "line": 43,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "Hd7HJHspRdJ75zQ2gjaf37XEVEI=": {
+      "id": "Hd7HJHspRdJ75zQ2gjaf37XEVEI=",
+      "name": "N6",
+      "parent": "bhpVTks6uYUbdSEnCkcSZ80Va4Y=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This namespace should extracted because it's implied by "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "N5::N6::*7"
+              }
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "whitelist_0.cpp",
+          "source_path": "whitelist_0.cpp",
+          "line": 65,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "hMy4bR/Pm1VhNdwzbkfuKtLNnL8=": {
+      "id": "hMy4bR/Pm1VhNdwzbkfuKtLNnL8=",
+      "name": "f2_WL",
+      "parent": "80mHUKSfQIyK2/8/2Pv7Vx6gUbE=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should be included because it's a member of "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "N7"
+              }
+            },
+            {
+              "text": ", which matches"
+            },
+            {
+              "text": " "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "N5::N6::*7"
+              }
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "whitelist_0.cpp",
+          "source_path": "whitelist_0.cpp",
+          "line": 78,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "WRUY2j3O9l2Pd1qDymu1ksSw07c=": {
+      "id": "WRUY2j3O9l2Pd1qDymu1ksSw07c=",
+      "name": "D",
+      "access": "public",
+      "parent": "BrX2oZup9qgy4SfJloKCuUYZshA=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This struct should be included because it's a member of "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "C"
+              }
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "whitelist_0.cpp",
+        "source_path": "whitelist_0.cpp",
+        "line": 113,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "/QkJ00FbaOOH1IQKxpOPbklxM0c="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "oQQ87evv0wAHmyyua78i6ilqQiY=": {
+      "id": "oQQ87evv0wAHmyyua78i6ilqQiY=",
+      "name": "M7",
+      "parent": "Hd7HJHspRdJ75zQ2gjaf37XEVEI=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This namespace should be included because it matches "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "N5::N6::*7"
+              }
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "whitelist_0.cpp",
+          "source_path": "whitelist_0.cpp",
+          "line": 83,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "UUaWPiTlYnVSUAmT0IVfux0AGyM=": {
+      "id": "UUaWPiTlYnVSUAmT0IVfux0AGyM=",
+      "name": "f2_WL",
+      "parent": "oQQ87evv0wAHmyyua78i6ilqQiY=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should be included because it's a member of "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "M7"
+              }
+            },
+            {
+              "text": ", which matches"
+            },
+            {
+              "text": " "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "N5::N6::*7"
+              }
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "whitelist_0.cpp",
+          "source_path": "whitelist_0.cpp",
+          "line": 88,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "BrX2oZup9qgy4SfJloKCuUYZshA=": {
+      "id": "BrX2oZup9qgy4SfJloKCuUYZshA=",
+      "name": "C",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This namespace should be included because it strictly matches "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "C"
+              }
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "whitelist_0.cpp",
+        "source_path": "whitelist_0.cpp",
+        "line": 105,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "records": [
+                "WRUY2j3O9l2Pd1qDymu1ksSw07c="
+              ],
+              "functions": [
+                "vL6CN4hW4T9Ah0GmoIu9Hx4iaPo="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "vL6CN4hW4T9Ah0GmoIu9Hx4iaPo=": {
+      "id": "vL6CN4hW4T9Ah0GmoIu9Hx4iaPo=",
+      "name": "f0_WL",
+      "access": "public",
+      "parent": "BrX2oZup9qgy4SfJloKCuUYZshA=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should be included because it's a member of "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "C"
+              }
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "whitelist_0.cpp",
+          "source_path": "whitelist_0.cpp",
+          "line": 109,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "/QkJ00FbaOOH1IQKxpOPbklxM0c=": {
+      "id": "/QkJ00FbaOOH1IQKxpOPbklxM0c=",
+      "name": "f1_WL",
+      "access": "public",
+      "parent": "WRUY2j3O9l2Pd1qDymu1ksSw07c=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should be included because it's a member of "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "D"
+              }
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "whitelist_0.cpp",
+          "source_path": "whitelist_0.cpp",
+          "line": 116,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    }
+  }
+}

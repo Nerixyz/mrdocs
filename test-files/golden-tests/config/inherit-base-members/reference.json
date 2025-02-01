@@ -1,0 +1,1120 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "b/SJfpRTBcDcMpEojw5ICCIYqj4=": {
+      "id": "b/SJfpRTBcDcMpEojw5ICCIYqj4=",
+      "name": "base_shadowed",
+      "access": "public",
+      "extraction": "dependency",
+      "parent": "ZFBKKIr2vNG5u3bxIaTbccBBkvQ=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should be shadowed by the base class."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "reference.cpp",
+          "source_path": "reference.cpp",
+          "line": 6,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "lvalue_reference": {
+              "pointee": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "excluded_base",
+                    "id": "ZFBKKIr2vNG5u3bxIaTbccBBkvQ="
+                  }
+                }
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "v0BroyWjs67MHzc1SyTlXrSxn8M=": {
+      "id": "v0BroyWjs67MHzc1SyTlXrSxn8M=",
+      "name": "base_inherited",
+      "access": "public",
+      "parent": "sk8HTAQHhzXfZej4IJliADonAJQ=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should be inherited by derived classes."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "reference.cpp",
+          "source_path": "reference.cpp",
+          "line": 36,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "lvalue_reference": {
+              "pointee": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "base",
+                    "id": "sk8HTAQHhzXfZej4IJliADonAJQ="
+                  }
+                }
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "/PcbLGG9Q7grLgSOV/R/ZnEg9Cs=": {
+      "id": "/PcbLGG9Q7grLgSOV/R/ZnEg9Cs=",
+      "name": "base_base",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "reference.cpp",
+        "source_path": "reference.cpp",
+        "line": 18
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "interface": {
+            "public": {
+              "functions": [
+                "2D7yc6q3buDhuPwzpn4pWzbu8ls=",
+                "MEPVWyGd8KdZFR1kBYlQMgPyQlo="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "aYhSUMJkgCRo3AZmBb/rre04Ghg=": {
+      "id": "aYhSUMJkgCRo3AZmBb/rre04Ghg=",
+      "name": "derived_shadowed",
+      "access": "public",
+      "parent": "sk8HTAQHhzXfZej4IJliADonAJQ=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should be shadowed by derived classes."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "reference.cpp",
+          "source_path": "reference.cpp",
+          "line": 32,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "lvalue_reference": {
+              "pointee": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "base",
+                    "id": "sk8HTAQHhzXfZej4IJliADonAJQ="
+                  }
+                }
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "2D7yc6q3buDhuPwzpn4pWzbu8ls=": {
+      "id": "2D7yc6q3buDhuPwzpn4pWzbu8ls=",
+      "name": "base_base_inherited",
+      "access": "public",
+      "parent": "/PcbLGG9Q7grLgSOV/R/ZnEg9Cs=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should be indirectly inherited by derived classes."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "reference.cpp",
+          "source_path": "reference.cpp",
+          "line": 21,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "lvalue_reference": {
+              "pointee": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "base_base",
+                    "id": "/PcbLGG9Q7grLgSOV/R/ZnEg9Cs="
+                  }
+                }
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "MEPVWyGd8KdZFR1kBYlQMgPyQlo=": {
+      "id": "MEPVWyGd8KdZFR1kBYlQMgPyQlo=",
+      "name": "do_base_base_inherited",
+      "access": "public",
+      "parent": "/PcbLGG9Q7grLgSOV/R/ZnEg9Cs=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should be indirectly inherited by derived classes."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "reference.cpp",
+          "source_path": "reference.cpp",
+          "line": 24,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "lvalue_reference": {
+              "pointee": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "base_base",
+                    "id": "/PcbLGG9Q7grLgSOV/R/ZnEg9Cs="
+                  }
+                }
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "ECBBLxlaKar55qA0k1BCFn6MdH8=": {
+      "id": "ECBBLxlaKar55qA0k1BCFn6MdH8=",
+      "name": "base_shadowed",
+      "access": "public",
+      "parent": "sk8HTAQHhzXfZej4IJliADonAJQ=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should shadow the excluded_base function."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "reference.cpp",
+          "source_path": "reference.cpp",
+          "line": 34,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "lvalue_reference": {
+              "pointee": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "base",
+                    "id": "sk8HTAQHhzXfZej4IJliADonAJQ="
+                  }
+                }
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "9wqRoOH7cwNhkz5vwpTHLeb01BY=": {
+      "id": "9wqRoOH7cwNhkz5vwpTHLeb01BY=",
+      "name": "derived_shadowed",
+      "access": "public",
+      "parent": "aiF6nWGZXbG8UfC75J5tNuoPMRc=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should shadow the base class function."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "reference.cpp",
+          "source_path": "reference.cpp",
+          "line": 77,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "lvalue_reference": {
+              "pointee": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "private_derived",
+                    "id": "aiF6nWGZXbG8UfC75J5tNuoPMRc="
+                  }
+                }
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "sk8HTAQHhzXfZej4IJliADonAJQ=": {
+      "id": "sk8HTAQHhzXfZej4IJliADonAJQ=",
+      "name": "base",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "reference.cpp",
+        "source_path": "reference.cpp",
+        "line": 27
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "base_base",
+                    "id": "/PcbLGG9Q7grLgSOV/R/ZnEg9Cs="
+                  }
+                }
+              },
+              "access": "public"
+            }
+          ],
+          "interface": {
+            "public": {
+              "functions": [
+                "aYhSUMJkgCRo3AZmBb/rre04Ghg=",
+                "ECBBLxlaKar55qA0k1BCFn6MdH8=",
+                "v0BroyWjs67MHzc1SyTlXrSxn8M=",
+                "2D7yc6q3buDhuPwzpn4pWzbu8ls=",
+                "MEPVWyGd8KdZFR1kBYlQMgPyQlo="
+              ]
+            },
+            "protected": {
+              "functions": [
+                "KGOrnDVJV2nPDK1hlkvBm6diYXY=",
+                "eHxe3z0iWUXdcNyXK0PD2+6DRbs=",
+                "TaKAQiDmx8UXkT9p/momqiOZyHU="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "KGOrnDVJV2nPDK1hlkvBm6diYXY=": {
+      "id": "KGOrnDVJV2nPDK1hlkvBm6diYXY=",
+      "name": "do_derived_shadowed",
+      "access": "protected",
+      "parent": "sk8HTAQHhzXfZej4IJliADonAJQ=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should be shadowed by derived classes."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "reference.cpp",
+          "source_path": "reference.cpp",
+          "line": 39,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "lvalue_reference": {
+              "pointee": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "base",
+                    "id": "sk8HTAQHhzXfZej4IJliADonAJQ="
+                  }
+                }
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "eHxe3z0iWUXdcNyXK0PD2+6DRbs=": {
+      "id": "eHxe3z0iWUXdcNyXK0PD2+6DRbs=",
+      "name": "do_base_shadowed",
+      "access": "protected",
+      "parent": "sk8HTAQHhzXfZej4IJliADonAJQ=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should shadow the excluded_base function."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "reference.cpp",
+          "source_path": "reference.cpp",
+          "line": 41,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "lvalue_reference": {
+              "pointee": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "base",
+                    "id": "sk8HTAQHhzXfZej4IJliADonAJQ="
+                  }
+                }
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "TaKAQiDmx8UXkT9p/momqiOZyHU=": {
+      "id": "TaKAQiDmx8UXkT9p/momqiOZyHU=",
+      "name": "do_base_inherited",
+      "access": "protected",
+      "parent": "sk8HTAQHhzXfZej4IJliADonAJQ=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should be inherited by derived classes."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "reference.cpp",
+          "source_path": "reference.cpp",
+          "line": 43,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "lvalue_reference": {
+              "pointee": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "base",
+                    "id": "sk8HTAQHhzXfZej4IJliADonAJQ="
+                  }
+                }
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "ABxWcxit2TyVLv16ZxoJKAc6LKw=": {
+      "id": "ABxWcxit2TyVLv16ZxoJKAc6LKw=",
+      "name": "derived",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "reference.cpp",
+        "source_path": "reference.cpp",
+        "line": 46
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "base",
+                    "id": "sk8HTAQHhzXfZej4IJliADonAJQ="
+                  }
+                }
+              },
+              "access": "public"
+            },
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "excluded_base",
+                    "id": "ZFBKKIr2vNG5u3bxIaTbccBBkvQ="
+                  }
+                }
+              },
+              "access": "public"
+            }
+          ],
+          "interface": {
+            "public": {
+              "functions": [
+                "MGQhB2O6ghdJWit6wao+PsH30Ew=",
+                "rTSnS8Pv8GoWusQQE42y0pgN4cw=",
+                "ECBBLxlaKar55qA0k1BCFn6MdH8=",
+                "v0BroyWjs67MHzc1SyTlXrSxn8M=",
+                "2D7yc6q3buDhuPwzpn4pWzbu8ls=",
+                "MEPVWyGd8KdZFR1kBYlQMgPyQlo="
+              ]
+            },
+            "protected": {
+              "functions": [
+                "KGOrnDVJV2nPDK1hlkvBm6diYXY=",
+                "eHxe3z0iWUXdcNyXK0PD2+6DRbs=",
+                "TaKAQiDmx8UXkT9p/momqiOZyHU="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "ZFBKKIr2vNG5u3bxIaTbccBBkvQ=": {
+      "id": "ZFBKKIr2vNG5u3bxIaTbccBBkvQ=",
+      "name": "excluded_base",
+      "extraction": "dependency",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "reference.cpp",
+        "source_path": "reference.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "interface": {
+            "public": {
+              "functions": [
+                "QNyB2prTJqpVHgvFACnNa3dNG/A=",
+                "b/SJfpRTBcDcMpEojw5ICCIYqj4=",
+                "3KgmzPFIEDAPch5J7b50tB0kOhs="
+              ]
+            },
+            "protected": {
+              "functions": [
+                "6bhF0IXX9T5mWiOEYA05/+wPQ9k=",
+                "uJMmCUOsoZAgIG18kX071qHnwFc=",
+                "7Savl5VeuMBrHd8r5h1yrrPmj1A="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "QNyB2prTJqpVHgvFACnNa3dNG/A=": {
+      "id": "QNyB2prTJqpVHgvFACnNa3dNG/A=",
+      "name": "derived_shadowed",
+      "access": "public",
+      "extraction": "dependency",
+      "parent": "ZFBKKIr2vNG5u3bxIaTbccBBkvQ=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should be shadowed by derived classes."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "reference.cpp",
+          "source_path": "reference.cpp",
+          "line": 4,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "lvalue_reference": {
+              "pointee": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "excluded_base",
+                    "id": "ZFBKKIr2vNG5u3bxIaTbccBBkvQ="
+                  }
+                }
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "7Savl5VeuMBrHd8r5h1yrrPmj1A=": {
+      "id": "7Savl5VeuMBrHd8r5h1yrrPmj1A=",
+      "name": "do_excluded_inherited",
+      "access": "protected",
+      "extraction": "dependency",
+      "parent": "ZFBKKIr2vNG5u3bxIaTbccBBkvQ=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should be inherited by derived classes."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "reference.cpp",
+          "source_path": "reference.cpp",
+          "line": 15,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "lvalue_reference": {
+              "pointee": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "excluded_base",
+                    "id": "ZFBKKIr2vNG5u3bxIaTbccBBkvQ="
+                  }
+                }
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "NJYWKnKWmizdaSr1ldC7FGh7fD0=": {
+      "id": "NJYWKnKWmizdaSr1ldC7FGh7fD0=",
+      "name": "do_derived_shadowed",
+      "access": "public",
+      "parent": "aiF6nWGZXbG8UfC75J5tNuoPMRc=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should shadow the base class function."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "reference.cpp",
+          "source_path": "reference.cpp",
+          "line": 80,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "lvalue_reference": {
+              "pointee": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "private_derived",
+                    "id": "aiF6nWGZXbG8UfC75J5tNuoPMRc="
+                  }
+                }
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "3KgmzPFIEDAPch5J7b50tB0kOhs=": {
+      "id": "3KgmzPFIEDAPch5J7b50tB0kOhs=",
+      "name": "excluded_inherited",
+      "access": "public",
+      "extraction": "dependency",
+      "parent": "ZFBKKIr2vNG5u3bxIaTbccBBkvQ=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should be inherited by derived classes."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "reference.cpp",
+          "source_path": "reference.cpp",
+          "line": 8,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "lvalue_reference": {
+              "pointee": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "excluded_base",
+                    "id": "ZFBKKIr2vNG5u3bxIaTbccBBkvQ="
+                  }
+                }
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "6bhF0IXX9T5mWiOEYA05/+wPQ9k=": {
+      "id": "6bhF0IXX9T5mWiOEYA05/+wPQ9k=",
+      "name": "do_shadowed",
+      "access": "protected",
+      "extraction": "dependency",
+      "parent": "ZFBKKIr2vNG5u3bxIaTbccBBkvQ=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should be shadowed by derived classes."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "reference.cpp",
+          "source_path": "reference.cpp",
+          "line": 11,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "lvalue_reference": {
+              "pointee": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "excluded_base",
+                    "id": "ZFBKKIr2vNG5u3bxIaTbccBBkvQ="
+                  }
+                }
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "uJMmCUOsoZAgIG18kX071qHnwFc=": {
+      "id": "uJMmCUOsoZAgIG18kX071qHnwFc=",
+      "name": "do_base_shadowed",
+      "access": "protected",
+      "extraction": "dependency",
+      "parent": "ZFBKKIr2vNG5u3bxIaTbccBBkvQ=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should be shadowed by the base class."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "reference.cpp",
+          "source_path": "reference.cpp",
+          "line": 13,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "lvalue_reference": {
+              "pointee": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "excluded_base",
+                    "id": "ZFBKKIr2vNG5u3bxIaTbccBBkvQ="
+                  }
+                }
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "rTSnS8Pv8GoWusQQE42y0pgN4cw=": {
+      "id": "rTSnS8Pv8GoWusQQE42y0pgN4cw=",
+      "name": "do_derived_shadowed",
+      "access": "public",
+      "parent": "ABxWcxit2TyVLv16ZxoJKAc6LKw=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should shadow the base class function."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "reference.cpp",
+          "source_path": "reference.cpp",
+          "line": 55,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "lvalue_reference": {
+              "pointee": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "derived",
+                    "id": "ABxWcxit2TyVLv16ZxoJKAc6LKw="
+                  }
+                }
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "MGQhB2O6ghdJWit6wao+PsH30Ew=": {
+      "id": "MGQhB2O6ghdJWit6wao+PsH30Ew=",
+      "name": "derived_shadowed",
+      "access": "public",
+      "parent": "ABxWcxit2TyVLv16ZxoJKAc6LKw=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should shadow the base class function."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "reference.cpp",
+          "source_path": "reference.cpp",
+          "line": 52,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "lvalue_reference": {
+              "pointee": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "derived",
+                    "id": "ABxWcxit2TyVLv16ZxoJKAc6LKw="
+                  }
+                }
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "KpfFXd3FeSffU3rGswegSIkkCrM=": {
+      "id": "KpfFXd3FeSffU3rGswegSIkkCrM=",
+      "name": "protected_derived",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Should inherit functions as protected."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "reference.cpp",
+        "source_path": "reference.cpp",
+        "line": 59,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "base",
+                    "id": "sk8HTAQHhzXfZej4IJliADonAJQ="
+                  }
+                }
+              },
+              "access": "protected"
+            },
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "excluded_base",
+                    "id": "ZFBKKIr2vNG5u3bxIaTbccBBkvQ="
+                  }
+                }
+              },
+              "access": "protected"
+            }
+          ],
+          "interface": {
+            "public": {
+              "functions": [
+                "oVVGDloOS5F7d4VIcKLc0YpnsiE=",
+                "4ZJznHda5QNdk/tsMca4Psswlj0="
+              ]
+            },
+            "protected": {
+              "functions": [
+                "aYhSUMJkgCRo3AZmBb/rre04Ghg=",
+                "ECBBLxlaKar55qA0k1BCFn6MdH8=",
+                "v0BroyWjs67MHzc1SyTlXrSxn8M=",
+                "2D7yc6q3buDhuPwzpn4pWzbu8ls=",
+                "MEPVWyGd8KdZFR1kBYlQMgPyQlo=",
+                "KGOrnDVJV2nPDK1hlkvBm6diYXY=",
+                "eHxe3z0iWUXdcNyXK0PD2+6DRbs=",
+                "TaKAQiDmx8UXkT9p/momqiOZyHU="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "oVVGDloOS5F7d4VIcKLc0YpnsiE=": {
+      "id": "oVVGDloOS5F7d4VIcKLc0YpnsiE=",
+      "name": "derived_shadowed",
+      "access": "public",
+      "parent": "KpfFXd3FeSffU3rGswegSIkkCrM=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should shadow the base class function."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "reference.cpp",
+          "source_path": "reference.cpp",
+          "line": 65,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "lvalue_reference": {
+              "pointee": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "protected_derived",
+                    "id": "KpfFXd3FeSffU3rGswegSIkkCrM="
+                  }
+                }
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "4ZJznHda5QNdk/tsMca4Psswlj0=": {
+      "id": "4ZJznHda5QNdk/tsMca4Psswlj0=",
+      "name": "do_derived_shadowed",
+      "access": "public",
+      "parent": "KpfFXd3FeSffU3rGswegSIkkCrM=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "This function should shadow the base class function."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "reference.cpp",
+          "source_path": "reference.cpp",
+          "line": 68,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "lvalue_reference": {
+              "pointee": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "protected_derived",
+                    "id": "KpfFXd3FeSffU3rGswegSIkkCrM="
+                  }
+                }
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "aiF6nWGZXbG8UfC75J5tNuoPMRc=": {
+      "id": "aiF6nWGZXbG8UfC75J5tNuoPMRc=",
+      "name": "private_derived",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "reference.cpp",
+        "source_path": "reference.cpp",
+        "line": 71
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "base",
+                    "id": "sk8HTAQHhzXfZej4IJliADonAJQ="
+                  }
+                }
+              },
+              "access": "private"
+            },
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "excluded_base",
+                    "id": "ZFBKKIr2vNG5u3bxIaTbccBBkvQ="
+                  }
+                }
+              },
+              "access": "private"
+            }
+          ],
+          "interface": {
+            "public": {
+              "functions": [
+                "9wqRoOH7cwNhkz5vwpTHLeb01BY=",
+                "NJYWKnKWmizdaSr1ldC7FGh7fD0="
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

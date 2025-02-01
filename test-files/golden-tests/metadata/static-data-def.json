@@ -1,0 +1,403 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "0Xh4ypD2+Eipbqc5Z8n4fEkXZ8c=": {
+      "id": "0Xh4ypD2+Eipbqc5Z8n4fEkXZ8c=",
+      "name": "v6",
+      "access": "public",
+      "parent": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "def_loc": {
+        "short_path": "static-data-def.cpp",
+        "source_path": "static-data-def.cpp",
+        "line": 11
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              },
+              "cv_qualifiers": "const"
+            }
+          },
+          "initializer": "6",
+          "storage_class": "static",
+          "is_inline": true
+        }
+      }
+    },
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "e48c97dC3AIWJHWE5T0yWVxezgg=": {
+      "id": "e48c97dC3AIWJHWE5T0yWVxezgg=",
+      "name": "v2",
+      "access": "public",
+      "parent": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "def_loc": {
+        "short_path": "static-data-def.cpp",
+        "source_path": "static-data-def.cpp",
+        "line": 27
+      },
+      "locations": [
+        {
+          "short_path": "static-data-def.cpp",
+          "source_path": "static-data-def.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "initializer": "2",
+          "storage_class": "static",
+          "is_inline": true,
+          "is_constexpr": true
+        }
+      }
+    },
+    "5tUSuMtQqtYE49jBjSYSWp0DJAM=": {
+      "id": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "static-data-def.cpp",
+        "source_path": "static-data-def.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "static_variables": [
+                "rW6h+mCfZLROHlYzwXFIUPN6oSE=",
+                "nkB0lMmDvMsu9GDrKr3Mzwi5g6I=",
+                "e48c97dC3AIWJHWE5T0yWVxezgg=",
+                "Wx5S5oWv5o4nV7I+zFEKTvWl40g=",
+                "6a2wBN4mHiuAAqV0gYgYQeqFNVM=",
+                "Q96okKllwtE2Tg+t7HAkms6flbk=",
+                "0Xh4ypD2+Eipbqc5Z8n4fEkXZ8c=",
+                "VCnmz8Cp9RtJzQQQ7yw57uzbQAY="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "rW6h+mCfZLROHlYzwXFIUPN6oSE=": {
+      "id": "rW6h+mCfZLROHlYzwXFIUPN6oSE=",
+      "name": "v0",
+      "access": "public",
+      "parent": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "def_loc": {
+        "short_path": "static-data-def.cpp",
+        "source_path": "static-data-def.cpp",
+        "line": 21
+      },
+      "locations": [
+        {
+          "short_path": "static-data-def.cpp",
+          "source_path": "static-data-def.cpp",
+          "line": 4
+        }
+      ],
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "initializer": "0",
+          "storage_class": "static"
+        }
+      }
+    },
+    "nkB0lMmDvMsu9GDrKr3Mzwi5g6I=": {
+      "id": "nkB0lMmDvMsu9GDrKr3Mzwi5g6I=",
+      "name": "v1",
+      "access": "public",
+      "parent": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "def_loc": {
+        "short_path": "static-data-def.cpp",
+        "source_path": "static-data-def.cpp",
+        "line": 24
+      },
+      "locations": [
+        {
+          "short_path": "static-data-def.cpp",
+          "source_path": "static-data-def.cpp",
+          "line": 5
+        }
+      ],
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "initializer": "1",
+          "storage_class": "static",
+          "is_inline": true
+        }
+      }
+    },
+    "Wx5S5oWv5o4nV7I+zFEKTvWl40g=": {
+      "id": "Wx5S5oWv5o4nV7I+zFEKTvWl40g=",
+      "name": "v3",
+      "access": "public",
+      "parent": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "def_loc": {
+        "short_path": "static-data-def.cpp",
+        "source_path": "static-data-def.cpp",
+        "line": 30
+      },
+      "locations": [
+        {
+          "short_path": "static-data-def.cpp",
+          "source_path": "static-data-def.cpp",
+          "line": 7
+        }
+      ],
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              },
+              "cv_qualifiers": "const"
+            }
+          },
+          "initializer": "3",
+          "storage_class": "static",
+          "is_inline": true
+        }
+      }
+    },
+    "6a2wBN4mHiuAAqV0gYgYQeqFNVM=": {
+      "id": "6a2wBN4mHiuAAqV0gYgYQeqFNVM=",
+      "name": "v4",
+      "access": "public",
+      "parent": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "def_loc": {
+        "short_path": "static-data-def.cpp",
+        "source_path": "static-data-def.cpp",
+        "line": 33
+      },
+      "locations": [
+        {
+          "short_path": "static-data-def.cpp",
+          "source_path": "static-data-def.cpp",
+          "line": 8
+        }
+      ],
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              },
+              "cv_qualifiers": "const"
+            }
+          },
+          "initializer": "4",
+          "storage_class": "static"
+        }
+      }
+    },
+    "Q96okKllwtE2Tg+t7HAkms6flbk=": {
+      "id": "Q96okKllwtE2Tg+t7HAkms6flbk=",
+      "name": "v5",
+      "access": "public",
+      "parent": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "def_loc": {
+        "short_path": "static-data-def.cpp",
+        "source_path": "static-data-def.cpp",
+        "line": 10
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "initializer": "5",
+          "storage_class": "static",
+          "is_inline": true
+        }
+      }
+    },
+    "VCnmz8Cp9RtJzQQQ7yw57uzbQAY=": {
+      "id": "VCnmz8Cp9RtJzQQQ7yw57uzbQAY=",
+      "name": "v7",
+      "access": "public",
+      "parent": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "def_loc": {
+        "short_path": "static-data-def.cpp",
+        "source_path": "static-data-def.cpp",
+        "line": 12
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "initializer": "7",
+          "storage_class": "static",
+          "is_inline": true,
+          "is_constexpr": true
+        }
+      }
+    },
+    "3JsK1DO0O+wZhv+0meptQrbs3fY=": {
+      "id": "3JsK1DO0O+wZhv+0meptQrbs3fY=",
+      "name": "B",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "static-data-def.cpp",
+        "source_path": "static-data-def.cpp",
+        "line": 15
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "static_variables": [
+                "+yhNlGuTVY4spCfBXSTBkEDzi30=",
+                "vNYWHh2ovZiBP3uVEeJhMkaiF3w="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "+yhNlGuTVY4spCfBXSTBkEDzi30=": {
+      "id": "+yhNlGuTVY4spCfBXSTBkEDzi30=",
+      "name": "x0",
+      "access": "public",
+      "parent": "3JsK1DO0O+wZhv+0meptQrbs3fY=",
+      "def_loc": {
+        "short_path": "static-data-def.cpp",
+        "source_path": "static-data-def.cpp",
+        "line": 49
+      },
+      "locations": [
+        {
+          "short_path": "static-data-def.cpp",
+          "source_path": "static-data-def.cpp",
+          "line": 17
+        }
+      ],
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              },
+              "cv_qualifiers": "const"
+            }
+          },
+          "initializer": "0",
+          "storage_class": "static",
+          "is_thread_local": true
+        }
+      }
+    },
+    "vNYWHh2ovZiBP3uVEeJhMkaiF3w=": {
+      "id": "vNYWHh2ovZiBP3uVEeJhMkaiF3w=",
+      "name": "x1",
+      "access": "public",
+      "parent": "3JsK1DO0O+wZhv+0meptQrbs3fY=",
+      "def_loc": {
+        "short_path": "static-data-def.cpp",
+        "source_path": "static-data-def.cpp",
+        "line": 18
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "initializer": "0",
+          "storage_class": "static",
+          "is_inline": true,
+          "is_constexpr": true,
+          "is_thread_local": true
+        }
+      }
+    },
+    "s6nsa+zVhpzzrN+yUVPP5rvdXqs=": {
+      "id": "s6nsa+zVhpzzrN+yUVPP5rvdXqs=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "static-data-def.cpp",
+        "source_path": "static-data-def.cpp",
+        "line": 36
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "auto": {
+              "keyword": "auto"
+            }
+          },
+          "params": []
+        }
+      }
+    }
+  }
+}

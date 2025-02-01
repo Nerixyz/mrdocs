@@ -1,0 +1,136 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "zlkXfDmjJpYtp7dk60AvntW+WFM=": {
+      "id": "zlkXfDmjJpYtp7dk60AvntW+WFM=",
+      "name": "f0",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "tparam": {
+            "name": "T",
+            "content": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "tparam-1.cpp",
+          "source_path": "tparam-1.cpp",
+          "line": 2,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "5Sh/JptAi+QRDezCKRenByFsQ+I=": {
+      "id": "5Sh/JptAi+QRDezCKRenByFsQ+I=",
+      "name": "f1",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "tparam": {
+            "name": "T",
+            "content": [
+              {
+                "text": "type"
+              }
+            ]
+          }
+        },
+        {
+          "tparam": {
+            "name": "T",
+            "content": [
+              {
+                "text": "type"
+              }
+            ]
+          }
+        },
+        {
+          "paragraph": [
+            {
+              "text": "brief"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "desc"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "tparam-1.cpp",
+          "source_path": "tparam-1.cpp",
+          "line": 6,
+          "documented": true
+        },
+        {
+          "short_path": "tparam-1.cpp",
+          "source_path": "tparam-1.cpp",
+          "line": 15,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

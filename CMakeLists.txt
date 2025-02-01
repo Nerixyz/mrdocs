@@ -389,7 +389,7 @@ if (MRDOCS_BUILD_TESTS)
     endif ()
     target_compile_definitions(mrdocs-test PRIVATE -DMRDOCS_TEST_FILES_DIR="${CMAKE_CURRENT_SOURCE_DIR}/test-files")
     add_test(NAME mrdocs-unit-tests COMMAND mrdocs-test --unit=true)
-    foreach (testgenerator IN ITEMS xml adoc html)
+    foreach (testgenerator IN ITEMS xml adoc html json)
         add_test(NAME mrdocs-golden-tests-${testgenerator}
             COMMAND
                 mrdocs-test
@@ -402,6 +402,8 @@ if (MRDOCS_BUILD_TESTS)
                 "--stdlib-includes=${STDLIB_INCLUDE_DIR}"
                 "--libc-includes=${CMAKE_SOURCE_DIR}/share/mrdocs/headers/libc-stubs"
                 --log-level=warn
+                --pretty-output=true
+                --full-paths=false
         )
         foreach (action IN ITEMS test create update)
             add_custom_target(
@@ -417,6 +419,8 @@ if (MRDOCS_BUILD_TESTS)
                     "--stdlib-includes=${STDLIB_INCLUDE_DIR}"
                     "--libc-includes=${CMAKE_SOURCE_DIR}/share/mrdocs/headers/libc-stubs"
                     --log-level=warn
+                    --pretty-output=true
+                    --full-paths=false
                 DEPENDS mrdocs-test
             )
         endforeach ()

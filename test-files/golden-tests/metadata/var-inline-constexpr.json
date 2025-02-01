@@ -1,0 +1,304 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "/HfsnrPPmN325zi27Blg78dY0HE=": {
+      "id": "/HfsnrPPmN325zi27Blg78dY0HE=",
+      "name": "var_inline_constexpr",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "var-inline-constexpr.cpp",
+        "source_path": "var-inline-constexpr.cpp",
+        "line": 1
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "initializer": "1",
+          "is_inline": true,
+          "is_constexpr": true
+        }
+      }
+    },
+    "fWXHXBdM9s2COMhYT0j3aWad+0I=": {
+      "id": "fWXHXBdM9s2COMhYT0j3aWad+0I=",
+      "name": "var_constexpr",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "var-inline-constexpr.cpp",
+        "source_path": "var-inline-constexpr.cpp",
+        "line": 3
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "initializer": "2",
+          "is_constexpr": true
+        }
+      }
+    },
+    "pn99V2QzcOsMfIXOuUkZkX5qPxM=": {
+      "id": "pn99V2QzcOsMfIXOuUkZkX5qPxM=",
+      "name": "var_inline_const",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "var-inline-constexpr.cpp",
+        "source_path": "var-inline-constexpr.cpp",
+        "line": 5
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              },
+              "cv_qualifiers": "const"
+            }
+          },
+          "initializer": "3",
+          "is_inline": true
+        }
+      }
+    },
+    "zUgw7RZYhWQ0Wdr483M4dEkcXFU=": {
+      "id": "zUgw7RZYhWQ0Wdr483M4dEkcXFU=",
+      "name": "var_const",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "var-inline-constexpr.cpp",
+        "source_path": "var-inline-constexpr.cpp",
+        "line": 7
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              },
+              "cv_qualifiers": "const"
+            }
+          },
+          "initializer": "4"
+        }
+      }
+    },
+    "9s8AEcaO/PYLDINeClULQZuqcls=": {
+      "id": "9s8AEcaO/PYLDINeClULQZuqcls=",
+      "name": "var",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "var-inline-constexpr.cpp",
+        "source_path": "var-inline-constexpr.cpp",
+        "line": 9
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "initializer": "5"
+        }
+      }
+    },
+    "Ix017ZAiVi07tMCvlM1DJ9AE5sk=": {
+      "id": "Ix017ZAiVi07tMCvlM1DJ9AE5sk=",
+      "name": "var_inline_constexpr_t",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "var-inline-constexpr.cpp",
+        "source_path": "var-inline-constexpr.cpp",
+        "line": 11
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T"
+              }
+            }
+          },
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ]
+          },
+          "is_inline": true,
+          "is_constexpr": true
+        }
+      }
+    },
+    "+c5FvmsSJNn7o5ii4DyReMV38C4=": {
+      "id": "+c5FvmsSJNn7o5ii4DyReMV38C4=",
+      "name": "var_constexpr_t",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "var-inline-constexpr.cpp",
+        "source_path": "var-inline-constexpr.cpp",
+        "line": 14
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T"
+              }
+            }
+          },
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ]
+          },
+          "is_constexpr": true
+        }
+      }
+    },
+    "eeYDvHDDTr7yHd4hDvbGxxhRsdg=": {
+      "id": "eeYDvHDDTr7yHd4hDvbGxxhRsdg=",
+      "name": "var_inline_const_t",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "var-inline-constexpr.cpp",
+        "source_path": "var-inline-constexpr.cpp",
+        "line": 17
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T"
+              },
+              "cv_qualifiers": "const"
+            }
+          },
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ]
+          },
+          "is_inline": true
+        }
+      }
+    },
+    "23TCuxWNlj84e/NoEZJsI1rADQA=": {
+      "id": "23TCuxWNlj84e/NoEZJsI1rADQA=",
+      "name": "var_const_t",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "var-inline-constexpr.cpp",
+        "source_path": "var-inline-constexpr.cpp",
+        "line": 20
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T"
+              },
+              "cv_qualifiers": "const"
+            }
+          },
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "NeARXC6JJzwenZWHvmtX1WP6Y4E=": {
+      "id": "NeARXC6JJzwenZWHvmtX1WP6Y4E=",
+      "name": "var_t",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "var-inline-constexpr.cpp",
+        "source_path": "var-inline-constexpr.cpp",
+        "line": 23
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T"
+              }
+            }
+          },
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

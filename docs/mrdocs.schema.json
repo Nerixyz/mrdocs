@@ -101,13 +101,23 @@
       "title": "File patterns to include",
       "type": "array"
     },
+    "full-paths": {
+      "default": true,
+      "enum": [
+        true,
+        false
+      ],
+      "title": "Include absolute paths in JSON",
+      "type": "boolean"
+    },
     "generator": {
       "default": "adoc",
       "description": "The generator is responsible for creating the documentation from the extracted symbols. The generator uses the extracted symbols and the templates to create the documentation. The generator can create different types of documentation such as HTML, XML, and AsciiDoc.",
       "enum": [
         "adoc",
         "html",
-        "xml"
+        "xml",
+        "json"
       ],
       "title": "Generator used to create the documentation"
     },
@@ -238,6 +248,15 @@
         false
       ],
       "title": "Detect and group function overloads",
+      "type": "boolean"
+    },
+    "pretty-output": {
+      "default": false,
+      "enum": [
+        true,
+        false
+      ],
+      "title": "Output formatted JSON",
       "type": "boolean"
     },
     "private-bases": {

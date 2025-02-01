@@ -1,0 +1,1252 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "FVHkx2YC1v9lxjwdG5D+M2e5SIA=": {
+      "id": "FVHkx2YC1v9lxjwdG5D+M2e5SIA=",
+      "name": "dependency_ns",
+      "extraction": "dependency",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "extraction-mode.cpp",
+          "source_path": "extraction-mode.cpp",
+          "line": 220
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "Cte3a6dkPj265m1BZHW+q+5RYx4=": {
+      "id": "Cte3a6dkPj265m1BZHW+q+5RYx4=",
+      "name": "get_implementation_defined",
+      "extraction": "see-below",
+      "parent": "exW9PGqoF7V7OCpvgUIZOhj7WwI=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "A function to get an implementation-defined symbol in a see-below namespace"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "When used in a function, the implementation-defined comment should replace the real type."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "It's the responsibility of the function documentation to explain the implementation-defined symbol."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 164,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "implementation_defined",
+                "id": "V7X9PJ4pWsN52pFdrtqL2hmhnp8="
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "HfpFOdGBlFvzJWV5HwJnyWPM72g=": {
+      "id": "HfpFOdGBlFvzJWV5HwJnyWPM72g=",
+      "name": "regular_ns",
+      "extraction": "see-below",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "A regular namespace with different filters for members"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "extraction-mode.cpp",
+          "source_path": "extraction-mode.cpp",
+          "line": 11,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "HIH1h4hOIdF5+btaX+gwmErtATY=": {
+      "id": "HIH1h4hOIdF5+btaX+gwmErtATY=",
+      "name": "also_regular",
+      "access": "public",
+      "parent": "uwCvFwfbmTvoEwwfxdL9EV+P8/c=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Child of a regular symbol extracted as regular"
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 18,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "records": [
+                "ZZiAG+2jvp211xfxhzPQi3p+JQU="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "uwCvFwfbmTvoEwwfxdL9EV+P8/c=": {
+      "id": "uwCvFwfbmTvoEwwfxdL9EV+P8/c=",
+      "name": "regular",
+      "parent": "HfpFOdGBlFvzJWV5HwJnyWPM72g=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "A symbol that passes the filters"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "The symbol should have a page as usual"
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 16,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "records": [
+                "HIH1h4hOIdF5+btaX+gwmErtATY="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "ZZiAG+2jvp211xfxhzPQi3p+JQU=": {
+      "id": "ZZiAG+2jvp211xfxhzPQi3p+JQU=",
+      "name": "regular_as_well",
+      "access": "public",
+      "parent": "HIH1h4hOIdF5+btaX+gwmErtATY=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Grandchild of a regular symbol extracted as regular"
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 20,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "TSJP5hkEf4wSQVuTwVCP1Zs/mBU=": {
+      "id": "TSJP5hkEf4wSQVuTwVCP1Zs/mBU=",
+      "name": "see_below",
+      "extraction": "see-below",
+      "parent": "HfpFOdGBlFvzJWV5HwJnyWPM72g=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "A symbol that passes the see-below filter"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "A symbol that passes the filters and the see-below filter. The symbol should have a page as usual but, because it's a scope"
+            },
+            {
+              "text": " and not a namespace, the members should not be listed on that page."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 35,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "GmX35W90ijAwMEpaZZqAbeG5UmU=": {
+      "id": "GmX35W90ijAwMEpaZZqAbeG5UmU=",
+      "name": "get_regular",
+      "parent": "HfpFOdGBlFvzJWV5HwJnyWPM72g=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "A function to get a regular symbol"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "When used in a function, the symbol should be shown as usual with a link to the page."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 28,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "regular",
+                "id": "uwCvFwfbmTvoEwwfxdL9EV+P8/c="
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "M7TOn0G63CtYGRm2THtNEEEdpLY=": {
+      "id": "M7TOn0G63CtYGRm2THtNEEEdpLY=",
+      "name": "get_see_below",
+      "parent": "HfpFOdGBlFvzJWV5HwJnyWPM72g=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "A function to get a see-below symbol"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "When used in a function, the symbol name should be shown as usual. The page for this symbol is what should be different because"
+            },
+            {
+              "text": " the synopsis should say \"See below\" and the members are not listed unless it's a namespace or the symbol has been explicitly"
+            },
+            {
+              "text": " used as a dependency elsewhere."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 50,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "see_below",
+                "id": "TSJP5hkEf4wSQVuTwVCP1Zs/mBU="
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "4SJRVLqyXsDWvcWXoyjLUtLXROw=": {
+      "id": "4SJRVLqyXsDWvcWXoyjLUtLXROw=",
+      "name": "implementation_defined",
+      "extraction": "implementation-defined",
+      "parent": "HfpFOdGBlFvzJWV5HwJnyWPM72g=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "A symbol that passes the implementation-defined filter"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "A symbol that passes the filters and the implementation-defined filter The symbol is implementation defined and should not have a page."
+            },
+            {
+              "text": " Members of an implementation-defined scope should not be traversed. If they are traversed for some other reason, they should also become"
+            },
+            {
+              "text": " implementation-defined."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 59,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "ZrA7FcVREiRMaG484junagM1Snc=": {
+      "id": "ZrA7FcVREiRMaG484junagM1Snc=",
+      "name": "get_implementation_defined",
+      "parent": "HfpFOdGBlFvzJWV5HwJnyWPM72g=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "A function to get an implementation-defined symbol"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "When used in a function, the implementation-defined comment should replace the real type."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "It's the responsibility of the function documentation to explain the implementation-defined symbol."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 82,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "implementation_defined",
+                "id": "4SJRVLqyXsDWvcWXoyjLUtLXROw="
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "JsA4nL3r830aRrxkYOJehKibEWE=": {
+      "id": "JsA4nL3r830aRrxkYOJehKibEWE=",
+      "name": "get_dependency",
+      "parent": "HfpFOdGBlFvzJWV5HwJnyWPM72g=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "A function to get an excluded symbol"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "When used in a function, only the symbol name should be shown. No links should be generated for this symbol."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 102,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "dependency",
+                "id": "1L0CXReBnwnJJ+QMfbufLsSVX8Q="
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "1L0CXReBnwnJJ+QMfbufLsSVX8Q=": {
+      "id": "1L0CXReBnwnJJ+QMfbufLsSVX8Q=",
+      "name": "dependency",
+      "extraction": "dependency",
+      "parent": "HfpFOdGBlFvzJWV5HwJnyWPM72g=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "An excluded symbol used as a dependency by a regular symbol"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "A symbol excluded by filters but is used as a dependency The symbol should be extracted as a dependency but its"
+            },
+            {
+              "text": " members should not be traversed."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 89,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "exW9PGqoF7V7OCpvgUIZOhj7WwI=": {
+      "id": "exW9PGqoF7V7OCpvgUIZOhj7WwI=",
+      "name": "see_below_ns",
+      "extraction": "see-below",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "A see-below namespace"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "All member symbols should become see-below. All members are traversed as see-below."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "The documentation page for these symbols should include the see-below comment."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "extraction-mode.cpp",
+          "source_path": "extraction-mode.cpp",
+          "line": 121,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "oCi9GhACSlMlNqMEp/8CzrcvYUc=": {
+      "id": "oCi9GhACSlMlNqMEp/8CzrcvYUc=",
+      "name": "regular",
+      "extraction": "see-below",
+      "parent": "exW9PGqoF7V7OCpvgUIZOhj7WwI=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Regular symbol in a see-below namespace"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "The symbol becomes see-below because the whole namespace is see-below."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 127,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "VpoO3YTaskouQspzjnerGL/r84w=": {
+      "id": "VpoO3YTaskouQspzjnerGL/r84w=",
+      "name": "see_below",
+      "extraction": "see-below",
+      "parent": "exW9PGqoF7V7OCpvgUIZOhj7WwI=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "See-below symbol in a see-below namespace"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "The symbol becomes see-below because the whole namespace is see-below and because it's explicitly marked as see-below."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 145,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "V7X9PJ4pWsN52pFdrtqL2hmhnp8=": {
+      "id": "V7X9PJ4pWsN52pFdrtqL2hmhnp8=",
+      "name": "implementation_defined",
+      "extraction": "implementation-defined",
+      "parent": "exW9PGqoF7V7OCpvgUIZOhj7WwI=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Implementation-defined symbol in a see-below namespace"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "The symbol does not become see-below because the the implentation-defined filter has precedence over the"
+            },
+            {
+              "text": " see-below filter."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Functions using this symbol should explain the implementation-defined nature of the symbol."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 155,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "CzgfGPX1nw65BdnXgQsTa12LA2Y=": {
+      "id": "CzgfGPX1nw65BdnXgQsTa12LA2Y=",
+      "name": "implementation_defined_ns_alias",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Namespace alias to form a dependency on the implementation-defined namespace"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "extraction-mode.cpp",
+          "source_path": "extraction-mode.cpp",
+          "line": 215,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "namespace_alias": {
+          "symbol": {
+            "kind": "identifier",
+            "name": "implementation_defined_ns",
+            "id": "ZYn+worzOdzCMW6yaZC9jAkpVTk="
+          }
+        }
+      }
+    },
+    "a9NW/0+lwniKyNoc79ktu9ydz9Q=": {
+      "id": "a9NW/0+lwniKyNoc79ktu9ydz9Q=",
+      "name": "get_dependency",
+      "extraction": "see-below",
+      "parent": "exW9PGqoF7V7OCpvgUIZOhj7WwI=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "A function to get a dependency symbol in a see-below namespace"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "The symbol should be extracted as a dependency because the exclude filter has precedence over the see-below filter."
+            },
+            {
+              "text": " Only included symbols can be promoted to see-below."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "It's the responsibility of the function documentation to explain the dependency."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 184,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "dependency",
+                "id": "CyWO4Tsh/ybq2vl/ylZdyGSc20U="
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "CyWO4Tsh/ybq2vl/ylZdyGSc20U=": {
+      "id": "CyWO4Tsh/ybq2vl/ylZdyGSc20U=",
+      "name": "dependency",
+      "extraction": "dependency",
+      "parent": "exW9PGqoF7V7OCpvgUIZOhj7WwI=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "A dependency symbol in a see-below namespace"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "The symbol should be extracted as a dependency because the exclude filter has precedence over the see-below filter."
+            },
+            {
+              "text": " Only included symbols can be promoted to see-below."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "This will not have a page and functions using this symbol should explain the dependency."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 174,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "ZYn+worzOdzCMW6yaZC9jAkpVTk=": {
+      "id": "ZYn+worzOdzCMW6yaZC9jAkpVTk=",
+      "name": "implementation_defined_ns",
+      "extraction": "implementation-defined",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "An implementation-defined namespace"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Members are not traversed and, if traversed for some other reason, they also become implementation-defined."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "extraction-mode.cpp",
+          "source_path": "extraction-mode.cpp",
+          "line": 202,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "ja9KgZ+gKpeRL1CK/1+wSZ41F18=": {
+      "id": "ja9KgZ+gKpeRL1CK/1+wSZ41F18=",
+      "name": "get_regular",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "A function to get a regular symbol in the global namespace"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "When used in a function, the symbol should be shown as usual with a link to the page."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 263,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "regular",
+                "id": "cw0xJkxH12xMAqMkCi84zr2R6nQ="
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "ZOLXb+PiKO6aTHMnfr3P9Mgop24=": {
+      "id": "ZOLXb+PiKO6aTHMnfr3P9Mgop24=",
+      "name": "see_below_ns_alias",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Namespace alias to form a dependency on the see-below namespace"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "The alias should be linked as usual and, because it's a namespace, the members should be listed on the page."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "extraction-mode.cpp",
+          "source_path": "extraction-mode.cpp",
+          "line": 196,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "namespace_alias": {
+          "symbol": {
+            "kind": "identifier",
+            "name": "see_below_ns",
+            "id": "exW9PGqoF7V7OCpvgUIZOhj7WwI="
+          }
+        }
+      }
+    },
+    "iz2edsTj1BrHatwuxuBXSOfqpDE=": {
+      "id": "iz2edsTj1BrHatwuxuBXSOfqpDE=",
+      "name": "dependency_ns_alias",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Namespace alias to form the dependency on dependency_ns"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "extraction-mode.cpp",
+          "source_path": "extraction-mode.cpp",
+          "line": 233,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "namespace_alias": {
+          "symbol": {
+            "kind": "identifier",
+            "name": "dependency_ns",
+            "id": "FVHkx2YC1v9lxjwdG5D+M2e5SIA="
+          }
+        }
+      }
+    },
+    "cw0xJkxH12xMAqMkCi84zr2R6nQ=": {
+      "id": "cw0xJkxH12xMAqMkCi84zr2R6nQ=",
+      "name": "regular",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "A regular symbol in the global namespace"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "This symbol should have a page as usual."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 251,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "records": [
+                "bCLHAM9lOQrXlNa5dlpbk5UpW2k="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "bCLHAM9lOQrXlNa5dlpbk5UpW2k=": {
+      "id": "bCLHAM9lOQrXlNa5dlpbk5UpW2k=",
+      "name": "also_regular",
+      "access": "public",
+      "parent": "cw0xJkxH12xMAqMkCi84zr2R6nQ=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Child of a regular symbol: should be traversed as usual"
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 253,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "records": [
+                "cF5hGQlXVxQ9lU9qT768m47j5fE="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "cF5hGQlXVxQ9lU9qT768m47j5fE=": {
+      "id": "cF5hGQlXVxQ9lU9qT768m47j5fE=",
+      "name": "regular_as_well",
+      "access": "public",
+      "parent": "bCLHAM9lOQrXlNa5dlpbk5UpW2k=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Grandchild of a regular symbol: should be traversed as usual"
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 255,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "65ri7AMHwO5ME919iJQNbXl0TVE=": {
+      "id": "65ri7AMHwO5ME919iJQNbXl0TVE=",
+      "name": "get_implementation_defined",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "A function to get an implementation-defined symbol in the global namespace"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "When used in a function, the implementation-defined comment should replace the real type."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "It's the responsibility of the function documentation to explain the implementation-defined symbol."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 304,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "implementation_defined",
+                "id": "rl76spVysmpVYgBTOlxoh5Z9fk8="
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "1gqUCUm5v18bVRIAohOhUsenH0o=": {
+      "id": "1gqUCUm5v18bVRIAohOhUsenH0o=",
+      "name": "see_below",
+      "extraction": "see-below",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "A see-below symbol in the global namespace"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "This symbol should have a page as usual but, because it's a scope and not a namespace, the members should not be listed on that page."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "The synopsis should say \"See below\"."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 271,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "eg89BLjqgCjN8fLjTLnl5lhYTE0=": {
+      "id": "eg89BLjqgCjN8fLjTLnl5lhYTE0=",
+      "name": "get_see_below",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "A function to get a see-below symbol in the global namespace"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "When used in a function, the symbol name should be shown as usual. The page for this symbol is what should be different because"
+            },
+            {
+              "text": " the synopsis should say \"See below\" and the members are not listed unless it's a namespace or the symbol has been explicitly"
+            },
+            {
+              "text": " used as a dependency elsewhere."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 290,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "see_below",
+                "id": "1gqUCUm5v18bVRIAohOhUsenH0o="
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "rl76spVysmpVYgBTOlxoh5Z9fk8=": {
+      "id": "rl76spVysmpVYgBTOlxoh5Z9fk8=",
+      "name": "implementation_defined",
+      "extraction": "implementation-defined",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "An implementation-defined symbol in the global namespace"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "The symbol is implementation defined and should not have a page."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 295,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "TDPbPaUgAt15wH9Aq054dH6qByE=": {
+      "id": "TDPbPaUgAt15wH9Aq054dH6qByE=",
+      "name": "get_dependency",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "A function to get a dependency symbol on the global namespace"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "The symbol should be extracted as a dependency but its members should not be traversed."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 313,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "dependency",
+                "id": "t1gs2ps85mDDF3gcK68GCS5x23g="
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "t1gs2ps85mDDF3gcK68GCS5x23g=": {
+      "id": "t1gs2ps85mDDF3gcK68GCS5x23g=",
+      "name": "dependency",
+      "extraction": "dependency",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "A dependency symbol in the global namespace"
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "extraction-mode.cpp",
+        "source_path": "extraction-mode.cpp",
+        "line": 307,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "P9+etXi0Ae+VNs1u8rYrHIbi6qE=": {
+      "id": "P9+etXi0Ae+VNs1u8rYrHIbi6qE=",
+      "name": "S0",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "decay-to-primary.cpp",
+        "source_path": "decay-to-primary.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "typedefs": [
+                "aBQMz/OqX2QEHy4Cqfjgby4lSi4=",
+                "14SKPuw/wwAUmFZKoonB8Uu8gaY="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "aBQMz/OqX2QEHy4Cqfjgby4lSi4=": {
+      "id": "aBQMz/OqX2QEHy4Cqfjgby4lSi4=",
+      "name": "M0",
+      "access": "public",
+      "parent": "P9+etXi0Ae+VNs1u8rYrHIbi6qE=",
+      "locations": [
+        {
+          "short_path": "decay-to-primary.cpp",
+          "source_path": "decay-to-primary.cpp",
+          "line": 4
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T"
+              }
+            }
+          },
+          "is_using": true
+        }
+      }
+    },
+    "zbm2FwMgaOYZ1PJI3zAcR9gD1DE=": {
+      "id": "zbm2FwMgaOYZ1PJI3zAcR9gD1DE=",
+      "name": "A1",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "decay-to-primary.cpp",
+          "source_path": "decay-to-primary.cpp",
+          "line": 11
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "M0",
+                "id": "rd0VksPlzUP2z9uBlAh7QCSvXlc=",
+                "prefix": {
+                  "kind": "specialization",
+                  "name": "M1",
+                  "id": "59lOx3WiBtHW8lORAEbx2R0bEwM=",
+                  "prefix": {
+                    "kind": "identifier",
+                    "name": "A0",
+                    "id": "ApI0xrWYyA88AQ9a3mi+ochJbJc="
+                  },
+                  "template_args": [
+                    {
+                      "type": {
+                        "type": {
+                          "named": {
+                            "name": {
+                              "kind": "identifier",
+                              "name": "short"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "is_using": true
+        }
+      }
+    },
+    "14SKPuw/wwAUmFZKoonB8Uu8gaY=": {
+      "id": "14SKPuw/wwAUmFZKoonB8Uu8gaY=",
+      "name": "M1",
+      "access": "public",
+      "parent": "P9+etXi0Ae+VNs1u8rYrHIbi6qE=",
+      "locations": [
+        {
+          "short_path": "decay-to-primary.cpp",
+          "source_path": "decay-to-primary.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "specialization",
+                "name": "S0",
+                "id": "P9+etXi0Ae+VNs1u8rYrHIbi6qE=",
+                "template_args": [
+                  {
+                    "type": {
+                      "type": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "U"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "is_using": true,
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "ApI0xrWYyA88AQ9a3mi+ochJbJc=": {
+      "id": "ApI0xrWYyA88AQ9a3mi+ochJbJc=",
+      "name": "A0",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "decay-to-primary.cpp",
+          "source_path": "decay-to-primary.cpp",
+          "line": 10
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "specialization",
+                "name": "S0",
+                "id": "P9+etXi0Ae+VNs1u8rYrHIbi6qE=",
+                "template_args": [
+                  {
+                    "type": {
+                      "type": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "void"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "is_using": true
+        }
+      }
+    },
+    "rd0VksPlzUP2z9uBlAh7QCSvXlc=": {
+      "id": "rd0VksPlzUP2z9uBlAh7QCSvXlc=",
+      "name": "M0",
+      "access": "public",
+      "parent": "nM49pHyBLj9V6pphxxYAxi4tXXc=",
+      "locations": [
+        {
+          "short_path": "decay-to-primary.cpp",
+          "source_path": "decay-to-primary.cpp",
+          "line": 4
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "short"
+              }
+            }
+          },
+          "is_using": true
+        }
+      }
+    },
+    "nM49pHyBLj9V6pphxxYAxi4tXXc=": {
+      "id": "nM49pHyBLj9V6pphxxYAxi4tXXc=",
+      "name": "S0",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "decay-to-primary.cpp",
+        "source_path": "decay-to-primary.cpp",
+        "line": 2
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "explicit",
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "short"
+                      }
+                    }
+                  }
+                }
+              }
+            ],
+            "primary": "P9+etXi0Ae+VNs1u8rYrHIbi6qE="
+          },
+          "interface": {
+            "public": {
+              "typedefs": [
+                "rd0VksPlzUP2z9uBlAh7QCSvXlc=",
+                "55w2+SxFbPDR4zxtZen23YT6oyY="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "55w2+SxFbPDR4zxtZen23YT6oyY=": {
+      "id": "55w2+SxFbPDR4zxtZen23YT6oyY=",
+      "name": "M1",
+      "access": "public",
+      "parent": "nM49pHyBLj9V6pphxxYAxi4tXXc=",
+      "locations": [
+        {
+          "short_path": "decay-to-primary.cpp",
+          "source_path": "decay-to-primary.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "specialization",
+                "name": "S0",
+                "id": "P9+etXi0Ae+VNs1u8rYrHIbi6qE=",
+                "template_args": [
+                  {
+                    "type": {
+                      "type": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "U"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "is_using": true,
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "59lOx3WiBtHW8lORAEbx2R0bEwM=": {
+      "id": "59lOx3WiBtHW8lORAEbx2R0bEwM=",
+      "name": "M1",
+      "access": "public",
+      "parent": "BWgkCsMw6w/Tkzj0tkQJ8/AWTUo=",
+      "locations": [
+        {
+          "short_path": "decay-to-primary.cpp",
+          "source_path": "decay-to-primary.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "specialization",
+                "name": "S0",
+                "id": "P9+etXi0Ae+VNs1u8rYrHIbi6qE=",
+                "template_args": [
+                  {
+                    "type": {
+                      "type": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "U"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "is_using": true,
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "BWgkCsMw6w/Tkzj0tkQJ8/AWTUo=": {
+      "id": "BWgkCsMw6w/Tkzj0tkQJ8/AWTUo=",
+      "name": "S0",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "decay-to-primary.cpp",
+        "source_path": "decay-to-primary.cpp",
+        "line": 2
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "explicit",
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "void"
+                      }
+                    }
+                  }
+                }
+              }
+            ],
+            "primary": "P9+etXi0Ae+VNs1u8rYrHIbi6qE="
+          },
+          "interface": {
+            "public": {
+              "typedefs": [
+                "xwZQjxyx34OE1PjRX/paK2bdWb0=",
+                "59lOx3WiBtHW8lORAEbx2R0bEwM="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "xwZQjxyx34OE1PjRX/paK2bdWb0=": {
+      "id": "xwZQjxyx34OE1PjRX/paK2bdWb0=",
+      "name": "M0",
+      "access": "public",
+      "parent": "BWgkCsMw6w/Tkzj0tkQJ8/AWTUo=",
+      "locations": [
+        {
+          "short_path": "decay-to-primary.cpp",
+          "source_path": "decay-to-primary.cpp",
+          "line": 4
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "is_using": true
+        }
+      }
+    }
+  }
+}

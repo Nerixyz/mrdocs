@@ -1,0 +1,616 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "pOYGF6pLJlICuiGO0Xj0daDb/to=": {
+      "id": "pOYGF6pLJlICuiGO0Xj0daDb/to=",
+      "name": "S",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "class-template.cpp",
+        "source_path": "class-template.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "UKBRhwzQ0PeL6ZwfxmreRBoDQSY=": {
+      "id": "UKBRhwzQ0PeL6ZwfxmreRBoDQSY=",
+      "name": "y",
+      "access": "public",
+      "parent": "sv7ww7qclY8KsvAbFHXaKZnSO80=",
+      "locations": [
+        {
+          "short_path": "class-template.cpp",
+          "source_path": "class-template.cpp",
+          "line": 8
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T"
+              }
+            }
+          }
+        }
+      }
+    },
+    "rvAO5HvzEvS8z9PgbRoqkyTi+1c=": {
+      "id": "rvAO5HvzEvS8z9PgbRoqkyTi+1c=",
+      "name": "v",
+      "access": "public",
+      "parent": "IIPz8Fm6nqKoYQpeJ/kvZaWvtI8=",
+      "locations": [
+        {
+          "short_path": "class-template.cpp",
+          "source_path": "class-template.cpp",
+          "line": 32
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          }
+        }
+      }
+    },
+    "sdv932bFyf1dJzPblqxQGqsy8G4=": {
+      "id": "sdv932bFyf1dJzPblqxQGqsy8G4=",
+      "name": "z",
+      "access": "public",
+      "parent": "gx6LdMT9nBMQKB26lZXGWbB7N6c=",
+      "locations": [
+        {
+          "short_path": "class-template.cpp",
+          "source_path": "class-template.cpp",
+          "line": 12
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          }
+        }
+      }
+    },
+    "phg6+zMhjV0SJ7vav871OGqoPPQ=": {
+      "id": "phg6+zMhjV0SJ7vav871OGqoPPQ=",
+      "name": "y",
+      "access": "public",
+      "parent": "F1Cyqn/faLYbjTU4RfGsepUiiZw=",
+      "locations": [
+        {
+          "short_path": "class-template.cpp",
+          "source_path": "class-template.cpp",
+          "line": 24
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T"
+              }
+            }
+          }
+        }
+      }
+    },
+    "sv7ww7qclY8KsvAbFHXaKZnSO80=": {
+      "id": "sv7ww7qclY8KsvAbFHXaKZnSO80=",
+      "name": "C0",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "class-template.cpp",
+        "source_path": "class-template.cpp",
+        "line": 3
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "records": [
+                "gx6LdMT9nBMQKB26lZXGWbB7N6c="
+              ],
+              "variables": [
+                "ySFHEWJe6/b1dbtjDC2IAvT2vmU=",
+                "81imwKxfuTfd7lfVGnF+fKx46lY=",
+                "UKBRhwzQ0PeL6ZwfxmreRBoDQSY="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "gx6LdMT9nBMQKB26lZXGWbB7N6c=": {
+      "id": "gx6LdMT9nBMQKB26lZXGWbB7N6c=",
+      "name": "N0",
+      "access": "public",
+      "parent": "sv7ww7qclY8KsvAbFHXaKZnSO80=",
+      "def_loc": {
+        "short_path": "class-template.cpp",
+        "source_path": "class-template.cpp",
+        "line": 10
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "variables": [
+                "sdv932bFyf1dJzPblqxQGqsy8G4="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "ySFHEWJe6/b1dbtjDC2IAvT2vmU=": {
+      "id": "ySFHEWJe6/b1dbtjDC2IAvT2vmU=",
+      "name": "w",
+      "access": "public",
+      "parent": "sv7ww7qclY8KsvAbFHXaKZnSO80=",
+      "locations": [
+        {
+          "short_path": "class-template.cpp",
+          "source_path": "class-template.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          }
+        }
+      }
+    },
+    "81imwKxfuTfd7lfVGnF+fKx46lY=": {
+      "id": "81imwKxfuTfd7lfVGnF+fKx46lY=",
+      "name": "x",
+      "access": "public",
+      "parent": "sv7ww7qclY8KsvAbFHXaKZnSO80=",
+      "locations": [
+        {
+          "short_path": "class-template.cpp",
+          "source_path": "class-template.cpp",
+          "line": 7
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "S",
+                "id": "pOYGF6pLJlICuiGO0Xj0daDb/to="
+              }
+            }
+          }
+        }
+      }
+    },
+    "tm2khHa6qZM0lj1f7IwBdxVxDgE=": {
+      "id": "tm2khHa6qZM0lj1f7IwBdxVxDgE=",
+      "name": "C1",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "class-template.cpp",
+        "source_path": "class-template.cpp",
+        "line": 16
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "records": [
+                "F1Cyqn/faLYbjTU4RfGsepUiiZw="
+              ],
+              "variables": [
+                "Q0itZUB0O9hts+pFPk9DO415Lo8="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "Q0itZUB0O9hts+pFPk9DO415Lo8=": {
+      "id": "Q0itZUB0O9hts+pFPk9DO415Lo8=",
+      "name": "w",
+      "access": "public",
+      "parent": "tm2khHa6qZM0lj1f7IwBdxVxDgE=",
+      "locations": [
+        {
+          "short_path": "class-template.cpp",
+          "source_path": "class-template.cpp",
+          "line": 18
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          }
+        }
+      }
+    },
+    "F1Cyqn/faLYbjTU4RfGsepUiiZw=": {
+      "id": "F1Cyqn/faLYbjTU4RfGsepUiiZw=",
+      "name": "N1",
+      "access": "public",
+      "parent": "tm2khHa6qZM0lj1f7IwBdxVxDgE=",
+      "def_loc": {
+        "short_path": "class-template.cpp",
+        "source_path": "class-template.cpp",
+        "line": 20
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "variables": [
+                "bQCgblScrSKOxQMVJxT7vFw9W4I=",
+                "phg6+zMhjV0SJ7vav871OGqoPPQ=",
+                "53ijFg2EUlLuOP8qvufgjwZDNoI="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "bQCgblScrSKOxQMVJxT7vFw9W4I=": {
+      "id": "bQCgblScrSKOxQMVJxT7vFw9W4I=",
+      "name": "x",
+      "access": "public",
+      "parent": "F1Cyqn/faLYbjTU4RfGsepUiiZw=",
+      "locations": [
+        {
+          "short_path": "class-template.cpp",
+          "source_path": "class-template.cpp",
+          "line": 23
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "S",
+                "id": "pOYGF6pLJlICuiGO0Xj0daDb/to="
+              }
+            }
+          }
+        }
+      }
+    },
+    "IIPz8Fm6nqKoYQpeJ/kvZaWvtI8=": {
+      "id": "IIPz8Fm6nqKoYQpeJ/kvZaWvtI8=",
+      "name": "C2",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "class-template.cpp",
+        "source_path": "class-template.cpp",
+        "line": 29
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "records": [
+                "xljI5oOqNOhyyR4QzmKvFB3nEfw="
+              ],
+              "variables": [
+                "rvAO5HvzEvS8z9PgbRoqkyTi+1c="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "53ijFg2EUlLuOP8qvufgjwZDNoI=": {
+      "id": "53ijFg2EUlLuOP8qvufgjwZDNoI=",
+      "name": "z",
+      "access": "public",
+      "parent": "F1Cyqn/faLYbjTU4RfGsepUiiZw=",
+      "locations": [
+        {
+          "short_path": "class-template.cpp",
+          "source_path": "class-template.cpp",
+          "line": 25
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          }
+        }
+      }
+    },
+    "xljI5oOqNOhyyR4QzmKvFB3nEfw=": {
+      "id": "xljI5oOqNOhyyR4QzmKvFB3nEfw=",
+      "name": "N2",
+      "access": "public",
+      "parent": "IIPz8Fm6nqKoYQpeJ/kvZaWvtI8=",
+      "def_loc": {
+        "short_path": "class-template.cpp",
+        "source_path": "class-template.cpp",
+        "line": 34
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "variables": [
+                "bLX5mthqXMHAtLNEc87RKLQSUyU=",
+                "qSNOAAxaet7aBxvD7WvFqJOpm3A=",
+                "P9x8qHxDv7huDL0MyNORJ/enU0Q=",
+                "pRO2j7I5aEQI+ktDwT1fLJPqy28="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "28J+g16kE2M7qwnrP4yzW4hHlIg=": {
+      "id": "28J+g16kE2M7qwnrP4yzW4hHlIg=",
+      "name": "v",
+      "access": "public",
+      "parent": "x60FzYL65XgZZRrxrZuC5jemrwQ=",
+      "locations": [
+        {
+          "short_path": "class-template.cpp",
+          "source_path": "class-template.cpp",
+          "line": 50
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          }
+        }
+      }
+    },
+    "bLX5mthqXMHAtLNEc87RKLQSUyU=": {
+      "id": "bLX5mthqXMHAtLNEc87RKLQSUyU=",
+      "name": "w",
+      "access": "public",
+      "parent": "xljI5oOqNOhyyR4QzmKvFB3nEfw=",
+      "locations": [
+        {
+          "short_path": "class-template.cpp",
+          "source_path": "class-template.cpp",
+          "line": 37
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "S",
+                "id": "pOYGF6pLJlICuiGO0Xj0daDb/to="
+              }
+            }
+          }
+        }
+      }
+    },
+    "qSNOAAxaet7aBxvD7WvFqJOpm3A=": {
+      "id": "qSNOAAxaet7aBxvD7WvFqJOpm3A=",
+      "name": "x",
+      "access": "public",
+      "parent": "xljI5oOqNOhyyR4QzmKvFB3nEfw=",
+      "locations": [
+        {
+          "short_path": "class-template.cpp",
+          "source_path": "class-template.cpp",
+          "line": 38
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T"
+              }
+            }
+          }
+        }
+      }
+    },
+    "P9x8qHxDv7huDL0MyNORJ/enU0Q=": {
+      "id": "P9x8qHxDv7huDL0MyNORJ/enU0Q=",
+      "name": "y",
+      "access": "public",
+      "parent": "xljI5oOqNOhyyR4QzmKvFB3nEfw=",
+      "locations": [
+        {
+          "short_path": "class-template.cpp",
+          "source_path": "class-template.cpp",
+          "line": 39
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "U"
+              }
+            }
+          }
+        }
+      }
+    },
+    "pRO2j7I5aEQI+ktDwT1fLJPqy28=": {
+      "id": "pRO2j7I5aEQI+ktDwT1fLJPqy28=",
+      "name": "z",
+      "access": "public",
+      "parent": "xljI5oOqNOhyyR4QzmKvFB3nEfw=",
+      "locations": [
+        {
+          "short_path": "class-template.cpp",
+          "source_path": "class-template.cpp",
+          "line": 40
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          }
+        }
+      }
+    },
+    "x60FzYL65XgZZRrxrZuC5jemrwQ=": {
+      "id": "x60FzYL65XgZZRrxrZuC5jemrwQ=",
+      "name": "C3",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "class-template.cpp",
+        "source_path": "class-template.cpp",
+        "line": 47
+      },
+      "locations": [
+        {
+          "short_path": "class-template.cpp",
+          "source_path": "class-template.cpp",
+          "line": 44
+        }
+      ],
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "variables": [
+                "28J+g16kE2M7qwnrP4yzW4hHlIg="
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

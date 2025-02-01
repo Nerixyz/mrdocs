@@ -1,0 +1,107 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "RnDTZyCZuSqydMEPutN0yG4E/xg=": {
+      "id": "RnDTZyCZuSqydMEPutN0yG4E/xg=",
+      "name": "f5",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "brief "
+            },
+            {
+              "styled": {
+                "style": "bold",
+                "text": "bold"
+              }
+            },
+            {
+              "text": " it continues to the line."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "brief-1.cpp",
+          "source_path": "brief-1.cpp",
+          "line": 30,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "NEkWCLiknLGzCD6JnXuBTSAAne8=": {
+      "id": "NEkWCLiknLGzCD6JnXuBTSAAne8=",
+      "name": "f6",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "brief"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "many lined    "
+            },
+            {
+              "styled": {
+                "style": "bold",
+                "text": "bold"
+              }
+            },
+            {
+              "text": "    what will    happen?"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "brief-1.cpp",
+          "source_path": "brief-1.cpp",
+          "line": 39,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    }
+  }
+}

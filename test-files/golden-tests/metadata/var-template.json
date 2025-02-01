@@ -1,0 +1,297 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "z3eMoJQlHlg0acXVyn1pwg9Ktys=": {
+      "id": "z3eMoJQlHlg0acXVyn1pwg9Ktys=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "var-template.cpp",
+        "source_path": "var-template.cpp",
+        "line": 1
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "unsigned int"
+              }
+            }
+          },
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "initializer": "sizeof(T)"
+        }
+      }
+    },
+    "kMNXdSEDYBD+T4RYbkq3ekR+jUU=": {
+      "id": "kMNXdSEDYBD+T4RYbkq3ekR+jUU=",
+      "name": "C",
+      "access": "public",
+      "parent": "3JsK1DO0O+wZhv+0meptQrbs3fY=",
+      "def_loc": {
+        "short_path": "var-template.cpp",
+        "source_path": "var-template.cpp",
+        "line": 12
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "unsigned int"
+              }
+            }
+          },
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "initializer": "0",
+          "storage_class": "static",
+          "is_inline": true
+        }
+      }
+    },
+    "jrW9aLj8cqTteNoZmH97vOW7csQ=": {
+      "id": "jrW9aLj8cqTteNoZmH97vOW7csQ=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "var-template.cpp",
+        "source_path": "var-template.cpp",
+        "line": 4
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "unsigned int"
+              }
+            }
+          },
+          "template": {
+            "kind": "explicit",
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "void"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "initializer": "0"
+        }
+      }
+    },
+    "3JsK1DO0O+wZhv+0meptQrbs3fY=": {
+      "id": "3JsK1DO0O+wZhv+0meptQrbs3fY=",
+      "name": "B",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "var-template.cpp",
+        "source_path": "var-template.cpp",
+        "line": 10
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "static_variables": [
+                "kMNXdSEDYBD+T4RYbkq3ekR+jUU=",
+                "Wtlw7VEK38lEEBeqNoDOjTkJE+U=",
+                "wvoZkG3eTMaiFAf971AFdvmHCDE="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "FsEwA9OFNGH4A/cxXIoOOa+ZQg8=": {
+      "id": "FsEwA9OFNGH4A/cxXIoOOa+ZQg8=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "var-template.cpp",
+        "source_path": "var-template.cpp",
+        "line": 7
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "unsigned int"
+              }
+            }
+          },
+          "template": {
+            "kind": "partial",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ],
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "lvalue_reference": {
+                      "pointee": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "T"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "initializer": "sizeof(T)"
+        }
+      }
+    },
+    "Wtlw7VEK38lEEBeqNoDOjTkJE+U=": {
+      "id": "Wtlw7VEK38lEEBeqNoDOjTkJE+U=",
+      "name": "C",
+      "access": "public",
+      "parent": "3JsK1DO0O+wZhv+0meptQrbs3fY=",
+      "def_loc": {
+        "short_path": "var-template.cpp",
+        "source_path": "var-template.cpp",
+        "line": 15
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "unsigned int"
+              }
+            }
+          },
+          "template": {
+            "kind": "explicit",
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "int"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "initializer": "-1",
+          "storage_class": "static",
+          "is_inline": true
+        }
+      }
+    },
+    "wvoZkG3eTMaiFAf971AFdvmHCDE=": {
+      "id": "wvoZkG3eTMaiFAf971AFdvmHCDE=",
+      "name": "C",
+      "access": "public",
+      "parent": "3JsK1DO0O+wZhv+0meptQrbs3fY=",
+      "def_loc": {
+        "short_path": "var-template.cpp",
+        "source_path": "var-template.cpp",
+        "line": 18
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "unsigned int"
+              }
+            }
+          },
+          "template": {
+            "kind": "partial",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ],
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "pointer": {
+                      "pointee": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "T"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "initializer": "sizeof(T)",
+          "storage_class": "static",
+          "is_inline": true
+        }
+      }
+    }
+  }
+}

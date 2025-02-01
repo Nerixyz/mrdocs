@@ -226,7 +226,8 @@
         "values": [
           "adoc",
           "html",
-          "xml"
+          "xml",
+          "json"
         ],
         "default": "adoc"
       },
@@ -276,6 +277,18 @@
         "details": "Output an embeddable document, which excludes the header, the footer, and everything outside the body of the document. This option is useful for producing documents that can be inserted into an external template.",
         "type": "bool",
         "default": false
+      },
+      {
+        "name": "pretty-output",
+        "brief": "Output formatted JSON",
+        "type": "bool",
+        "default": false
+      },
+      {
+        "name": "full-paths",
+        "brief": "Include absolute paths in JSON",
+        "type": "bool",
+        "default": true
       }
     ]
   },

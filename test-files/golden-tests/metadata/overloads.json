@@ -1,0 +1,605 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "qw8/QuVZ7n9UkJWa5gz1gYkPlBc=": {
+      "id": "qw8/QuVZ7n9UkJWa5gz1gYkPlBc=",
+      "name": "g",
+      "access": "public",
+      "parent": "YrPSaKAbmXgzCAX5WByx4eVoqBM=",
+      "locations": [
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 5
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "storage_class": "static"
+        }
+      }
+    },
+    "YrPSaKAbmXgzCAX5WByx4eVoqBM=": {
+      "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "overloads.cpp",
+        "source_path": "overloads.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "DtDtEEEXSf/BaRCcPpHrxSRE1w4="
+              ],
+              "static_functions": [
+                "5udbkPowrL0j1FwO6R89G076ygw="
+              ],
+              "friends": [
+                "oIHRrgqp8DWHsLP+W6GIG30sf4w=",
+                "4ajaf5Te8WqGTnGDFq9hJqMofac="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "gddLjn5hKdr6Ei8xKgtcB3bktI4=": {
+      "id": "gddLjn5hKdr6Ei8xKgtcB3bktI4=",
+      "name": "operator==",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 17
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "bool"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "B",
+                    "id": "3JsK1DO0O+wZhv+0meptQrbs3fY="
+                  }
+                }
+              }
+            },
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "B",
+                    "id": "3JsK1DO0O+wZhv+0meptQrbs3fY="
+                  }
+                }
+              }
+            }
+          ],
+          "overloaded_operator": 30
+        }
+      }
+    },
+    "hLXvGC+nOrLQRH9lODKkgi/oUas=": {
+      "id": "hLXvGC+nOrLQRH9lODKkgi/oUas=",
+      "name": "f",
+      "access": "public",
+      "parent": "YrPSaKAbmXgzCAX5WByx4eVoqBM=",
+      "locations": [
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 2
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "7Bg4Ruo9NHdsGok6ICFQWW1MBuE=": {
+      "id": "7Bg4Ruo9NHdsGok6ICFQWW1MBuE=",
+      "name": "f",
+      "access": "public",
+      "parent": "YrPSaKAbmXgzCAX5WByx4eVoqBM=",
+      "locations": [
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 3
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "pqHl3WkOZfX6m6ltquhjuQtzXp4=": {
+      "id": "pqHl3WkOZfX6m6ltquhjuQtzXp4=",
+      "name": "operator==",
+      "access": "public",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 8
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "bool"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "A",
+                    "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM="
+                  }
+                }
+              }
+            },
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "A",
+                    "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM="
+                  }
+                }
+              }
+            }
+          ],
+          "overloaded_operator": 30
+        }
+      }
+    },
+    "E2RBHdoNQKveCfR6zUiWe+Ztmtk=": {
+      "id": "E2RBHdoNQKveCfR6zUiWe+Ztmtk=",
+      "name": "g",
+      "access": "public",
+      "parent": "YrPSaKAbmXgzCAX5WByx4eVoqBM=",
+      "locations": [
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ],
+          "storage_class": "static"
+        }
+      }
+    },
+    "oIHRrgqp8DWHsLP+W6GIG30sf4w=": {
+      "id": "oIHRrgqp8DWHsLP+W6GIG30sf4w=",
+      "name": "operator==",
+      "access": "public",
+      "parent": "YrPSaKAbmXgzCAX5WByx4eVoqBM=",
+      "locations": [
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 8
+        }
+      ],
+      "inner": {
+        "friend": {
+          "id": "pqHl3WkOZfX6m6ltquhjuQtzXp4="
+        }
+      }
+    },
+    "4ajaf5Te8WqGTnGDFq9hJqMofac=": {
+      "id": "4ajaf5Te8WqGTnGDFq9hJqMofac=",
+      "name": "operator==",
+      "access": "public",
+      "parent": "YrPSaKAbmXgzCAX5WByx4eVoqBM=",
+      "locations": [
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 9
+        }
+      ],
+      "inner": {
+        "friend": {
+          "id": "7bqo4XOxyyg5NIOu+8i4lZ3L47c="
+        }
+      }
+    },
+    "7bqo4XOxyyg5NIOu+8i4lZ3L47c=": {
+      "id": "7bqo4XOxyyg5NIOu+8i4lZ3L47c=",
+      "name": "operator==",
+      "access": "public",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 9
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "bool"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "A",
+                    "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM="
+                  }
+                }
+              }
+            },
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ],
+          "overloaded_operator": 30
+        }
+      }
+    },
+    "s6nsa+zVhpzzrN+yUVPP5rvdXqs=": {
+      "id": "s6nsa+zVhpzzrN+yUVPP5rvdXqs=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 12
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "ackjGh57CJQLwtO8PihiSPPKIBY=": {
+      "id": "ackjGh57CJQLwtO8PihiSPPKIBY=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 13
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "3JsK1DO0O+wZhv+0meptQrbs3fY=": {
+      "id": "3JsK1DO0O+wZhv+0meptQrbs3fY=",
+      "name": "B",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "overloads.cpp",
+        "source_path": "overloads.cpp",
+        "line": 15
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "cVrZLPSmQHMz47ziL64cElytjh0=": {
+      "id": "cVrZLPSmQHMz47ziL64cElytjh0=",
+      "name": "operator==",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 18
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "bool"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "B",
+                    "id": "3JsK1DO0O+wZhv+0meptQrbs3fY="
+                  }
+                }
+              }
+            },
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ],
+          "overloaded_operator": 30
+        }
+      }
+    },
+    "1YSEKIpSuUn3kXHYrYE2jn67u+k=": {
+      "id": "1YSEKIpSuUn3kXHYrYE2jn67u+k=",
+      "name": "operator==",
+      "access": "public",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 8
+        },
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 9
+        },
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 17
+        },
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 18
+        }
+      ],
+      "inner": {
+        "overloads": {
+          "operator": 30,
+          "members": [
+            "pqHl3WkOZfX6m6ltquhjuQtzXp4=",
+            "7bqo4XOxyyg5NIOu+8i4lZ3L47c=",
+            "gddLjn5hKdr6Ei8xKgtcB3bktI4=",
+            "cVrZLPSmQHMz47ziL64cElytjh0="
+          ]
+        }
+      }
+    },
+    "4aGYna+rxs12RgCDhUtoWDpmKfs=": {
+      "id": "4aGYna+rxs12RgCDhUtoWDpmKfs=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 12
+        },
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 13
+        }
+      ],
+      "inner": {
+        "overloads": {
+          "members": [
+            "s6nsa+zVhpzzrN+yUVPP5rvdXqs=",
+            "ackjGh57CJQLwtO8PihiSPPKIBY="
+          ]
+        }
+      }
+    },
+    "DtDtEEEXSf/BaRCcPpHrxSRE1w4=": {
+      "id": "DtDtEEEXSf/BaRCcPpHrxSRE1w4=",
+      "name": "f",
+      "access": "public",
+      "parent": "YrPSaKAbmXgzCAX5WByx4eVoqBM=",
+      "locations": [
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 2
+        },
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 3
+        }
+      ],
+      "inner": {
+        "overloads": {
+          "members": [
+            "hLXvGC+nOrLQRH9lODKkgi/oUas=",
+            "7Bg4Ruo9NHdsGok6ICFQWW1MBuE="
+          ]
+        }
+      }
+    },
+    "5udbkPowrL0j1FwO6R89G076ygw=": {
+      "id": "5udbkPowrL0j1FwO6R89G076ygw=",
+      "name": "g",
+      "access": "public",
+      "parent": "YrPSaKAbmXgzCAX5WByx4eVoqBM=",
+      "locations": [
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 5
+        },
+        {
+          "short_path": "overloads.cpp",
+          "source_path": "overloads.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "overloads": {
+          "members": [
+            "qw8/QuVZ7n9UkJWa5gz1gYkPlBc=",
+            "E2RBHdoNQKveCfR6zUiWe+Ztmtk="
+          ]
+        }
+      }
+    }
+  }
+}

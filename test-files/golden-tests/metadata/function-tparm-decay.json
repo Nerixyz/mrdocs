@@ -1,0 +1,322 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "eqMdBnxdb22zO3kokXFKlz9ktqg=": {
+      "id": "eqMdBnxdb22zO3kokXFKlz9ktqg=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "function-tparm-decay.cpp",
+          "source_path": "function-tparm-decay.cpp",
+          "line": 3
+        },
+        {
+          "short_path": "function-tparm-decay.cpp",
+          "source_path": "function-tparm-decay.cpp",
+          "line": 5
+        },
+        {
+          "short_path": "function-tparm-decay.cpp",
+          "source_path": "function-tparm-decay.cpp",
+          "line": 7
+        },
+        {
+          "short_path": "function-tparm-decay.cpp",
+          "source_path": "function-tparm-decay.cpp",
+          "line": 9
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "non_type": {
+                  "name": "x",
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "int"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "PvNOREc+JWxdkVgvSz+jC45IbGQ=": {
+      "id": "PvNOREc+JWxdkVgvSz+jC45IbGQ=",
+      "name": "T",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "function-tparm-decay.cpp",
+          "source_path": "function-tparm-decay.cpp",
+          "line": 30
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "is_using": true
+        }
+      }
+    },
+    "WsEgNgLbqe3a0eM5Bqsuf58XoH0=": {
+      "id": "WsEgNgLbqe3a0eM5Bqsuf58XoH0=",
+      "name": "g",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "function-tparm-decay.cpp",
+          "source_path": "function-tparm-decay.cpp",
+          "line": 12
+        },
+        {
+          "short_path": "function-tparm-decay.cpp",
+          "source_path": "function-tparm-decay.cpp",
+          "line": 14
+        },
+        {
+          "short_path": "function-tparm-decay.cpp",
+          "source_path": "function-tparm-decay.cpp",
+          "line": 16
+        },
+        {
+          "short_path": "function-tparm-decay.cpp",
+          "source_path": "function-tparm-decay.cpp",
+          "line": 18
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "non_type": {
+                  "name": "x",
+                  "type": {
+                    "array": {
+                      "element_type": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "int"
+                          }
+                        }
+                      },
+                      "bounds": {
+                        "value": 4,
+                        "written": ""
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "TjNHTu8/auH8QPVcgjW7FUo2dFM=": {
+      "id": "TjNHTu8/auH8QPVcgjW7FUo2dFM=",
+      "name": "h",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "function-tparm-decay.cpp",
+          "source_path": "function-tparm-decay.cpp",
+          "line": 21
+        },
+        {
+          "short_path": "function-tparm-decay.cpp",
+          "source_path": "function-tparm-decay.cpp",
+          "line": 23
+        },
+        {
+          "short_path": "function-tparm-decay.cpp",
+          "source_path": "function-tparm-decay.cpp",
+          "line": 25
+        },
+        {
+          "short_path": "function-tparm-decay.cpp",
+          "source_path": "function-tparm-decay.cpp",
+          "line": 27
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "non_type": {
+                  "name": "x",
+                  "type": {
+                    "pointer": {
+                      "pointee": {
+                        "function": {
+                          "return": {
+                            "named": {
+                              "name": {
+                                "kind": "identifier",
+                                "name": "int"
+                              }
+                            }
+                          },
+                          "params": [
+                            {
+                              "named": {
+                                "name": {
+                                  "kind": "identifier",
+                                  "name": "bool"
+                                },
+                                "cv_qualifiers": "const"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "h6hupdyuT6SfsCGFl6UUFGtvrcc=": {
+      "id": "h6hupdyuT6SfsCGFl6UUFGtvrcc=",
+      "name": "U",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "function-tparm-decay.cpp",
+          "source_path": "function-tparm-decay.cpp",
+          "line": 31
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              },
+              "cv_qualifiers": "const"
+            }
+          },
+          "is_using": true
+        }
+      }
+    },
+    "2woLp3PdyOT/I0DFMkY8OAli5YM=": {
+      "id": "2woLp3PdyOT/I0DFMkY8OAli5YM=",
+      "name": "i",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "function-tparm-decay.cpp",
+          "source_path": "function-tparm-decay.cpp",
+          "line": 33
+        },
+        {
+          "short_path": "function-tparm-decay.cpp",
+          "source_path": "function-tparm-decay.cpp",
+          "line": 35
+        },
+        {
+          "short_path": "function-tparm-decay.cpp",
+          "source_path": "function-tparm-decay.cpp",
+          "line": 37
+        },
+        {
+          "short_path": "function-tparm-decay.cpp",
+          "source_path": "function-tparm-decay.cpp",
+          "line": 39
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "non_type": {
+                  "name": "",
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "int"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

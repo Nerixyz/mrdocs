@@ -1,0 +1,342 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "STTnU4grbgOl2xPE6okWC57zruc=": {
+      "id": "STTnU4grbgOl2xPE6okWC57zruc=",
+      "name": "f0",
+      "access": "public",
+      "parent": "u38+snleg17KL7EQuD9FV1Z8b9E=",
+      "locations": [
+        {
+          "short_path": "record-access.cpp",
+          "source_path": "record-access.cpp",
+          "line": 5
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "IaPeEIwn9q94M3MuwxsB3qhBOSE=": {
+      "id": "IaPeEIwn9q94M3MuwxsB3qhBOSE=",
+      "name": "f1",
+      "access": "protected",
+      "parent": "u38+snleg17KL7EQuD9FV1Z8b9E=",
+      "locations": [
+        {
+          "short_path": "record-access.cpp",
+          "source_path": "record-access.cpp",
+          "line": 7
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "u38+snleg17KL7EQuD9FV1Z8b9E=": {
+      "id": "u38+snleg17KL7EQuD9FV1Z8b9E=",
+      "name": "S0",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "record-access.cpp",
+        "source_path": "record-access.cpp",
+        "line": 3
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "STTnU4grbgOl2xPE6okWC57zruc="
+              ]
+            },
+            "protected": {
+              "functions": [
+                "IaPeEIwn9q94M3MuwxsB3qhBOSE="
+              ]
+            },
+            "private": {
+              "functions": [
+                "QicvGhxlL09TrpXiFYAS+pz8/9g="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "QicvGhxlL09TrpXiFYAS+pz8/9g=": {
+      "id": "QicvGhxlL09TrpXiFYAS+pz8/9g=",
+      "name": "f2",
+      "access": "private",
+      "parent": "u38+snleg17KL7EQuD9FV1Z8b9E=",
+      "locations": [
+        {
+          "short_path": "record-access.cpp",
+          "source_path": "record-access.cpp",
+          "line": 9
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "sTaqkoFcVbtntbfpe777v5/pWL0=": {
+      "id": "sTaqkoFcVbtntbfpe777v5/pWL0=",
+      "name": "C0",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "record-access.cpp",
+        "source_path": "record-access.cpp",
+        "line": 12
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "interface": {
+            "public": {
+              "functions": [
+                "ZOAAp99eH9zKUZqx0JzW6AuhRTQ="
+              ]
+            },
+            "protected": {
+              "functions": [
+                "EyRDT2mXtRNmcISD2rsC6/mLusw="
+              ]
+            },
+            "private": {
+              "functions": [
+                "IdInRLjINkaIuyTqWyEUhoM1DZM="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "IdInRLjINkaIuyTqWyEUhoM1DZM=": {
+      "id": "IdInRLjINkaIuyTqWyEUhoM1DZM=",
+      "name": "f0",
+      "access": "private",
+      "parent": "sTaqkoFcVbtntbfpe777v5/pWL0=",
+      "locations": [
+        {
+          "short_path": "record-access.cpp",
+          "source_path": "record-access.cpp",
+          "line": 14
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "EyRDT2mXtRNmcISD2rsC6/mLusw=": {
+      "id": "EyRDT2mXtRNmcISD2rsC6/mLusw=",
+      "name": "f1",
+      "access": "protected",
+      "parent": "sTaqkoFcVbtntbfpe777v5/pWL0=",
+      "locations": [
+        {
+          "short_path": "record-access.cpp",
+          "source_path": "record-access.cpp",
+          "line": 16
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "ZOAAp99eH9zKUZqx0JzW6AuhRTQ=": {
+      "id": "ZOAAp99eH9zKUZqx0JzW6AuhRTQ=",
+      "name": "f2",
+      "access": "public",
+      "parent": "sTaqkoFcVbtntbfpe777v5/pWL0=",
+      "locations": [
+        {
+          "short_path": "record-access.cpp",
+          "source_path": "record-access.cpp",
+          "line": 18
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "SHIJWZPzfYtLVfe/rzFAmeVpANk=": {
+      "id": "SHIJWZPzfYtLVfe/rzFAmeVpANk=",
+      "name": "U0",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "record-access.cpp",
+        "source_path": "record-access.cpp",
+        "line": 21
+      },
+      "inner": {
+        "record": {
+          "kind": "union",
+          "interface": {
+            "public": {
+              "functions": [
+                "eY4R9etszWK2H42p4kWNm5XfpnE="
+              ]
+            },
+            "protected": {
+              "functions": [
+                "KjiG7Uufpmd65dhiSV+Jv2RjgHA="
+              ]
+            },
+            "private": {
+              "functions": [
+                "KXASSTkImsSKBg6l0hOSkbt1K7M="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "eY4R9etszWK2H42p4kWNm5XfpnE=": {
+      "id": "eY4R9etszWK2H42p4kWNm5XfpnE=",
+      "name": "f0",
+      "access": "public",
+      "parent": "SHIJWZPzfYtLVfe/rzFAmeVpANk=",
+      "locations": [
+        {
+          "short_path": "record-access.cpp",
+          "source_path": "record-access.cpp",
+          "line": 23
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "KjiG7Uufpmd65dhiSV+Jv2RjgHA=": {
+      "id": "KjiG7Uufpmd65dhiSV+Jv2RjgHA=",
+      "name": "f1",
+      "access": "protected",
+      "parent": "SHIJWZPzfYtLVfe/rzFAmeVpANk=",
+      "locations": [
+        {
+          "short_path": "record-access.cpp",
+          "source_path": "record-access.cpp",
+          "line": 25
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "KXASSTkImsSKBg6l0hOSkbt1K7M=": {
+      "id": "KXASSTkImsSKBg6l0hOSkbt1K7M=",
+      "name": "f2",
+      "access": "private",
+      "parent": "SHIJWZPzfYtLVfe/rzFAmeVpANk=",
+      "locations": [
+        {
+          "short_path": "record-access.cpp",
+          "source_path": "record-access.cpp",
+          "line": 27
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    }
+  }
+}

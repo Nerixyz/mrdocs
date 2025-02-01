@@ -1,0 +1,103 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "9Spd2Hgcx11GK/zJPhJblwaMxfU=": {
+      "id": "9Spd2Hgcx11GK/zJPhJblwaMxfU=",
+      "name": "type",
+      "access": "private",
+      "extraction": "dependency",
+      "parent": "pOYGF6pLJlICuiGO0Xj0daDb/to=",
+      "locations": [
+        {
+          "short_path": "class-private-alias.cpp",
+          "source_path": "class-private-alias.cpp",
+          "line": 3
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "is_using": true
+        }
+      }
+    },
+    "pOYGF6pLJlICuiGO0Xj0daDb/to=": {
+      "id": "pOYGF6pLJlICuiGO0Xj0daDb/to=",
+      "name": "S",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "class-private-alias.cpp",
+        "source_path": "class-private-alias.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "interface": {
+            "public": {
+              "functions": [
+                "rEl08eLCQtT5kTV7R87YlkuVPa8="
+              ]
+            },
+            "private": {
+              "typedefs": [
+                "9Spd2Hgcx11GK/zJPhJblwaMxfU="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "rEl08eLCQtT5kTV7R87YlkuVPa8=": {
+      "id": "rEl08eLCQtT5kTV7R87YlkuVPa8=",
+      "name": "f",
+      "access": "public",
+      "parent": "pOYGF6pLJlICuiGO0Xj0daDb/to=",
+      "def_loc": {
+        "short_path": "class-private-alias.cpp",
+        "source_path": "class-private-alias.cpp",
+        "line": 5
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "type",
+                    "id": "9Spd2Hgcx11GK/zJPhJblwaMxfU="
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

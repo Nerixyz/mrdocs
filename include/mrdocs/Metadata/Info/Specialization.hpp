@@ -11,6 +11,7 @@
 #ifndef MRDOCS_API_METADATA_SPECIALIZATION_HPP
 #define MRDOCS_API_METADATA_SPECIALIZATION_HPP
 
+#include <mrdocs/Metadata/Template.hpp>
 #include <mrdocs/Platform.hpp>
 #include <mrdocs/Metadata/Info.hpp>
 #include <mrdocs/Metadata/Template.hpp>

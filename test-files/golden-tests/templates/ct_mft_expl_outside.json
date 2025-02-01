@@ -1,0 +1,225 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "fjcm9F09lrCrLSgw6Swqw9KOBlM=": {
+      "id": "fjcm9F09lrCrLSgw6Swqw9KOBlM=",
+      "name": "f",
+      "access": "public",
+      "parent": "AKwlChAOi+0ttIAPsD7uitS+gk0=",
+      "def_loc": {
+        "short_path": "ct_mft_expl_outside.cpp",
+        "source_path": "ct_mft_expl_outside.cpp",
+        "line": 8
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "template": {
+            "kind": "explicit",
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "int"
+                      }
+                    }
+                  }
+                }
+              }
+            ],
+            "primary": "fycIFVnUjGsczEihLemEC7pcV4w="
+          }
+        }
+      }
+    },
+    "5tUSuMtQqtYE49jBjSYSWp0DJAM=": {
+      "id": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "ct_mft_expl_outside.cpp",
+        "source_path": "ct_mft_expl_outside.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "functions": [
+                "fycIFVnUjGsczEihLemEC7pcV4w="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "fycIFVnUjGsczEihLemEC7pcV4w=": {
+      "id": "fycIFVnUjGsczEihLemEC7pcV4w=",
+      "name": "f",
+      "access": "public",
+      "parent": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "def_loc": {
+        "short_path": "ct_mft_expl_outside.cpp",
+        "source_path": "ct_mft_expl_outside.cpp",
+        "line": 4
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "AKwlChAOi+0ttIAPsD7uitS+gk0=": {
+      "id": "AKwlChAOi+0ttIAPsD7uitS+gk0=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "ct_mft_expl_outside.cpp",
+        "source_path": "ct_mft_expl_outside.cpp",
+        "line": 2
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "explicit",
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "int"
+                      }
+                    }
+                  }
+                }
+              }
+            ],
+            "primary": "5tUSuMtQqtYE49jBjSYSWp0DJAM="
+          },
+          "interface": {
+            "public": {
+              "functions": [
+                "MI1OFR5/XDLERGb5fq/hGp0ML4Y="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "MtpaTgur0M7GGwfDIj9dUJZjaHM=": {
+      "id": "MtpaTgur0M7GGwfDIj9dUJZjaHM=",
+      "name": "f",
+      "access": "public",
+      "parent": "AKwlChAOi+0ttIAPsD7uitS+gk0=",
+      "locations": [
+        {
+          "short_path": "ct_mft_expl_outside.cpp",
+          "source_path": "ct_mft_expl_outside.cpp",
+          "line": 4
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "MI1OFR5/XDLERGb5fq/hGp0ML4Y=": {
+      "id": "MI1OFR5/XDLERGb5fq/hGp0ML4Y=",
+      "name": "f",
+      "access": "public",
+      "parent": "AKwlChAOi+0ttIAPsD7uitS+gk0=",
+      "def_loc": {
+        "short_path": "ct_mft_expl_outside.cpp",
+        "source_path": "ct_mft_expl_outside.cpp",
+        "line": 8
+      },
+      "locations": [
+        {
+          "short_path": "ct_mft_expl_outside.cpp",
+          "source_path": "ct_mft_expl_outside.cpp",
+          "line": 4
+        }
+      ],
+      "inner": {
+        "overloads": {
+          "members": [
+            "MtpaTgur0M7GGwfDIj9dUJZjaHM=",
+            "fjcm9F09lrCrLSgw6Swqw9KOBlM="
+          ]
+        }
+      }
+    }
+  }
+}

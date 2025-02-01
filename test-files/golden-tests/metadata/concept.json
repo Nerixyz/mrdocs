@@ -1,0 +1,106 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "Bzh2Bz1ZBW0d6sKvxtXunIUU31k=": {
+      "id": "Bzh2Bz1ZBW0d6sKvxtXunIUU31k=",
+      "name": "C",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "concept.cpp",
+          "source_path": "concept.cpp",
+          "line": 1
+        }
+      ],
+      "inner": {
+        "concept": {
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "constraint": "sizeof(T) == sizeof(int)"
+        }
+      }
+    },
+    "ujOvtFFNPf6akih2fga4S9j6Y9M=": {
+      "id": "ujOvtFFNPf6akih2fga4S9j6Y9M=",
+      "name": "x",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "concept.cpp",
+        "source_path": "concept.cpp",
+        "line": 7
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "auto": {
+              "keyword": "auto",
+              "constraint": {
+                "kind": "identifier",
+                "name": "C",
+                "id": "Bzh2Bz1ZBW0d6sKvxtXunIUU31k="
+              }
+            }
+          },
+          "initializer": "0"
+        }
+      }
+    },
+    "PmhXjCXUJYVnj/a7NhfjjSesyp0=": {
+      "id": "PmhXjCXUJYVnj/a7NhfjjSesyp0=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "concept.cpp",
+          "source_path": "concept.cpp",
+          "line": 4
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class",
+                  "constraint": {
+                    "kind": "identifier",
+                    "name": "C",
+                    "id": "Bzh2Bz1ZBW0d6sKvxtXunIUU31k="
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

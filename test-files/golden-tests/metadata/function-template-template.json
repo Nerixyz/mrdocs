@@ -1,0 +1,81 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "bE2iHZMP9X3RlkJcBwZ03NU57Pg=": {
+      "id": "bE2iHZMP9X3RlkJcBwZ03NU57Pg=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "function-template-template.cpp",
+        "source_path": "function-template-template.cpp",
+        "line": 1
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "param",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "specialization",
+                    "name": "ListType",
+                    "template_args": [
+                      {
+                        "type": {
+                          "type": {
+                            "named": {
+                              "name": {
+                                "kind": "identifier",
+                                "name": "int"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "template": {
+                  "name": "ListType",
+                  "params": [
+                    {
+                      "type": {
+                        "name": "",
+                        "is_parameter_pack": true,
+                        "key": "class"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "constexpr_kind": "constexpr"
+        }
+      }
+    }
+  }
+}

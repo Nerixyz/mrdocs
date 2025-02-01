@@ -1,0 +1,284 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "EL2iVro4/+6fOXPPcX7IoMmSMZk=": {
+      "id": "EL2iVro4/+6fOXPPcX7IoMmSMZk=",
+      "name": "f3",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "param": {
+            "direction": "inout",
+            "name": "i",
+            "content": [
+              {
+                "text": "int"
+              }
+            ]
+          }
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "param-1.cpp",
+          "source_path": "param-1.cpp",
+          "line": 11,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "i",
+              "type": {
+                "lvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "int"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "06c9/cj7ynxO8s2xGFiUMmPoJrQ=": {
+      "id": "06c9/cj7ynxO8s2xGFiUMmPoJrQ=",
+      "name": "f0",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "param": {
+            "name": "i",
+            "content": [
+              {
+                "text": "int"
+              }
+            ]
+          }
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "param-1.cpp",
+          "source_path": "param-1.cpp",
+          "line": 2,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "i",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "5jofYOgd8K45NHlUAz2rdRdXV8c=": {
+      "id": "5jofYOgd8K45NHlUAz2rdRdXV8c=",
+      "name": "f1",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "param": {
+            "direction": "in",
+            "name": "i",
+            "content": [
+              {
+                "text": "int"
+              }
+            ]
+          }
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "param-1.cpp",
+          "source_path": "param-1.cpp",
+          "line": 5,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "i",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "RSBDchPpm5nUn2mXG3zSA6ly9zE=": {
+      "id": "RSBDchPpm5nUn2mXG3zSA6ly9zE=",
+      "name": "f2",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "param": {
+            "direction": "out",
+            "name": "i",
+            "content": [
+              {
+                "text": "int"
+              }
+            ]
+          }
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "param-1.cpp",
+          "source_path": "param-1.cpp",
+          "line": 8,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "i",
+              "type": {
+                "lvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "int"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "IUsMOl+tEebMT021/9YMOSRZVIY=": {
+      "id": "IUsMOl+tEebMT021/9YMOSRZVIY=",
+      "name": "f4",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "param": {
+            "name": "i,j",
+            "content": [
+              {
+                "text": "numbers"
+              }
+            ]
+          }
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "param-1.cpp",
+          "source_path": "param-1.cpp",
+          "line": 14,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "i",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            },
+            {
+              "name": "j",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "double"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "8bX9GsmeU9RHTU5qqahjfu5RFHw=": {
+      "id": "8bX9GsmeU9RHTU5qqahjfu5RFHw=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "namespace-alias-3.cpp",
+          "source_path": "namespace-alias-3.cpp",
+          "line": 3
+        }
+      ],
+      "inner": {
+        "namespace_alias": {
+          "symbol": {
+            "kind": "identifier",
+            "name": "LongName",
+            "id": "IjtkITsyqdEWPMXZF3lD/2/XH0s="
+          }
+        }
+      }
+    },
+    "IjtkITsyqdEWPMXZF3lD/2/XH0s=": {
+      "id": "IjtkITsyqdEWPMXZF3lD/2/XH0s=",
+      "name": "LongName",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "namespace-alias-3.cpp",
+          "source_path": "namespace-alias-3.cpp",
+          "line": 1
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "vr8SVrdB6byha64PErh7G+ti7GY=": {
+      "id": "vr8SVrdB6byha64PErh7G+ti7GY=",
+      "name": "B",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "namespace-alias-3.cpp",
+          "source_path": "namespace-alias-3.cpp",
+          "line": 4
+        }
+      ],
+      "inner": {
+        "namespace_alias": {
+          "symbol": {
+            "kind": "identifier",
+            "name": "A",
+            "id": "8bX9GsmeU9RHTU5qqahjfu5RFHw="
+          }
+        }
+      }
+    }
+  }
+}

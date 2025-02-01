@@ -1,0 +1,50 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "rjlMNXAaWNMkQYMTJzRA1DR0DiE=": {
+      "id": "rjlMNXAaWNMkQYMTJzRA1DR0DiE=",
+      "name": "N",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "out-of-line-record-def.cpp",
+          "source_path": "out-of-line-record-def.cpp",
+          "line": 1
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "BOgJOhZPKKMy9QBLYD1JPMD1Doc=": {
+      "id": "BOgJOhZPKKMy9QBLYD1JPMD1Doc=",
+      "name": "S",
+      "parent": "rjlMNXAaWNMkQYMTJzRA1DR0DiE=",
+      "def_loc": {
+        "short_path": "out-of-line-record-def.cpp",
+        "source_path": "out-of-line-record-def.cpp",
+        "line": 6
+      },
+      "locations": [
+        {
+          "short_path": "out-of-line-record-def.cpp",
+          "source_path": "out-of-line-record-def.cpp",
+          "line": 3
+        }
+      ],
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    }
+  }
+}

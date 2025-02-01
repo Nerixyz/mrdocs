@@ -1,0 +1,270 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "CgGNdHpW5mG/i5741WPYQDw28OQ=": {
+      "id": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "name": "T",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Struct T brief"
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "friend-6.cpp",
+        "source_path": "friend-6.cpp",
+        "line": 2,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "friends": [
+                "TOrWTtN3z97T1vpET2Mp2ltgh8s=",
+                "TLQbNh0kqPKHKwvF5LteCiWQUaA="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "TOrWTtN3z97T1vpET2Mp2ltgh8s=": {
+      "id": "TOrWTtN3z97T1vpET2Mp2ltgh8s=",
+      "name": "int",
+      "access": "public",
+      "parent": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Friend int brief"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "friend-6.cpp",
+          "source_path": "friend-6.cpp",
+          "line": 5,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "friend": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          }
+        }
+      }
+    },
+    "TLQbNh0kqPKHKwvF5LteCiWQUaA=": {
+      "id": "TLQbNh0kqPKHKwvF5LteCiWQUaA=",
+      "name": "class Z",
+      "access": "public",
+      "parent": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Friend class Z brief"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "friend-6.cpp",
+          "source_path": "friend-6.cpp",
+          "line": 8,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "friend": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "Z",
+                "id": "NQ8uQgTcafPcttyBMHHLHAXA4MA="
+              }
+            }
+          }
+        }
+      }
+    },
+    "NQ8uQgTcafPcttyBMHHLHAXA4MA=": {
+      "id": "NQ8uQgTcafPcttyBMHHLHAXA4MA=",
+      "name": "Z",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "friend-6.cpp",
+          "source_path": "friend-6.cpp",
+          "line": 8
+        }
+      ],
+      "inner": {
+        "record": {
+          "kind": "class",
+          "interface": {}
+        }
+      }
+    },
+    "FLgkhM3m0U3Lo2o3XLPUizWPH00=": {
+      "id": "FLgkhM3m0U3Lo2o3XLPUizWPH00=",
+      "name": "U",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Struct U brief"
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "friend-6.cpp",
+        "source_path": "friend-6.cpp",
+        "line": 12,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "friends": [
+                "T7nF9IMYV70RWbouk5w3/LkJ6qU="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "T7nF9IMYV70RWbouk5w3/LkJ6qU=": {
+      "id": "T7nF9IMYV70RWbouk5w3/LkJ6qU=",
+      "name": "T",
+      "access": "public",
+      "parent": "FLgkhM3m0U3Lo2o3XLPUizWPH00=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Friend T brief"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "friend-6.cpp",
+          "source_path": "friend-6.cpp",
+          "line": 15,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "friend": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T",
+                "id": "CgGNdHpW5mG/i5741WPYQDw28OQ="
+              }
+            }
+          }
+        }
+      }
+    },
+    "9kzYwt0WPztMEDUaFxul1Jvqqs8=": {
+      "id": "9kzYwt0WPztMEDUaFxul1Jvqqs8=",
+      "name": "V",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Struct V brief"
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "friend-6.cpp",
+        "source_path": "friend-6.cpp",
+        "line": 19,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "friends": [
+                "QnW+Cvcvia1JQtcG0VzR5BfLOi0="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "QnW+Cvcvia1JQtcG0VzR5BfLOi0=": {
+      "id": "QnW+Cvcvia1JQtcG0VzR5BfLOi0=",
+      "name": "struct U",
+      "access": "public",
+      "parent": "9kzYwt0WPztMEDUaFxul1Jvqqs8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Friend struct U brief"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "friend-6.cpp",
+          "source_path": "friend-6.cpp",
+          "line": 22,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "friend": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "U",
+                "id": "FLgkhM3m0U3Lo2o3XLPUizWPH00="
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

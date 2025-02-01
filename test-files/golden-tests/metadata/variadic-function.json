@@ -1,0 +1,227 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "PvNOREc+JWxdkVgvSz+jC45IbGQ=": {
+      "id": "PvNOREc+JWxdkVgvSz+jC45IbGQ=",
+      "name": "T",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "variadic-function.cpp",
+          "source_path": "variadic-function.cpp",
+          "line": 1
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "function": {
+              "is_variadic": true,
+              "return": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "void"
+                  }
+                }
+              },
+              "params": []
+            }
+          },
+          "is_using": true
+        }
+      }
+    },
+    "lldWvRg9y+NwRnDpK3x2NF9+e08=": {
+      "id": "lldWvRg9y+NwRnDpK3x2NF9+e08=",
+      "name": "g",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "variadic-function.cpp",
+          "source_path": "variadic-function.cpp",
+          "line": 7
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ],
+          "is_variadic": true
+        }
+      }
+    },
+    "8nYw0KA23eAszqSOs0wOXAD1DYQ=": {
+      "id": "8nYw0KA23eAszqSOs0wOXAD1DYQ=",
+      "name": "C",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "variadic-function.cpp",
+          "source_path": "variadic-function.cpp",
+          "line": 9
+        }
+      ],
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "A",
+                  "default": {
+                    "type": {
+                      "type": {
+                        "function": {
+                          "is_variadic": true,
+                          "return": {
+                            "named": {
+                              "name": {
+                                "kind": "identifier",
+                                "name": "void"
+                              }
+                            }
+                          },
+                          "params": []
+                        }
+                      }
+                    }
+                  },
+                  "key": "typename"
+                }
+              },
+              {
+                "type": {
+                  "name": "B",
+                  "default": {
+                    "type": {
+                      "type": {
+                        "function": {
+                          "is_variadic": true,
+                          "return": {
+                            "named": {
+                              "name": {
+                                "kind": "identifier",
+                                "name": "void"
+                              }
+                            }
+                          },
+                          "params": [
+                            {
+                              "named": {
+                                "name": {
+                                  "kind": "identifier",
+                                  "name": "int"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  },
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {}
+        }
+      }
+    },
+    "h6hupdyuT6SfsCGFl6UUFGtvrcc=": {
+      "id": "h6hupdyuT6SfsCGFl6UUFGtvrcc=",
+      "name": "U",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "variadic-function.cpp",
+          "source_path": "variadic-function.cpp",
+          "line": 3
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "function": {
+              "is_variadic": true,
+              "return": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "void"
+                  }
+                }
+              },
+              "params": [
+                {
+                  "named": {
+                    "name": {
+                      "kind": "identifier",
+                      "name": "int"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "is_using": true
+        }
+      }
+    },
+    "CMaAySU4txrIlGl6edqWDSabBRA=": {
+      "id": "CMaAySU4txrIlGl6edqWDSabBRA=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "variadic-function.cpp",
+          "source_path": "variadic-function.cpp",
+          "line": 5
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "is_variadic": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "o++ChozQVnJgKoS41uCm96LOP14=": {
+      "id": "o++ChozQVnJgKoS41uCm96LOP14=",
+      "name": "bA",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "canonical_1.cpp",
+        "source_path": "canonical_1.cpp",
+        "line": 7
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "3JsK1DO0O+wZhv+0meptQrbs3fY=": {
+      "id": "3JsK1DO0O+wZhv+0meptQrbs3fY=",
+      "name": "B",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "canonical_1.cpp",
+        "source_path": "canonical_1.cpp",
+        "line": 2
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "bJjlANSkHT9fMIOJb+7rnfl9B2Q=": {
+      "id": "bJjlANSkHT9fMIOJb+7rnfl9B2Q=",
+      "name": "a",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "canonical_1.cpp",
+        "source_path": "canonical_1.cpp",
+        "line": 5
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "x22+jYd1xB7rz7rTGsgmwOre390=": {
+      "id": "x22+jYd1xB7rz7rTGsgmwOre390=",
+      "name": "b",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "canonical_1.cpp",
+        "source_path": "canonical_1.cpp",
+        "line": 3
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "YrPSaKAbmXgzCAX5WByx4eVoqBM=": {
+      "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "canonical_1.cpp",
+        "source_path": "canonical_1.cpp",
+        "line": 4
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "r32UJws/5rQHSwieW9XcY/Lu30k=": {
+      "id": "r32UJws/5rQHSwieW9XcY/Lu30k=",
+      "name": "Ba",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "canonical_1.cpp",
+        "source_path": "canonical_1.cpp",
+        "line": 6
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "64sjs/NcKpvextfuwbtyP/VMOJk=": {
+      "id": "64sjs/NcKpvextfuwbtyP/VMOJk=",
+      "name": "Bx",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "canonical_1.cpp",
+        "source_path": "canonical_1.cpp",
+        "line": 8
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "DnCAWz4yn8cUKkg886MMQcSEBhg=": {
+      "id": "DnCAWz4yn8cUKkg886MMQcSEBhg=",
+      "name": "ba",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "canonical_1.cpp",
+        "source_path": "canonical_1.cpp",
+        "line": 9
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    }
+  }
+}

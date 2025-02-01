@@ -1,0 +1,52 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "e/hP0+mSSe5Ju83w/5pueMcFgLQ=": {
+      "id": "e/hP0+mSSe5Ju83w/5pueMcFgLQ=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "attributes-2.cpp",
+          "source_path": "attributes-2.cpp",
+          "line": 3
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "params": [],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ]
+          },
+          "is_nodiscard": true,
+          "attributes": [
+            "nodiscard"
+          ]
+        }
+      }
+    }
+  }
+}

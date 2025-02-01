@@ -1,0 +1,85 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "s6nsa+zVhpzzrN+yUVPP5rvdXqs=": {
+      "id": "s6nsa+zVhpzzrN+yUVPP5rvdXqs=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "brief"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "This description contains code:"
+            }
+          ]
+        },
+        {
+          "code": [
+            {
+              "text": "    // code comment"
+            },
+            {
+              "text": "    // code comment"
+            },
+            {
+              "text": "    template < class T >"
+            },
+            {
+              "text": "    auto"
+            },
+            {
+              "text": "    algorithm( T&& v = {} ) ->"
+            },
+            {
+              "text": "        typename T::result_type"
+            },
+            {
+              "text": "    {"
+            },
+            {
+              "text": "        return v.result();"
+            },
+            {
+              "text": "    }"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "code.cpp",
+          "source_path": "code.cpp",
+          "line": 18,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "X6uKu3BxyFPud2u42zNKbyA0XfU=": {
+      "id": "X6uKu3BxyFPud2u42zNKbyA0XfU=",
+      "name": "is_prime",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Return true if a number is prime."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "text": "Complexity"
+          }
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Linear in n."
+            }
+          ]
+        },
+        {
+          "returns": [
+            {
+              "text": "Whether or not n is prime.    "
+            }
+          ]
+        },
+        {
+          "param": {
+            "name": "n",
+            "content": [
+              {
+                "text": "The number to test"
+              }
+            ]
+          }
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "is_prime.cpp",
+          "source_path": "is_prime.cpp",
+          "line": 11,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "bool"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "n",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "unsigned long long"
+                  }
+                }
+              }
+            }
+          ],
+          "noexcept": {
+            "implicit": false,
+            "kind": "noexcept"
+          }
+        }
+      }
+    }
+  }
+}

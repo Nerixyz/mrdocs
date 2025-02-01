@@ -1,0 +1,109 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "iczIHP1J59EwYw3xxL3w2C3Q43Q=": {
+      "id": "iczIHP1J59EwYw3xxL3w2C3Q43Q=",
+      "name": "Empty",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "no_unique_address.cpp",
+        "source_path": "no_unique_address.cpp",
+        "line": 3
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "91xV6rCFObgi6i1/U2uZ/GnD3WM=": {
+      "id": "91xV6rCFObgi6i1/U2uZ/GnD3WM=",
+      "name": "i",
+      "access": "public",
+      "parent": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "locations": [
+        {
+          "short_path": "no_unique_address.cpp",
+          "source_path": "no_unique_address.cpp",
+          "line": 7
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          }
+        }
+      }
+    },
+    "CgGNdHpW5mG/i5741WPYQDw28OQ=": {
+      "id": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "name": "T",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "no_unique_address.cpp",
+        "source_path": "no_unique_address.cpp",
+        "line": 5
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "variables": [
+                "91xV6rCFObgi6i1/U2uZ/GnD3WM=",
+                "h2j8f921HD+Fyaokcs4ndGM/yNk="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "h2j8f921HD+Fyaokcs4ndGM/yNk=": {
+      "id": "h2j8f921HD+Fyaokcs4ndGM/yNk=",
+      "name": "e",
+      "access": "public",
+      "parent": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "locations": [
+        {
+          "short_path": "no_unique_address.cpp",
+          "source_path": "no_unique_address.cpp",
+          "line": 8
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "Empty",
+                "id": "iczIHP1J59EwYw3xxL3w2C3Q43Q="
+              }
+            }
+          },
+          "default": "Empty{}",
+          "is_maybe_unused": true,
+          "is_deprecated": true,
+          "attributes": [
+            "deprecated",
+            "maybe_unused"
+          ]
+        }
+      }
+    }
+  }
+}

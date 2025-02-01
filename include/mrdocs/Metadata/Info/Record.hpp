@@ -49,6 +49,22 @@ struct RecordTranche
     std::vector<SymbolID> Guides;
     std::vector<SymbolID> Friends;
     std::vector<SymbolID> Usings;
+
+    operator bool() const noexcept {
+        return 
+            !NamespaceAliases.empty() ||
+            !Typedefs.empty() ||
+            !Records.empty() ||
+            !Enums.empty() ||
+            !Functions.empty() ||
+            !StaticFunctions.empty() ||
+            !Variables.empty() ||
+            !StaticVariables.empty() ||
+            !Concepts.empty() ||
+            !Guides.empty() ||
+            !Friends.empty() ||
+            !Usings.empty();
+    }
 };
 
 MRDOCS_DECL

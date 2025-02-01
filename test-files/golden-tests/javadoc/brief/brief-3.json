@@ -1,0 +1,265 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "ackjGh57CJQLwtO8PihiSPPKIBY=": {
+      "id": "ackjGh57CJQLwtO8PihiSPPKIBY=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "brief": [
+            {
+              "text": "Integer overload. "
+            }
+          ]
+        },
+        {
+          "details": [
+            {
+              "text": "More info"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "brief-3.cpp",
+          "source_path": "brief-3.cpp",
+          "line": 5,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "4aGYna+rxs12RgCDhUtoWDpmKfs=": {
+      "id": "4aGYna+rxs12RgCDhUtoWDpmKfs=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "brief-3.cpp",
+          "source_path": "brief-3.cpp",
+          "line": 5,
+          "documented": true
+        },
+        {
+          "short_path": "brief-3.cpp",
+          "source_path": "brief-3.cpp",
+          "line": 11,
+          "documented": true
+        },
+        {
+          "short_path": "brief-3.cpp",
+          "source_path": "brief-3.cpp",
+          "line": 14,
+          "documented": true
+        },
+        {
+          "short_path": "brief-3.cpp",
+          "source_path": "brief-3.cpp",
+          "line": 17,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "overloads": {
+          "members": [
+            "ackjGh57CJQLwtO8PihiSPPKIBY=",
+            "dA/yAiFWSDtn+ZTCAVyKiceMjwY=",
+            "8HikSjplV248Xlimdc3WQFts5g8=",
+            "u1t7CFC30SbmMkunoYuyE7paABA="
+          ]
+        }
+      }
+    },
+    "dA/yAiFWSDtn+ZTCAVyKiceMjwY=": {
+      "id": "dA/yAiFWSDtn+ZTCAVyKiceMjwY=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "brief": [
+            {
+              "text": "C string overload. "
+            }
+          ]
+        },
+        {
+          "details": [
+            {
+              "text": "More info"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "brief-3.cpp",
+          "source_path": "brief-3.cpp",
+          "line": 11,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "char"
+                      },
+                      "cv_qualifiers": "const"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "8HikSjplV248Xlimdc3WQFts5g8=": {
+      "id": "8HikSjplV248Xlimdc3WQFts5g8=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Integer overload."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "brief-3.cpp",
+          "source_path": "brief-3.cpp",
+          "line": 14,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "double"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "u1t7CFC30SbmMkunoYuyE7paABA=": {
+      "id": "u1t7CFC30SbmMkunoYuyE7paABA=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "C string overload."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "brief-3.cpp",
+          "source_path": "brief-3.cpp",
+          "line": 17,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "float"
+                      },
+                      "cv_qualifiers": "const"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

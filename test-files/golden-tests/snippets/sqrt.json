@@ -1,0 +1,116 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "ulFDUE1svTCX8fV/h8EIp4NNbWs=": {
+      "id": "ulFDUE1svTCX8fV/h8EIp4NNbWs=",
+      "name": "sqrt",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Computes the square root of an integral value."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "This function calculates the square root of a    given integral value using bit manipulation."
+            }
+          ]
+        },
+        {
+          "throws": {
+            "exception": {
+              "id": "AAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+              "text": "std::invalid_argument"
+            },
+            "content": [
+              {
+                "text": "if the input value is negative."
+              }
+            ]
+          }
+        },
+        {
+          "tparam": {
+            "name": "T",
+            "content": [
+              {
+                "text": "The type of the input value. Must be an integral type.    "
+              }
+            ]
+          }
+        },
+        {
+          "param": {
+            "name": "value",
+            "content": [
+              {
+                "text": "The integral value to compute the square root of.    "
+              }
+            ]
+          }
+        },
+        {
+          "returns": [
+            {
+              "text": "The square root of the input value."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "sqrt.cpp",
+        "source_path": "sqrt.cpp",
+        "line": 15,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "value",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "T"
+                  }
+                }
+              }
+            }
+          ],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "requires": "std::is_integral_v<T>"
+        }
+      }
+    }
+  }
+}

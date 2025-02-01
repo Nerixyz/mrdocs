@@ -1,0 +1,78 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "jv2AC4inoS2L4+tVOPxfYiZpb3g=": {
+      "id": "jv2AC4inoS2L4+tVOPxfYiZpb3g=",
+      "name": "my_function",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "brief": [
+            {
+              "text": "A function"
+            }
+          ]
+        },
+        {
+          "heading": {
+            "text": "A heading. Some text."
+          }
+        },
+        {
+          "paragraph": [
+            {
+              "text": "More text..."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Another paragraph Next line"
+            }
+          ]
+        },
+        {
+          "heading": {
+            "text": "Exception safety"
+          }
+        },
+        {
+          "paragraph": [
+            {
+              "text": "No-throw guarantee."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "para-3.cpp",
+          "source_path": "para-3.cpp",
+          "line": 16,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    }
+  }
+}

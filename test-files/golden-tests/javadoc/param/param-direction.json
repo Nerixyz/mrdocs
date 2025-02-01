@@ -1,0 +1,660 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "wOc7mtwXPodKdeWFmSfib8PaSww=": {
+      "id": "wOc7mtwXPodKdeWFmSfib8PaSww=",
+      "name": "g",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "param": {
+            "name": "x1",
+            "content": []
+          }
+        },
+        {
+          "param": {
+            "direction": "in",
+            "name": "y1",
+            "content": []
+          }
+        }
+      ],
+      "def_loc": {
+        "short_path": "param-direction.cpp",
+        "source_path": "param-direction.cpp",
+        "line": 10,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "x1",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            },
+            {
+              "name": "y1",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "SUTpP/LXJ8XB7ZE93wUMkKJEFzE=": {
+      "id": "SUTpP/LXJ8XB7ZE93wUMkKJEFzE=",
+      "name": "h",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "param": {
+            "name": "x2",
+            "content": []
+          }
+        },
+        {
+          "param": {
+            "direction": "out",
+            "name": "y2",
+            "content": []
+          }
+        }
+      ],
+      "def_loc": {
+        "short_path": "param-direction.cpp",
+        "source_path": "param-direction.cpp",
+        "line": 16,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "x2",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            },
+            {
+              "name": "y2",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "ackjGh57CJQLwtO8PihiSPPKIBY=": {
+      "id": "ackjGh57CJQLwtO8PihiSPPKIBY=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "param": {
+            "name": "x0",
+            "content": []
+          }
+        }
+      ],
+      "def_loc": {
+        "short_path": "param-direction.cpp",
+        "source_path": "param-direction.cpp",
+        "line": 4,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "x0",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "r7dQzLcKLYSiiLyeiW1mNXI0/dk=": {
+      "id": "r7dQzLcKLYSiiLyeiW1mNXI0/dk=",
+      "name": "i",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "param": {
+            "direction": "in",
+            "name": "x3",
+            "content": []
+          }
+        },
+        {
+          "param": {
+            "direction": "out",
+            "name": "y3",
+            "content": []
+          }
+        }
+      ],
+      "def_loc": {
+        "short_path": "param-direction.cpp",
+        "source_path": "param-direction.cpp",
+        "line": 22,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "x3",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            },
+            {
+              "name": "y3",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "/AoXdw7cVEwQaKQbx9cHio6Nmg4=": {
+      "id": "/AoXdw7cVEwQaKQbx9cHio6Nmg4=",
+      "name": "k",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "param": {
+            "direction": "out",
+            "name": "x5",
+            "content": []
+          }
+        },
+        {
+          "param": {
+            "direction": "in",
+            "name": "y5",
+            "content": []
+          }
+        },
+        {
+          "param": {
+            "name": "z5",
+            "content": []
+          }
+        }
+      ],
+      "def_loc": {
+        "short_path": "param-direction.cpp",
+        "source_path": "param-direction.cpp",
+        "line": 35,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "x5",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            },
+            {
+              "name": "y5",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            },
+            {
+              "name": "z5",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "r31pQ1z3fOa9WmZAd065l+zwBuo=": {
+      "id": "r31pQ1z3fOa9WmZAd065l+zwBuo=",
+      "name": "j",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "param": {
+            "name": "x4",
+            "content": []
+          }
+        },
+        {
+          "param": {
+            "direction": "inout",
+            "name": "y4",
+            "content": []
+          }
+        }
+      ],
+      "def_loc": {
+        "short_path": "param-direction.cpp",
+        "source_path": "param-direction.cpp",
+        "line": 28,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "x4",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            },
+            {
+              "name": "y4",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "IcsfRcafZ9MAxyscbeqD6JBWohA=": {
+      "id": "IcsfRcafZ9MAxyscbeqD6JBWohA=",
+      "name": "l",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "param": {
+            "direction": "out",
+            "name": "x6",
+            "content": []
+          }
+        },
+        {
+          "param": {
+            "name": "y6",
+            "content": []
+          }
+        },
+        {
+          "param": {
+            "direction": "in",
+            "name": "z6",
+            "content": []
+          }
+        }
+      ],
+      "def_loc": {
+        "short_path": "param-direction.cpp",
+        "source_path": "param-direction.cpp",
+        "line": 42,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "x6",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            },
+            {
+              "name": "y6",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            },
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            },
+            {
+              "name": "z6",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "F8cRGf9/eHn/XbtREVgRcfoLdZQ=": {
+      "id": "F8cRGf9/eHn/XbtREVgRcfoLdZQ=",
+      "name": "m",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "param": {
+            "direction": "in",
+            "name": "x7",
+            "content": []
+          }
+        },
+        {
+          "param": {
+            "direction": "out",
+            "name": "y7",
+            "content": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "param-direction.cpp",
+          "source_path": "param-direction.cpp",
+          "line": 47,
+          "documented": true
+        },
+        {
+          "short_path": "param-direction.cpp",
+          "source_path": "param-direction.cpp",
+          "line": 52,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "x7",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            },
+            {
+              "name": "y7",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "VQbsVNVJyIh3DE7+az/K+7nc2nA=": {
+      "id": "VQbsVNVJyIh3DE7+az/K+7nc2nA=",
+      "name": "n",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "param": {
+            "direction": "in",
+            "name": "x8",
+            "content": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "param-direction.cpp",
+          "source_path": "param-direction.cpp",
+          "line": 57,
+          "documented": true
+        },
+        {
+          "short_path": "param-direction.cpp",
+          "source_path": "param-direction.cpp",
+          "line": 62,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "x8",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "AnuHurRy/SuMp7tO9bRT33UqDko=": {
+      "id": "AnuHurRy/SuMp7tO9bRT33UqDko=",
+      "name": "o",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "param": {
+            "direction": "in",
+            "name": "x9",
+            "content": []
+          }
+        },
+        {
+          "param": {
+            "direction": "out",
+            "name": "x9",
+            "content": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "param-direction.cpp",
+          "source_path": "param-direction.cpp",
+          "line": 67,
+          "documented": true
+        },
+        {
+          "short_path": "param-direction.cpp",
+          "source_path": "param-direction.cpp",
+          "line": 72,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "x9",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

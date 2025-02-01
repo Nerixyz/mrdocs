@@ -1,0 +1,71 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "BLN6H1yQLtKanicO0huYQpQPbnk=": {
+      "id": "BLN6H1yQLtKanicO0huYQpQPbnk=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "redeclare.cpp",
+        "source_path": "redeclare.cpp",
+        "line": 11
+      },
+      "locations": [
+        {
+          "short_path": "redeclare.cpp",
+          "source_path": "redeclare.cpp",
+          "line": 5
+        },
+        {
+          "short_path": "redeclare.cpp",
+          "source_path": "redeclare.cpp",
+          "line": 8
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "void"
+                  }
+                }
+              }
+            }
+          ],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "requires": "std::is_class_v<T>"
+        }
+      }
+    }
+  }
+}

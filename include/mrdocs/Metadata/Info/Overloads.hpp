@@ -12,6 +12,8 @@
 #define MRDOCS_API_METADATA_OVERLOADS_HPP
 
 #include <mrdocs/Platform.hpp>
+#include <mrdocs/Metadata/Info.hpp>
+#include <mrdocs/Metadata/Info/Function.hpp>
 #include <ranges>
 
 namespace clang::mrdocs {

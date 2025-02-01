@@ -1,0 +1,49 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "+zl/sg3GXOLbrJGwRx2qkepftDY=": {
+      "id": "+zl/sg3GXOLbrJGwRx2qkepftDY=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "return-based.cpp",
+          "source_path": "return-based.cpp",
+          "line": 5
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "params": [],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "requires": "std::is_class_v<T>"
+        }
+      }
+    }
+  }
+}

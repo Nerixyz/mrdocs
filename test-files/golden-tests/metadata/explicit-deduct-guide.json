@@ -1,0 +1,263 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "7wllQWhGGsbbeoZVa3gh4d7bcq8=": {
+      "id": "7wllQWhGGsbbeoZVa3gh4d7bcq8=",
+      "name": "X",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "explicit-deduct-guide.cpp",
+        "source_path": "explicit-deduct-guide.cpp",
+        "line": 3
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "non_type": {
+                  "name": "",
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "int"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "interface": {}
+        }
+      }
+    },
+    "2IF4pOfGcA57GQDlE3PJgs7yeUs=": {
+      "id": "2IF4pOfGcA57GQDlE3PJgs7yeUs=",
+      "name": "X",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "explicit-deduct-guide.cpp",
+          "source_path": "explicit-deduct-guide.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "guide": {
+          "deduced": {
+            "named": {
+              "name": {
+                "kind": "specialization",
+                "name": "X",
+                "id": "7wllQWhGGsbbeoZVa3gh4d7bcq8=",
+                "template_args": [
+                  {
+                    "non_type": {
+                      "value": "0"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "bool"
+                  }
+                }
+              }
+            }
+          ],
+          "explicit": {
+            "implicit": false,
+            "kind": "explicit"
+          }
+        }
+      }
+    },
+    "AtQyLakD3CjcM24GabAbHMNgVU4=": {
+      "id": "AtQyLakD3CjcM24GabAbHMNgVU4=",
+      "name": "X",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "explicit-deduct-guide.cpp",
+          "source_path": "explicit-deduct-guide.cpp",
+          "line": 8
+        }
+      ],
+      "inner": {
+        "guide": {
+          "deduced": {
+            "named": {
+              "name": {
+                "kind": "specialization",
+                "name": "X",
+                "id": "7wllQWhGGsbbeoZVa3gh4d7bcq8=",
+                "template_args": [
+                  {
+                    "non_type": {
+                      "value": "0"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "char"
+                  }
+                }
+              }
+            }
+          ],
+          "explicit": {
+            "implicit": false,
+            "kind": "explicit",
+            "operand": "true"
+          }
+        }
+      }
+    },
+    "YS/v8XQ/9ShQ2spNAh5EY33PN7s=": {
+      "id": "YS/v8XQ/9ShQ2spNAh5EY33PN7s=",
+      "name": "X",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "explicit-deduct-guide.cpp",
+          "source_path": "explicit-deduct-guide.cpp",
+          "line": 12
+        }
+      ],
+      "inner": {
+        "guide": {
+          "deduced": {
+            "named": {
+              "name": {
+                "kind": "specialization",
+                "name": "X",
+                "id": "7wllQWhGGsbbeoZVa3gh4d7bcq8=",
+                "template_args": [
+                  {
+                    "non_type": {
+                      "value": "0"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "non_type": {
+                  "name": "B",
+                  "default": {
+                    "non_type": {
+                      "value": "true"
+                    }
+                  },
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "bool"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "long"
+                  }
+                }
+              }
+            }
+          ],
+          "explicit": {
+            "implicit": false,
+            "kind": "explicit(...)",
+            "operand": "B"
+          }
+        }
+      }
+    },
+    "tkYkUU6H8cbFpCU7yBuvBLkT6dg=": {
+      "id": "tkYkUU6H8cbFpCU7yBuvBLkT6dg=",
+      "name": "X",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "explicit-deduct-guide.cpp",
+          "source_path": "explicit-deduct-guide.cpp",
+          "line": 10
+        }
+      ],
+      "inner": {
+        "guide": {
+          "deduced": {
+            "named": {
+              "name": {
+                "kind": "specialization",
+                "name": "X",
+                "id": "7wllQWhGGsbbeoZVa3gh4d7bcq8=",
+                "template_args": [
+                  {
+                    "non_type": {
+                      "value": "0"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

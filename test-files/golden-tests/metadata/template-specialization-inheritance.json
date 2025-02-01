@@ -1,0 +1,469 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "z/QEAP16LEoD3NlABxA6BOFpYpA=": {
+      "id": "z/QEAP16LEoD3NlABxA6BOFpYpA=",
+      "name": "S0",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "template-specialization-inheritance.cpp",
+        "source_path": "template-specialization-inheritance.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "non_type": {
+                  "name": "I",
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "int"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "type": {
+                  "name": "T",
+                  "default": {
+                    "type": {
+                      "type": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "void"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "records": [
+                "2CQyWIWOAM25oQ1AdJcdT6hFqAE="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "2CQyWIWOAM25oQ1AdJcdT6hFqAE=": {
+      "id": "2CQyWIWOAM25oQ1AdJcdT6hFqAE=",
+      "name": "S1",
+      "access": "public",
+      "parent": "z/QEAP16LEoD3NlABxA6BOFpYpA=",
+      "def_loc": {
+        "short_path": "template-specialization-inheritance.cpp",
+        "source_path": "template-specialization-inheritance.cpp",
+        "line": 4
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "flxREiXFL5ObY0xUAxojj+jvR54=": {
+      "id": "flxREiXFL5ObY0xUAxojj+jvR54=",
+      "name": "S0",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "template-specialization-inheritance.cpp",
+        "source_path": "template-specialization-inheritance.cpp",
+        "line": 13
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "explicit",
+            "args": [
+              {
+                "non_type": {
+                  "value": "6"
+                }
+              }
+            ],
+            "primary": "z/QEAP16LEoD3NlABxA6BOFpYpA="
+          },
+          "interface": {}
+        }
+      }
+    },
+    "yY+X2/Fqu8ENz37/HFEJCBOSfVg=": {
+      "id": "yY+X2/Fqu8ENz37/HFEJCBOSfVg=",
+      "name": "S1",
+      "access": "public",
+      "parent": "nJGs54s6oYf7fHzIpo0tyaCSH9M=",
+      "def_loc": {
+        "short_path": "template-specialization-inheritance.cpp",
+        "source_path": "template-specialization-inheritance.cpp",
+        "line": 4
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "c7NNZfjOZ8Ztuw0u26xL/h7UKvA=": {
+      "id": "c7NNZfjOZ8Ztuw0u26xL/h7UKvA=",
+      "name": "S0",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "template-specialization-inheritance.cpp",
+        "source_path": "template-specialization-inheritance.cpp",
+        "line": 8
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "explicit",
+            "args": [
+              {
+                "non_type": {
+                  "value": "3"
+                }
+              }
+            ],
+            "primary": "z/QEAP16LEoD3NlABxA6BOFpYpA="
+          },
+          "interface": {}
+        }
+      }
+    },
+    "lsUGNSojS1OrjDye4KqyplKnmEY=": {
+      "id": "lsUGNSojS1OrjDye4KqyplKnmEY=",
+      "name": "R0",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "template-specialization-inheritance.cpp",
+        "source_path": "template-specialization-inheritance.cpp",
+        "line": 18
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "specialization",
+                    "name": "S0",
+                    "id": "z/QEAP16LEoD3NlABxA6BOFpYpA=",
+                    "template_args": [
+                      {
+                        "non_type": {
+                          "value": "1"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              "access": "public"
+            }
+          ],
+          "interface": {
+            "public": {
+              "records": [
+                "2CQyWIWOAM25oQ1AdJcdT6hFqAE="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "YYlx+bpT0g8LLZjxP8HUJkX8Z0g=": {
+      "id": "YYlx+bpT0g8LLZjxP8HUJkX8Z0g=",
+      "name": "R1",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "template-specialization-inheritance.cpp",
+        "source_path": "template-specialization-inheritance.cpp",
+        "line": 21
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "S1",
+                    "id": "yY+X2/Fqu8ENz37/HFEJCBOSfVg=",
+                    "prefix": {
+                      "kind": "specialization",
+                      "name": "S0",
+                      "id": "z/QEAP16LEoD3NlABxA6BOFpYpA=",
+                      "template_args": [
+                        {
+                          "non_type": {
+                            "value": "2"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "access": "public"
+            }
+          ],
+          "interface": {}
+        }
+      }
+    },
+    "nJGs54s6oYf7fHzIpo0tyaCSH9M=": {
+      "id": "nJGs54s6oYf7fHzIpo0tyaCSH9M=",
+      "name": "S0",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "template-specialization-inheritance.cpp",
+        "source_path": "template-specialization-inheritance.cpp",
+        "line": 2
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "explicit",
+            "args": [
+              {
+                "non_type": {
+                  "value": "2"
+                }
+              }
+            ],
+            "primary": "z/QEAP16LEoD3NlABxA6BOFpYpA="
+          },
+          "interface": {
+            "public": {
+              "records": [
+                "yY+X2/Fqu8ENz37/HFEJCBOSfVg="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "Pfk0q5rrybeWgcReRmbZG1bbEqc=": {
+      "id": "Pfk0q5rrybeWgcReRmbZG1bbEqc=",
+      "name": "R2",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "template-specialization-inheritance.cpp",
+        "source_path": "template-specialization-inheritance.cpp",
+        "line": 24
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "specialization",
+                    "name": "S0",
+                    "id": "c7NNZfjOZ8Ztuw0u26xL/h7UKvA=",
+                    "template_args": [
+                      {
+                        "non_type": {
+                          "value": "3"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              "access": "public"
+            }
+          ],
+          "interface": {}
+        }
+      }
+    },
+    "2DOFhSBPren8Rw+/vSgsbyPjRI0=": {
+      "id": "2DOFhSBPren8Rw+/vSgsbyPjRI0=",
+      "name": "U1",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "template-specialization-inheritance.cpp",
+          "source_path": "template-specialization-inheritance.cpp",
+          "line": 27
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "specialization",
+                "name": "S0",
+                "id": "z/QEAP16LEoD3NlABxA6BOFpYpA=",
+                "template_args": [
+                  {
+                    "non_type": {
+                      "value": "4"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "is_using": true
+        }
+      }
+    },
+    "X6KbROPV/IRFOdO2OYUxsKxa1H0=": {
+      "id": "X6KbROPV/IRFOdO2OYUxsKxa1H0=",
+      "name": "U2",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "template-specialization-inheritance.cpp",
+          "source_path": "template-specialization-inheritance.cpp",
+          "line": 30
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "S1",
+                "id": "fzQKX2ygXfWjrcDi23o2CnGMkaY=",
+                "prefix": {
+                  "kind": "specialization",
+                  "name": "S0",
+                  "id": "z/QEAP16LEoD3NlABxA6BOFpYpA=",
+                  "template_args": [
+                    {
+                      "non_type": {
+                        "value": "5"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "is_using": true
+        }
+      }
+    },
+    "fzQKX2ygXfWjrcDi23o2CnGMkaY=": {
+      "id": "fzQKX2ygXfWjrcDi23o2CnGMkaY=",
+      "name": "S1",
+      "access": "public",
+      "parent": "6Syw3aWFS3pfPUbWU7C8uCE7Jjc=",
+      "locations": [
+        {
+          "short_path": "template-specialization-inheritance.cpp",
+          "source_path": "template-specialization-inheritance.cpp",
+          "line": 4
+        }
+      ],
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "6Syw3aWFS3pfPUbWU7C8uCE7Jjc=": {
+      "id": "6Syw3aWFS3pfPUbWU7C8uCE7Jjc=",
+      "name": "S0",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "template-specialization-inheritance.cpp",
+        "source_path": "template-specialization-inheritance.cpp",
+        "line": 2
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "explicit",
+            "args": [
+              {
+                "non_type": {
+                  "value": "5"
+                }
+              }
+            ],
+            "primary": "z/QEAP16LEoD3NlABxA6BOFpYpA="
+          },
+          "interface": {
+            "public": {
+              "records": [
+                "fzQKX2ygXfWjrcDi23o2CnGMkaY="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "Nut/RWYhsDylzRDvf66d3iJDOR8=": {
+      "id": "Nut/RWYhsDylzRDvf66d3iJDOR8=",
+      "name": "U3",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "template-specialization-inheritance.cpp",
+          "source_path": "template-specialization-inheritance.cpp",
+          "line": 33
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "specialization",
+                "name": "S0",
+                "id": "flxREiXFL5ObY0xUAxojj+jvR54=",
+                "template_args": [
+                  {
+                    "non_type": {
+                      "value": "6"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "is_using": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "s6nsa+zVhpzzrN+yUVPP5rvdXqs=": {
+      "id": "s6nsa+zVhpzzrN+yUVPP5rvdXqs=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "precondition": [
+            {
+              "text": "first precondition    "
+            }
+          ]
+        },
+        {
+          "precondition": [
+            {
+              "text": "second precondition"
+            }
+          ]
+        },
+        {
+          "postcondition": [
+            {
+              "text": "first postcondition"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "pre-post.cpp",
+          "source_path": "pre-post.cpp",
+          "line": 7,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "CnO51rIKTzfiVKHkR3TdPa0eo+8=": {
+      "id": "CnO51rIKTzfiVKHkR3TdPa0eo+8=",
+      "name": "f1",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "noreturn.cpp",
+          "source_path": "noreturn.cpp",
+          "line": 1
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "is_no_return": true,
+          "attributes": [
+            "noreturn"
+          ]
+        }
+      }
+    },
+    "QjsWLydQujVa097RP8f2Lq3nLQ4=": {
+      "id": "QjsWLydQujVa097RP8f2Lq3nLQ4=",
+      "name": "f2",
+      "access": "public",
+      "parent": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "locations": [
+        {
+          "short_path": "noreturn.cpp",
+          "source_path": "noreturn.cpp",
+          "line": 5
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "is_no_return": true,
+          "storage_class": "static",
+          "attributes": [
+            "noreturn"
+          ]
+        }
+      }
+    },
+    "vtSOGI1LSo+Nkv4yPvufiluoyko=": {
+      "id": "vtSOGI1LSo+Nkv4yPvufiluoyko=",
+      "name": "f1",
+      "access": "public",
+      "parent": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "locations": [
+        {
+          "short_path": "noreturn.cpp",
+          "source_path": "noreturn.cpp",
+          "line": 9
+        }
+      ],
+      "inner": {
+        "friend": {
+          "id": "CnO51rIKTzfiVKHkR3TdPa0eo+8="
+        }
+      }
+    },
+    "CgGNdHpW5mG/i5741WPYQDw28OQ=": {
+      "id": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "name": "T",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "noreturn.cpp",
+        "source_path": "noreturn.cpp",
+        "line": 3
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "TkBjWwqMDycyUbq+TJZ9qfUhSn0="
+              ],
+              "static_functions": [
+                "QjsWLydQujVa097RP8f2Lq3nLQ4="
+              ],
+              "friends": [
+                "vtSOGI1LSo+Nkv4yPvufiluoyko="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "TkBjWwqMDycyUbq+TJZ9qfUhSn0=": {
+      "id": "TkBjWwqMDycyUbq+TJZ9qfUhSn0=",
+      "name": "f3",
+      "access": "public",
+      "parent": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "locations": [
+        {
+          "short_path": "noreturn.cpp",
+          "source_path": "noreturn.cpp",
+          "line": 7
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "is_no_return": true,
+          "attributes": [
+            "noreturn"
+          ]
+        }
+      }
+    }
+  }
+}

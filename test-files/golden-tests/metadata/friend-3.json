@@ -1,0 +1,148 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "s6nsa+zVhpzzrN+yUVPP5rvdXqs=": {
+      "id": "s6nsa+zVhpzzrN+yUVPP5rvdXqs=",
+      "name": "f",
+      "access": "public",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "T::f"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "friend-3.cpp",
+          "source_path": "friend-3.cpp",
+          "line": 4,
+          "documented": true
+        },
+        {
+          "short_path": "friend-3.cpp",
+          "source_path": "friend-3.cpp",
+          "line": 9
+        },
+        {
+          "short_path": "friend-3.cpp",
+          "source_path": "friend-3.cpp",
+          "line": 12
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "Yz4fKLBfAghLfXF5KYrKPRlwXMA=": {
+      "id": "Yz4fKLBfAghLfXF5KYrKPRlwXMA=",
+      "name": "f",
+      "access": "public",
+      "parent": "FLgkhM3m0U3Lo2o3XLPUizWPH00=",
+      "locations": [
+        {
+          "short_path": "friend-3.cpp",
+          "source_path": "friend-3.cpp",
+          "line": 9
+        }
+      ],
+      "inner": {
+        "friend": {
+          "id": "s6nsa+zVhpzzrN+yUVPP5rvdXqs="
+        }
+      }
+    },
+    "CgGNdHpW5mG/i5741WPYQDw28OQ=": {
+      "id": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "name": "T",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "friend-3.cpp",
+        "source_path": "friend-3.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "friends": [
+                "MKqBnSfb2qzerVryOyz4f9W1BWM="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "MKqBnSfb2qzerVryOyz4f9W1BWM=": {
+      "id": "MKqBnSfb2qzerVryOyz4f9W1BWM=",
+      "name": "f",
+      "access": "public",
+      "parent": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "T::f"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "friend-3.cpp",
+          "source_path": "friend-3.cpp",
+          "line": 4,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "friend": {
+          "id": "s6nsa+zVhpzzrN+yUVPP5rvdXqs="
+        }
+      }
+    },
+    "FLgkhM3m0U3Lo2o3XLPUizWPH00=": {
+      "id": "FLgkhM3m0U3Lo2o3XLPUizWPH00=",
+      "name": "U",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "friend-3.cpp",
+        "source_path": "friend-3.cpp",
+        "line": 7
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "friends": [
+                "Yz4fKLBfAghLfXF5KYrKPRlwXMA="
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

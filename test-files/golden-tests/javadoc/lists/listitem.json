@@ -1,0 +1,202 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "khwJweIqd5FuWAg8T+l+GEljQVc=": {
+      "id": "khwJweIqd5FuWAg8T+l+GEljQVc=",
+      "name": "f3",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "brief "
+            }
+          ]
+        },
+        {
+          "unordered_list": {
+            "items": [
+              [
+                {
+                  "text": "item 1"
+                }
+              ],
+              [
+                {
+                  "text": "item 2"
+                }
+              ],
+              [
+                {
+                  "text": "item 3"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "listitem.cpp",
+          "source_path": "listitem.cpp",
+          "line": 24,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "e1UQQek5v3C9OClW5cGf57XvwQo=": {
+      "id": "e1UQQek5v3C9OClW5cGf57XvwQo=",
+      "name": "f0",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "unordered_list": {
+            "items": [
+              [
+                {
+                  "text": "item"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "listitem.cpp",
+          "source_path": "listitem.cpp",
+          "line": 2,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "CnO51rIKTzfiVKHkR3TdPa0eo+8=": {
+      "id": "CnO51rIKTzfiVKHkR3TdPa0eo+8=",
+      "name": "f1",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "unordered_list": {
+            "items": [
+              [
+                {
+                  "text": "item 1    "
+                }
+              ],
+              [
+                {
+                  "text": "item 2"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "listitem.cpp",
+          "source_path": "listitem.cpp",
+          "line": 7,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "0MJUv5yGFR9nXWFLeYc+rjOY+iM=": {
+      "id": "0MJUv5yGFR9nXWFLeYc+rjOY+iM=",
+      "name": "f2",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "brief "
+            }
+          ]
+        },
+        {
+          "unordered_list": {
+            "items": [
+              [
+                {
+                  "text": "item 1    "
+                }
+              ],
+              [
+                {
+                  "text": "item 2"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "listitem.cpp",
+          "source_path": "listitem.cpp",
+          "line": 14,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    }
+  }
+}

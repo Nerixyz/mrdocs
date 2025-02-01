@@ -1,0 +1,188 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "rOga+mYntM7ytFb7bhJSklZ0r34=": {
+      "id": "rOga+mYntM7ytFb7bhJSklZ0r34=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "union.cpp",
+        "source_path": "union.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "union",
+          "interface": {
+            "public": {
+              "variables": [
+                "Be23kXXQRAQHfKNTp2HOM2jouJo=",
+                "HqUCV+CnE+akUirdwlf8maZxw40="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "Be23kXXQRAQHfKNTp2HOM2jouJo=": {
+      "id": "Be23kXXQRAQHfKNTp2HOM2jouJo=",
+      "name": "x",
+      "access": "public",
+      "parent": "rOga+mYntM7ytFb7bhJSklZ0r34=",
+      "locations": [
+        {
+          "short_path": "union.cpp",
+          "source_path": "union.cpp",
+          "line": 3
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "is_variant": true
+        }
+      }
+    },
+    "QtOrWpj/+5ytPBCEoNlbW+uW/oA=": {
+      "id": "QtOrWpj/+5ytPBCEoNlbW+uW/oA=",
+      "name": "x",
+      "access": "public",
+      "parent": "3JsK1DO0O+wZhv+0meptQrbs3fY=",
+      "locations": [
+        {
+          "short_path": "union.cpp",
+          "source_path": "union.cpp",
+          "line": 11
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "is_variant": true
+        }
+      }
+    },
+    "HqUCV+CnE+akUirdwlf8maZxw40=": {
+      "id": "HqUCV+CnE+akUirdwlf8maZxw40=",
+      "name": "y",
+      "access": "public",
+      "parent": "rOga+mYntM7ytFb7bhJSklZ0r34=",
+      "locations": [
+        {
+          "short_path": "union.cpp",
+          "source_path": "union.cpp",
+          "line": 4
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "bool"
+              }
+            }
+          },
+          "is_variant": true
+        }
+      }
+    },
+    "8o+2/UVx4hIiDLQRYohp688sXmI=": {
+      "id": "8o+2/UVx4hIiDLQRYohp688sXmI=",
+      "name": "y",
+      "access": "public",
+      "parent": "3JsK1DO0O+wZhv+0meptQrbs3fY=",
+      "locations": [
+        {
+          "short_path": "union.cpp",
+          "source_path": "union.cpp",
+          "line": 12
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "bool"
+              }
+            }
+          },
+          "is_variant": true
+        }
+      }
+    },
+    "3JsK1DO0O+wZhv+0meptQrbs3fY=": {
+      "id": "3JsK1DO0O+wZhv+0meptQrbs3fY=",
+      "name": "B",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "union.cpp",
+        "source_path": "union.cpp",
+        "line": 7
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "variables": [
+                "QtOrWpj/+5ytPBCEoNlbW+uW/oA=",
+                "8o+2/UVx4hIiDLQRYohp688sXmI=",
+                "zTVqdWL2ShJziu85kaeOk2wfYFs="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "zTVqdWL2ShJziu85kaeOk2wfYFs=": {
+      "id": "zTVqdWL2ShJziu85kaeOk2wfYFs=",
+      "name": "z",
+      "access": "public",
+      "parent": "3JsK1DO0O+wZhv+0meptQrbs3fY=",
+      "locations": [
+        {
+          "short_path": "union.cpp",
+          "source_path": "union.cpp",
+          "line": 15
+        }
+      ],
+      "inner": {
+        "field": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

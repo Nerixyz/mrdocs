@@ -1,0 +1,291 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "PvNOREc+JWxdkVgvSz+jC45IbGQ=": {
+      "id": "PvNOREc+JWxdkVgvSz+jC45IbGQ=",
+      "name": "T",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "function-parm-decay.cpp",
+          "source_path": "function-parm-decay.cpp",
+          "line": 18
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "is_using": true
+        }
+      }
+    },
+    "ackjGh57CJQLwtO8PihiSPPKIBY=": {
+      "id": "ackjGh57CJQLwtO8PihiSPPKIBY=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "function-parm-decay.cpp",
+          "source_path": "function-parm-decay.cpp",
+          "line": 3
+        },
+        {
+          "short_path": "function-parm-decay.cpp",
+          "source_path": "function-parm-decay.cpp",
+          "line": 4
+        },
+        {
+          "short_path": "function-parm-decay.cpp",
+          "source_path": "function-parm-decay.cpp",
+          "line": 5
+        },
+        {
+          "short_path": "function-parm-decay.cpp",
+          "source_path": "function-parm-decay.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "x",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  },
+                  "cv_qualifiers": "const"
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "CJhykN8TDmEo0Pl8UC2D9+rotIs=": {
+      "id": "CJhykN8TDmEo0Pl8UC2D9+rotIs=",
+      "name": "g",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "function-parm-decay.cpp",
+          "source_path": "function-parm-decay.cpp",
+          "line": 8
+        },
+        {
+          "short_path": "function-parm-decay.cpp",
+          "source_path": "function-parm-decay.cpp",
+          "line": 9
+        },
+        {
+          "short_path": "function-parm-decay.cpp",
+          "source_path": "function-parm-decay.cpp",
+          "line": 10
+        },
+        {
+          "short_path": "function-parm-decay.cpp",
+          "source_path": "function-parm-decay.cpp",
+          "line": 11
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "x",
+              "type": {
+                "pointer": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "int"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "O4TonOdK6PIf6z1nHqJsqg7QfBw=": {
+      "id": "O4TonOdK6PIf6z1nHqJsqg7QfBw=",
+      "name": "h",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "function-parm-decay.cpp",
+          "source_path": "function-parm-decay.cpp",
+          "line": 13
+        },
+        {
+          "short_path": "function-parm-decay.cpp",
+          "source_path": "function-parm-decay.cpp",
+          "line": 14
+        },
+        {
+          "short_path": "function-parm-decay.cpp",
+          "source_path": "function-parm-decay.cpp",
+          "line": 15
+        },
+        {
+          "short_path": "function-parm-decay.cpp",
+          "source_path": "function-parm-decay.cpp",
+          "line": 16
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "x",
+              "type": {
+                "function": {
+                  "return": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "int"
+                      }
+                    }
+                  },
+                  "params": [
+                    {
+                      "named": {
+                        "name": {
+                          "kind": "identifier",
+                          "name": "bool"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "h6hupdyuT6SfsCGFl6UUFGtvrcc=": {
+      "id": "h6hupdyuT6SfsCGFl6UUFGtvrcc=",
+      "name": "U",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "function-parm-decay.cpp",
+          "source_path": "function-parm-decay.cpp",
+          "line": 19
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              },
+              "cv_qualifiers": "const"
+            }
+          },
+          "is_using": true
+        }
+      }
+    },
+    "UTOfie03KjmJww3mduHOqLZB5aI=": {
+      "id": "UTOfie03KjmJww3mduHOqLZB5aI=",
+      "name": "i",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "function-parm-decay.cpp",
+          "source_path": "function-parm-decay.cpp",
+          "line": 21
+        },
+        {
+          "short_path": "function-parm-decay.cpp",
+          "source_path": "function-parm-decay.cpp",
+          "line": 22
+        },
+        {
+          "short_path": "function-parm-decay.cpp",
+          "source_path": "function-parm-decay.cpp",
+          "line": 23
+        },
+        {
+          "short_path": "function-parm-decay.cpp",
+          "source_path": "function-parm-decay.cpp",
+          "line": 24
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "T",
+                    "id": "PvNOREc+JWxdkVgvSz+jC45IbGQ="
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

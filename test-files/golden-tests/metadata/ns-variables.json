@@ -1,0 +1,264 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "X2Wd7fyQ8BJNJ0tn4nnA77ckJM8=": {
+      "id": "X2Wd7fyQ8BJNJ0tn4nnA77ckJM8=",
+      "name": "i",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "ns-variables.cpp",
+        "source_path": "ns-variables.cpp",
+        "line": 3
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "initializer": "0",
+          "is_constexpr": true
+        }
+      }
+    },
+    "Fr1KYTKmyLHGW9rPSpCZK82iRqQ=": {
+      "id": "Fr1KYTKmyLHGW9rPSpCZK82iRqQ=",
+      "name": "k",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "ns-variables.cpp",
+        "source_path": "ns-variables.cpp",
+        "line": 9
+      },
+      "locations": [
+        {
+          "short_path": "ns-variables.cpp",
+          "source_path": "ns-variables.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "initializer": "1",
+          "storage_class": "extern",
+          "is_constexpr": true
+        }
+      }
+    },
+    "h5r4fNloVAMKqMyVJI+iWTxRjhM=": {
+      "id": "h5r4fNloVAMKqMyVJI+iWTxRjhM=",
+      "name": "l",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "ns-variables.cpp",
+        "source_path": "ns-variables.cpp",
+        "line": 10
+      },
+      "locations": [
+        {
+          "short_path": "ns-variables.cpp",
+          "source_path": "ns-variables.cpp",
+          "line": 7
+        }
+      ],
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "initializer": "1",
+          "storage_class": "extern",
+          "is_constinit": true
+        }
+      }
+    },
+    "pKvK/kHXdM/1/pu86JcSrLqVypE=": {
+      "id": "pKvK/kHXdM/1/pu86JcSrLqVypE=",
+      "name": "j",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "ns-variables.cpp",
+        "source_path": "ns-variables.cpp",
+        "line": 4
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "initializer": "0",
+          "is_constinit": true
+        }
+      }
+    },
+    "CgGNdHpW5mG/i5741WPYQDw28OQ=": {
+      "id": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "name": "T",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "ns-variables.cpp",
+        "source_path": "ns-variables.cpp",
+        "line": 14
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "EgqLVTs3FIJjFIODa5OOP2hmEI0=": {
+      "id": "EgqLVTs3FIJjFIODa5OOP2hmEI0=",
+      "name": "pi",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "ns-variables.cpp",
+        "source_path": "ns-variables.cpp",
+        "line": 12
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "double"
+              }
+            }
+          },
+          "initializer": "3.14"
+        }
+      }
+    },
+    "eFAdMVIx9F2Zyx0LmK/nCDOhmhA=": {
+      "id": "eFAdMVIx9F2Zyx0LmK/nCDOhmhA=",
+      "name": "t",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "ns-variables.cpp",
+          "source_path": "ns-variables.cpp",
+          "line": 16
+        }
+      ],
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T",
+                "id": "CgGNdHpW5mG/i5741WPYQDw28OQ="
+              }
+            }
+          },
+          "storage_class": "extern"
+        }
+      }
+    },
+    "LESPWJfwRpePfANf2Vm0O/W1Lfw=": {
+      "id": "LESPWJfwRpePfANf2Vm0O/W1Lfw=",
+      "name": "x0",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "ns-variables.cpp",
+        "source_path": "ns-variables.cpp",
+        "line": 18
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "initializer": "0",
+          "is_thread_local": true
+        }
+      }
+    },
+    "bMKl4XYJf8MQ48jSHwRmFHM3MiA=": {
+      "id": "bMKl4XYJf8MQ48jSHwRmFHM3MiA=",
+      "name": "x1",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "ns-variables.cpp",
+        "source_path": "ns-variables.cpp",
+        "line": 19
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "initializer": "0",
+          "storage_class": "static",
+          "is_thread_local": true
+        }
+      }
+    },
+    "EpcDWput1W/SJ3IYEINS0W815Zw=": {
+      "id": "EpcDWput1W/SJ3IYEINS0W815Zw=",
+      "name": "x2",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "ns-variables.cpp",
+        "source_path": "ns-variables.cpp",
+        "line": 20
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "initializer": "0",
+          "storage_class": "static",
+          "is_constexpr": true,
+          "is_thread_local": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1012 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "MBpLzhyCDdQBHul4AN2i2fR8fw0=": {
+      "id": "MBpLzhyCDdQBHul4AN2i2fR8fw0=",
+      "name": "T04",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 6
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "G71rDzcAZPSKGoGGoDswQjD1JuA="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "O2UBDeG42PMrk1up8f8PGVFhIGk=": {
+      "id": "O2UBDeG42PMrk1up8f8PGVFhIGk=",
+      "name": "T01",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 3
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "dmtEtFE6EVKE6hWuugP9vFuib6Y="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "dmtEtFE6EVKE6hWuugP9vFuib6Y=": {
+      "id": "dmtEtFE6EVKE6hWuugP9vFuib6Y=",
+      "name": "f",
+      "access": "public",
+      "parent": "O2UBDeG42PMrk1up8f8PGVFhIGk=",
+      "locations": [
+        {
+          "short_path": "mem-fn.cpp",
+          "source_path": "mem-fn.cpp",
+          "line": 3
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "H+pnPDuG6B+W6+srjVP2qhqXCrQ=": {
+      "id": "H+pnPDuG6B+W6+srjVP2qhqXCrQ=",
+      "name": "T02",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 4
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "static_functions": [
+                "QPLurkQ2BXODb4xY6bw1mlNtQ28="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "QPLurkQ2BXODb4xY6bw1mlNtQ28=": {
+      "id": "QPLurkQ2BXODb4xY6bw1mlNtQ28=",
+      "name": "f",
+      "access": "public",
+      "parent": "H+pnPDuG6B+W6+srjVP2qhqXCrQ=",
+      "locations": [
+        {
+          "short_path": "mem-fn.cpp",
+          "source_path": "mem-fn.cpp",
+          "line": 4
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "storage_class": "static"
+        }
+      }
+    },
+    "rM+ml6ikwiS9Twa1IwpCHbSHTbg=": {
+      "id": "rM+ml6ikwiS9Twa1IwpCHbSHTbg=",
+      "name": "T03",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 5
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "p6A5dCCvCkASDE6pH4cJA/27/o8="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "p6A5dCCvCkASDE6pH4cJA/27/o8=": {
+      "id": "p6A5dCCvCkASDE6pH4cJA/27/o8=",
+      "name": "f",
+      "access": "public",
+      "parent": "rM+ml6ikwiS9Twa1IwpCHbSHTbg=",
+      "locations": [
+        {
+          "short_path": "mem-fn.cpp",
+          "source_path": "mem-fn.cpp",
+          "line": 5
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "ref_qualifier": 1
+        }
+      }
+    },
+    "WU9ZeQm0IOT8cYJkWXom3NXeWsM=": {
+      "id": "WU9ZeQm0IOT8cYJkWXom3NXeWsM=",
+      "name": "T08",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 10
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "jlrEtbnYd1B6OAjYlF0gQ/oYu5w="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "G71rDzcAZPSKGoGGoDswQjD1JuA=": {
+      "id": "G71rDzcAZPSKGoGGoDswQjD1JuA=",
+      "name": "f",
+      "access": "public",
+      "parent": "MBpLzhyCDdQBHul4AN2i2fR8fw0=",
+      "locations": [
+        {
+          "short_path": "mem-fn.cpp",
+          "source_path": "mem-fn.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "ref_qualifier": 2
+        }
+      }
+    },
+    "5s81XyCIgauM5viJN9KAwx2A6DU=": {
+      "id": "5s81XyCIgauM5viJN9KAwx2A6DU=",
+      "name": "T05",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 7
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "rWLMsKBEv1FtDyk7Y7XNzcgmt68="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "rWLMsKBEv1FtDyk7Y7XNzcgmt68=": {
+      "id": "rWLMsKBEv1FtDyk7Y7XNzcgmt68=",
+      "name": "f",
+      "access": "public",
+      "parent": "5s81XyCIgauM5viJN9KAwx2A6DU=",
+      "locations": [
+        {
+          "short_path": "mem-fn.cpp",
+          "source_path": "mem-fn.cpp",
+          "line": 7
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "is_const": true
+        }
+      }
+    },
+    "SzwXGFnhX4HlHjHolU7XF/KEqDs=": {
+      "id": "SzwXGFnhX4HlHjHolU7XF/KEqDs=",
+      "name": "T06",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 8
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "A3MUO5+pwkURxw+SBeh1y0BKv7c="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "OEX+TUed8FjXJPiI4c3+9WHzJl4=": {
+      "id": "OEX+TUed8FjXJPiI4c3+9WHzJl4=",
+      "name": "f",
+      "access": "public",
+      "parent": "75395VGvKeZbe1EhfJwktZuWLs0=",
+      "locations": [
+        {
+          "short_path": "mem-fn.cpp",
+          "source_path": "mem-fn.cpp",
+          "line": 18
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "storage_class": "static"
+        }
+      }
+    },
+    "A3MUO5+pwkURxw+SBeh1y0BKv7c=": {
+      "id": "A3MUO5+pwkURxw+SBeh1y0BKv7c=",
+      "name": "f",
+      "access": "public",
+      "parent": "SzwXGFnhX4HlHjHolU7XF/KEqDs=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 8
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "constexpr_kind": "constexpr"
+        }
+      }
+    },
+    "u+MePKsNF/sYSk6UpgNS65+USGU=": {
+      "id": "u+MePKsNF/sYSk6UpgNS65+USGU=",
+      "name": "f",
+      "access": "public",
+      "parent": "SX7tpa77UInh7a4AsMFjfiCtoLY=",
+      "locations": [
+        {
+          "short_path": "mem-fn.cpp",
+          "source_path": "mem-fn.cpp",
+          "line": 11
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "noexcept": {
+            "implicit": false,
+            "kind": "noexcept"
+          }
+        }
+      }
+    },
+    "NyLraUP0R3lYeyTpHQYZpyZMstc=": {
+      "id": "NyLraUP0R3lYeyTpHQYZpyZMstc=",
+      "name": "T13",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 15
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "5d5eSOvkYwBOnpbLcrkRuFvJGP4="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "jlrEtbnYd1B6OAjYlF0gQ/oYu5w=": {
+      "id": "jlrEtbnYd1B6OAjYlF0gQ/oYu5w=",
+      "name": "f",
+      "access": "public",
+      "parent": "WU9ZeQm0IOT8cYJkWXom3NXeWsM=",
+      "locations": [
+        {
+          "short_path": "mem-fn.cpp",
+          "source_path": "mem-fn.cpp",
+          "line": 10
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "SX7tpa77UInh7a4AsMFjfiCtoLY=": {
+      "id": "SX7tpa77UInh7a4AsMFjfiCtoLY=",
+      "name": "T09",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 11
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "u+MePKsNF/sYSk6UpgNS65+USGU="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "TJnjDRnoO8E/5XEw8BaODsKxlwQ=": {
+      "id": "TJnjDRnoO8E/5XEw8BaODsKxlwQ=",
+      "name": "T10",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 12
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "0hjrVGeDlQhdYkOu4shvWWPqNKU="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "0hjrVGeDlQhdYkOu4shvWWPqNKU=": {
+      "id": "0hjrVGeDlQhdYkOu4shvWWPqNKU=",
+      "name": "f",
+      "access": "public",
+      "parent": "TJnjDRnoO8E/5XEw8BaODsKxlwQ=",
+      "locations": [
+        {
+          "short_path": "mem-fn.cpp",
+          "source_path": "mem-fn.cpp",
+          "line": 12
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "has_trailing_return": true
+        }
+      }
+    },
+    "1Lz3aFupR+OsCqiPOaIFWqGuyCc=": {
+      "id": "1Lz3aFupR+OsCqiPOaIFWqGuyCc=",
+      "name": "f",
+      "access": "public",
+      "parent": "SLJhBKx+2u4KxSJ78Fg6wqlObPc=",
+      "locations": [
+        {
+          "short_path": "mem-fn.cpp",
+          "source_path": "mem-fn.cpp",
+          "line": 16
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "is_virtual": true,
+          "is_virtual_as_written": true,
+          "is_pure": true
+        }
+      }
+    },
+    "FLgkhM3m0U3Lo2o3XLPUizWPH00=": {
+      "id": "FLgkhM3m0U3Lo2o3XLPUizWPH00=",
+      "name": "U",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 22
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "DBXd564vaQo7GHkh6XCC6HV78/I=",
+                "YOkqb7VjZXBs2Rg5gWCOYGX3Tnw="
+              ],
+              "static_functions": [
+                "II436kVwM/ZBYOf9q474VxRXK6c="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "MXMa4TZZfdRkREzWSLpIF6ruUyw=": {
+      "id": "MXMa4TZZfdRkREzWSLpIF6ruUyw=",
+      "name": "T11",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 13
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "+NevzZlqigIe1KSKS7eqq7pCd40="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "+NevzZlqigIe1KSKS7eqq7pCd40=": {
+      "id": "+NevzZlqigIe1KSKS7eqq7pCd40=",
+      "name": "f",
+      "access": "public",
+      "parent": "MXMa4TZZfdRkREzWSLpIF6ruUyw=",
+      "locations": [
+        {
+          "short_path": "mem-fn.cpp",
+          "source_path": "mem-fn.cpp",
+          "line": 13
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "params": [],
+          "has_trailing_return": true
+        }
+      }
+    },
+    "7rg34TfmIwu+7zOd7DN+Dq8mLCc=": {
+      "id": "7rg34TfmIwu+7zOd7DN+Dq8mLCc=",
+      "name": "T12",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 14
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "I0S8eMgTnTkagm+IrM34MBiU4XI="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "I0S8eMgTnTkagm+IrM34MBiU4XI=": {
+      "id": "I0S8eMgTnTkagm+IrM34MBiU4XI=",
+      "name": "f",
+      "access": "public",
+      "parent": "7rg34TfmIwu+7zOd7DN+Dq8mLCc=",
+      "locations": [
+        {
+          "short_path": "mem-fn.cpp",
+          "source_path": "mem-fn.cpp",
+          "line": 14
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "is_variadic": true
+        }
+      }
+    },
+    "5d5eSOvkYwBOnpbLcrkRuFvJGP4=": {
+      "id": "5d5eSOvkYwBOnpbLcrkRuFvJGP4=",
+      "name": "f",
+      "access": "public",
+      "parent": "NyLraUP0R3lYeyTpHQYZpyZMstc=",
+      "locations": [
+        {
+          "short_path": "mem-fn.cpp",
+          "source_path": "mem-fn.cpp",
+          "line": 15
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "is_virtual": true,
+          "is_virtual_as_written": true
+        }
+      }
+    },
+    "DBXd564vaQo7GHkh6XCC6HV78/I=": {
+      "id": "DBXd564vaQo7GHkh6XCC6HV78/I=",
+      "name": "f1",
+      "access": "public",
+      "parent": "FLgkhM3m0U3Lo2o3XLPUizWPH00=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 24
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "noexcept": {
+            "implicit": false,
+            "kind": "noexcept"
+          },
+          "is_variadic": true,
+          "has_trailing_return": true,
+          "constexpr_kind": "constexpr",
+          "is_const": true,
+          "is_volatile": true
+        }
+      }
+    },
+    "SLJhBKx+2u4KxSJ78Fg6wqlObPc=": {
+      "id": "SLJhBKx+2u4KxSJ78Fg6wqlObPc=",
+      "name": "T14",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 16
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "1Lz3aFupR+OsCqiPOaIFWqGuyCc="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "Bu7lz+fvOPzOR6oSlAo9R8R0alg=": {
+      "id": "Bu7lz+fvOPzOR6oSlAo9R8R0alg=",
+      "name": "T15",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 17
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "wSFf8IAx5Twq6aD5T8XdnXGuhw8="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "HL3/1NhKSels2G5ay7F0IYzlSLs=": {
+      "id": "HL3/1NhKSels2G5ay7F0IYzlSLs=",
+      "name": "T17",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 20
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "T14",
+                    "id": "SLJhBKx+2u4KxSJ78Fg6wqlObPc="
+                  }
+                }
+              },
+              "access": "public"
+            }
+          ],
+          "interface": {
+            "public": {
+              "functions": [
+                "5+yfyWtDpz80IwKT3xugro18Ev0="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "wSFf8IAx5Twq6aD5T8XdnXGuhw8=": {
+      "id": "wSFf8IAx5Twq6aD5T8XdnXGuhw8=",
+      "name": "f",
+      "access": "public",
+      "parent": "Bu7lz+fvOPzOR6oSlAo9R8R0alg=",
+      "locations": [
+        {
+          "short_path": "mem-fn.cpp",
+          "source_path": "mem-fn.cpp",
+          "line": 17
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "is_volatile": true
+        }
+      }
+    },
+    "75395VGvKeZbe1EhfJwktZuWLs0=": {
+      "id": "75395VGvKeZbe1EhfJwktZuWLs0=",
+      "name": "T16",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 18
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "static_functions": [
+                "OEX+TUed8FjXJPiI4c3+9WHzJl4="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "5+yfyWtDpz80IwKT3xugro18Ev0=": {
+      "id": "5+yfyWtDpz80IwKT3xugro18Ev0=",
+      "name": "f",
+      "access": "public",
+      "parent": "HL3/1NhKSels2G5ay7F0IYzlSLs=",
+      "locations": [
+        {
+          "short_path": "mem-fn.cpp",
+          "source_path": "mem-fn.cpp",
+          "line": 20
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "has_override_attr": true,
+          "is_virtual": true
+        }
+      }
+    },
+    "II436kVwM/ZBYOf9q474VxRXK6c=": {
+      "id": "II436kVwM/ZBYOf9q474VxRXK6c=",
+      "name": "f2",
+      "access": "public",
+      "parent": "FLgkhM3m0U3Lo2o3XLPUizWPH00=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 25
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "char"
+              }
+            }
+          },
+          "params": [],
+          "noexcept": {
+            "implicit": false,
+            "kind": "noexcept"
+          },
+          "has_trailing_return": true,
+          "constexpr_kind": "constexpr",
+          "storage_class": "static"
+        }
+      }
+    },
+    "YOkqb7VjZXBs2Rg5gWCOYGX3Tnw=": {
+      "id": "YOkqb7VjZXBs2Rg5gWCOYGX3Tnw=",
+      "name": "f3",
+      "access": "public",
+      "parent": "FLgkhM3m0U3Lo2o3XLPUizWPH00=",
+      "locations": [
+        {
+          "short_path": "mem-fn.cpp",
+          "source_path": "mem-fn.cpp",
+          "line": 26
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "params": [],
+          "noexcept": {
+            "implicit": false,
+            "kind": "noexcept"
+          },
+          "is_virtual": true,
+          "is_virtual_as_written": true,
+          "is_pure": true,
+          "is_const": true,
+          "is_volatile": true
+        }
+      }
+    },
+    "9kzYwt0WPztMEDUaFxul1Jvqqs8=": {
+      "id": "9kzYwt0WPztMEDUaFxul1Jvqqs8=",
+      "name": "V",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "mem-fn.cpp",
+        "source_path": "mem-fn.cpp",
+        "line": 29
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "U",
+                    "id": "FLgkhM3m0U3Lo2o3XLPUizWPH00="
+                  }
+                }
+              },
+              "access": "public"
+            }
+          ],
+          "interface": {
+            "public": {
+              "functions": [
+                "/C2pxLlwRMKnr6YRbVnykUArzEI=",
+                "DBXd564vaQo7GHkh6XCC6HV78/I="
+              ],
+              "static_functions": [
+                "II436kVwM/ZBYOf9q474VxRXK6c="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "/C2pxLlwRMKnr6YRbVnykUArzEI=": {
+      "id": "/C2pxLlwRMKnr6YRbVnykUArzEI=",
+      "name": "f3",
+      "access": "public",
+      "parent": "9kzYwt0WPztMEDUaFxul1Jvqqs8=",
+      "locations": [
+        {
+          "short_path": "mem-fn.cpp",
+          "source_path": "mem-fn.cpp",
+          "line": 31
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "params": [],
+          "noexcept": {
+            "implicit": false,
+            "kind": "noexcept"
+          },
+          "has_override_attr": true,
+          "is_virtual": true,
+          "is_const": true,
+          "is_volatile": true
+        }
+      }
+    }
+  }
+}

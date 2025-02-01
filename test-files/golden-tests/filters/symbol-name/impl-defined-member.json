@@ -1,0 +1,136 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "ixmivDXFAcQVJd4G7XOqINAR858=": {
+      "id": "ixmivDXFAcQVJd4G7XOqINAR858=",
+      "name": "regular_absolute_uri_rule",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "impl-defined-member.cpp",
+        "source_path": "impl-defined-member.cpp",
+        "line": 11
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "absolute_uri_rule_t",
+                "id": "fA+/UQOR2lG0f1+BZ+GeGlfo5sY=",
+                "prefix": {
+                  "kind": "identifier",
+                  "name": "regular",
+                  "id": "FmK1G1VDxt6WyumYC2tUbb5VjSs="
+                }
+              }
+            }
+          },
+          "initializer": "{}",
+          "is_constexpr": true
+        }
+      }
+    },
+    "aMJtdgJFybRcdkRG712j3iC7JeM=": {
+      "id": "aMJtdgJFybRcdkRG712j3iC7JeM=",
+      "name": "detail",
+      "extraction": "implementation-defined",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "impl-defined-member.cpp",
+          "source_path": "impl-defined-member.cpp",
+          "line": 1
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "FmK1G1VDxt6WyumYC2tUbb5VjSs=": {
+      "id": "FmK1G1VDxt6WyumYC2tUbb5VjSs=",
+      "name": "regular",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "impl-defined-member.cpp",
+          "source_path": "impl-defined-member.cpp",
+          "line": 5
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "fA+/UQOR2lG0f1+BZ+GeGlfo5sY=": {
+      "id": "fA+/UQOR2lG0f1+BZ+GeGlfo5sY=",
+      "name": "absolute_uri_rule_t",
+      "parent": "FmK1G1VDxt6WyumYC2tUbb5VjSs=",
+      "def_loc": {
+        "short_path": "impl-defined-member.cpp",
+        "source_path": "impl-defined-member.cpp",
+        "line": 6
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "/ePshzEghZYl/D7bJ6X3M2XbKEg=": {
+      "id": "/ePshzEghZYl/D7bJ6X3M2XbKEg=",
+      "name": "absolute_uri_rule",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "impl-defined-member.cpp",
+        "source_path": "impl-defined-member.cpp",
+        "line": 9
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "absolute_uri_rule_t",
+                "id": "vOKKVGAcuI3CBaMkdZstuFgnnuQ=",
+                "prefix": {
+                  "kind": "identifier",
+                  "name": "detail",
+                  "id": "aMJtdgJFybRcdkRG712j3iC7JeM="
+                }
+              }
+            }
+          },
+          "initializer": "{}",
+          "is_constexpr": true
+        }
+      }
+    },
+    "vOKKVGAcuI3CBaMkdZstuFgnnuQ=": {
+      "id": "vOKKVGAcuI3CBaMkdZstuFgnnuQ=",
+      "name": "absolute_uri_rule_t",
+      "extraction": "implementation-defined",
+      "parent": "aMJtdgJFybRcdkRG712j3iC7JeM=",
+      "def_loc": {
+        "short_path": "impl-defined-member.cpp",
+        "source_path": "impl-defined-member.cpp",
+        "line": 2
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    }
+  }
+}

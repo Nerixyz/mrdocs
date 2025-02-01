@@ -1,0 +1,492 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "ftBcWCAw4uNtak9kOXMXaOe13YU=": {
+      "id": "ftBcWCAw4uNtak9kOXMXaOe13YU=",
+      "name": "S3",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "record-inheritance.cpp",
+        "source_path": "record-inheritance.cpp",
+        "line": 9
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "S1",
+                    "id": "Tu+ql/Sdpk31DKHwwD/67uI3OZE="
+                  }
+                }
+              },
+              "access": "public"
+            }
+          ],
+          "interface": {}
+        }
+      }
+    },
+    "+FCicEQuRpyoPB1uYTGhWVcrlcE=": {
+      "id": "+FCicEQuRpyoPB1uYTGhWVcrlcE=",
+      "name": "C5",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "record-inheritance.cpp",
+        "source_path": "record-inheritance.cpp",
+        "line": 17
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "C0",
+                    "id": "sTaqkoFcVbtntbfpe777v5/pWL0="
+                  }
+                }
+              },
+              "access": "private",
+              "is_virtual": true
+            }
+          ],
+          "interface": {}
+        }
+      }
+    },
+    "u38+snleg17KL7EQuD9FV1Z8b9E=": {
+      "id": "u38+snleg17KL7EQuD9FV1Z8b9E=",
+      "name": "S0",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "record-inheritance.cpp",
+        "source_path": "record-inheritance.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "5eVHvnJpHGl0uaFQWGNZbAUi+rA=": {
+      "id": "5eVHvnJpHGl0uaFQWGNZbAUi+rA=",
+      "name": "C3",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "record-inheritance.cpp",
+        "source_path": "record-inheritance.cpp",
+        "line": 14
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "C0",
+                    "id": "sTaqkoFcVbtntbfpe777v5/pWL0="
+                  }
+                }
+              },
+              "access": "protected"
+            }
+          ],
+          "interface": {}
+        }
+      }
+    },
+    "sTaqkoFcVbtntbfpe777v5/pWL0=": {
+      "id": "sTaqkoFcVbtntbfpe777v5/pWL0=",
+      "name": "C0",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "record-inheritance.cpp",
+        "source_path": "record-inheritance.cpp",
+        "line": 2
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "interface": {}
+        }
+      }
+    },
+    "Tu+ql/Sdpk31DKHwwD/67uI3OZE=": {
+      "id": "Tu+ql/Sdpk31DKHwwD/67uI3OZE=",
+      "name": "S1",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "record-inheritance.cpp",
+        "source_path": "record-inheritance.cpp",
+        "line": 6
+      },
+      "locations": [
+        {
+          "short_path": "record-inheritance.cpp",
+          "source_path": "record-inheritance.cpp",
+          "line": 5
+        }
+      ],
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "SjrYNgntOvtz+y7yw+WmqLzVdW0=": {
+      "id": "SjrYNgntOvtz+y7yw+WmqLzVdW0=",
+      "name": "S2",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "record-inheritance.cpp",
+        "source_path": "record-inheritance.cpp",
+        "line": 8
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "S0",
+                    "id": "u38+snleg17KL7EQuD9FV1Z8b9E="
+                  }
+                }
+              },
+              "access": "public"
+            }
+          ],
+          "interface": {}
+        }
+      }
+    },
+    "SHIJWZPzfYtLVfe/rzFAmeVpANk=": {
+      "id": "SHIJWZPzfYtLVfe/rzFAmeVpANk=",
+      "name": "U0",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "record-inheritance.cpp",
+        "source_path": "record-inheritance.cpp",
+        "line": 3
+      },
+      "inner": {
+        "record": {
+          "kind": "union",
+          "interface": {}
+        }
+      }
+    },
+    "OkKbIK8En3Y5FbOBQVeHnAsZ0aY=": {
+      "id": "OkKbIK8En3Y5FbOBQVeHnAsZ0aY=",
+      "name": "S4",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "record-inheritance.cpp",
+        "source_path": "record-inheritance.cpp",
+        "line": 10
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "S2",
+                    "id": "SjrYNgntOvtz+y7yw+WmqLzVdW0="
+                  }
+                }
+              },
+              "access": "public"
+            },
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "S3",
+                    "id": "ftBcWCAw4uNtak9kOXMXaOe13YU="
+                  }
+                }
+              },
+              "access": "public"
+            }
+          ],
+          "interface": {}
+        }
+      }
+    },
+    "a3f8uSFf+Hih/eqmCQtqTCDw3EY=": {
+      "id": "a3f8uSFf+Hih/eqmCQtqTCDw3EY=",
+      "name": "C2",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "record-inheritance.cpp",
+        "source_path": "record-inheritance.cpp",
+        "line": 13
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "C0",
+                    "id": "sTaqkoFcVbtntbfpe777v5/pWL0="
+                  }
+                }
+              },
+              "access": "public"
+            }
+          ],
+          "interface": {}
+        }
+      }
+    },
+    "tm2khHa6qZM0lj1f7IwBdxVxDgE=": {
+      "id": "tm2khHa6qZM0lj1f7IwBdxVxDgE=",
+      "name": "C1",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "record-inheritance.cpp",
+        "source_path": "record-inheritance.cpp",
+        "line": 12
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "C0",
+                    "id": "sTaqkoFcVbtntbfpe777v5/pWL0="
+                  }
+                }
+              },
+              "access": "private"
+            }
+          ],
+          "interface": {}
+        }
+      }
+    },
+    "TwgjmiSc5xz28SnTBuPcppQrwcY=": {
+      "id": "TwgjmiSc5xz28SnTBuPcppQrwcY=",
+      "name": "C4",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "record-inheritance.cpp",
+        "source_path": "record-inheritance.cpp",
+        "line": 15
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "C0",
+                    "id": "sTaqkoFcVbtntbfpe777v5/pWL0="
+                  }
+                }
+              },
+              "access": "private"
+            }
+          ],
+          "interface": {}
+        }
+      }
+    },
+    "KS3H76wGd00jB2pnPVvaBxXfMk8=": {
+      "id": "KS3H76wGd00jB2pnPVvaBxXfMk8=",
+      "name": "C6",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "record-inheritance.cpp",
+        "source_path": "record-inheritance.cpp",
+        "line": 18
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "C1",
+                    "id": "tm2khHa6qZM0lj1f7IwBdxVxDgE="
+                  }
+                }
+              },
+              "access": "private",
+              "is_virtual": true
+            }
+          ],
+          "interface": {}
+        }
+      }
+    },
+    "RoJyFLcF4tn+I7Xvlv0H+vBkIE4=": {
+      "id": "RoJyFLcF4tn+I7Xvlv0H+vBkIE4=",
+      "name": "C7",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "record-inheritance.cpp",
+        "source_path": "record-inheritance.cpp",
+        "line": 19
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "C5",
+                    "id": "+FCicEQuRpyoPB1uYTGhWVcrlcE="
+                  }
+                }
+              },
+              "access": "public"
+            },
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "C6",
+                    "id": "KS3H76wGd00jB2pnPVvaBxXfMk8="
+                  }
+                }
+              },
+              "access": "public"
+            }
+          ],
+          "interface": {}
+        }
+      }
+    },
+    "HQ5z8M+Q3IIXdW9oiD6jtd0TL94=": {
+      "id": "HQ5z8M+Q3IIXdW9oiD6jtd0TL94=",
+      "name": "S5",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "record-inheritance.cpp",
+        "source_path": "record-inheritance.cpp",
+        "line": 21
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "S0",
+                    "id": "u38+snleg17KL7EQuD9FV1Z8b9E="
+                  }
+                }
+              },
+              "access": "private"
+            },
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "S1",
+                    "id": "Tu+ql/Sdpk31DKHwwD/67uI3OZE="
+                  }
+                }
+              },
+              "access": "protected"
+            }
+          ],
+          "interface": {}
+        }
+      }
+    },
+    "dt7vZMcsOL5ylokCpCZgvCsG/po=": {
+      "id": "dt7vZMcsOL5ylokCpCZgvCsG/po=",
+      "name": "S6",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "record-inheritance.cpp",
+        "source_path": "record-inheritance.cpp",
+        "line": 23
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "Ts",
+                  "is_parameter_pack": true,
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "Ts"
+                  }
+                }
+              },
+              "access": "public"
+            }
+          ],
+          "interface": {}
+        }
+      }
+    }
+  }
+}

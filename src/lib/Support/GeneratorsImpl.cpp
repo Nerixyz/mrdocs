@@ -26,6 +26,10 @@ extern
 std::unique_ptr<Generator>
 makeHTMLGenerator();
 
+extern
+std::unique_ptr<Generator>
+makeJSONGenerator();
+
 Generators::
 ~Generators() noexcept = default;
 
@@ -45,6 +49,7 @@ GeneratorsImpl()
     insert(makeAdocGenerator());
     insert(makeXMLGenerator());
     insert(makeHTMLGenerator());
+    insert(makeJSONGenerator());
 }
 
 Generator const*

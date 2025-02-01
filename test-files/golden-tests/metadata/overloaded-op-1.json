@@ -1,0 +1,62 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "2JysU2zJdfiiAb7nyNnvkDzkKvU=": {
+      "id": "2JysU2zJdfiiAb7nyNnvkDzkKvU=",
+      "name": "operator+",
+      "access": "public",
+      "parent": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "locations": [
+        {
+          "short_path": "overloaded-op-1.cpp",
+          "source_path": "overloaded-op-1.cpp",
+          "line": 3
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T",
+                "id": "CgGNdHpW5mG/i5741WPYQDw28OQ="
+              }
+            }
+          },
+          "params": [],
+          "overloaded_operator": 5
+        }
+      }
+    },
+    "CgGNdHpW5mG/i5741WPYQDw28OQ=": {
+      "id": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "name": "T",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "overloaded-op-1.cpp",
+        "source_path": "overloaded-op-1.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "2JysU2zJdfiiAb7nyNnvkDzkKvU="
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

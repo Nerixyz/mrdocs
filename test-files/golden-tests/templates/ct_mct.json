@@ -1,0 +1,103 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "dKDSVrZun8skBV/NUCmJyCUOvJA=": {
+      "id": "dKDSVrZun8skBV/NUCmJyCUOvJA=",
+      "name": "B",
+      "access": "public",
+      "parent": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "def_loc": {
+        "short_path": "ct_mct.cpp",
+        "source_path": "ct_mct.cpp",
+        "line": 4
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "functions": [
+                "E/7hys/9wYX9YmsaiN5VHroNb8A="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "5tUSuMtQqtYE49jBjSYSWp0DJAM=": {
+      "id": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "ct_mct.cpp",
+        "source_path": "ct_mct.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "records": [
+                "dKDSVrZun8skBV/NUCmJyCUOvJA="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "E/7hys/9wYX9YmsaiN5VHroNb8A=": {
+      "id": "E/7hys/9wYX9YmsaiN5VHroNb8A=",
+      "name": "f",
+      "access": "public",
+      "parent": "dKDSVrZun8skBV/NUCmJyCUOvJA=",
+      "def_loc": {
+        "short_path": "ct_mct.cpp",
+        "source_path": "ct_mct.cpp",
+        "line": 5
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    }
+  }
+}

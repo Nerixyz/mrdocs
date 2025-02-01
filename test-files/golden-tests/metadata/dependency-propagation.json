@@ -1,0 +1,221 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "rjlMNXAaWNMkQYMTJzRA1DR0DiE=": {
+      "id": "rjlMNXAaWNMkQYMTJzRA1DR0DiE=",
+      "name": "N",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "dependency-propagation.cpp",
+          "source_path": "dependency-propagation.cpp",
+          "line": 1
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "G98ZT3EkUq7z1IE+Cx1EKGrMDxQ=": {
+      "id": "G98ZT3EkUq7z1IE+Cx1EKGrMDxQ=",
+      "name": "D",
+      "parent": "rjlMNXAaWNMkQYMTJzRA1DR0DiE=",
+      "def_loc": {
+        "short_path": "dependency-propagation.cpp",
+        "source_path": "dependency-propagation.cpp",
+        "line": 12
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "P3wHAbrIf4CGxTZs+lXT5a3t2K0=": {
+      "id": "P3wHAbrIf4CGxTZs+lXT5a3t2K0=",
+      "name": "A",
+      "parent": "rjlMNXAaWNMkQYMTJzRA1DR0DiE=",
+      "def_loc": {
+        "short_path": "dependency-propagation.cpp",
+        "source_path": "dependency-propagation.cpp",
+        "line": 3
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {}
+        }
+      }
+    },
+    "YZjBn7yW7NyL8yCKqswVvbiptNM=": {
+      "id": "YZjBn7yW7NyL8yCKqswVvbiptNM=",
+      "name": "B",
+      "parent": "rjlMNXAaWNMkQYMTJzRA1DR0DiE=",
+      "locations": [
+        {
+          "short_path": "dependency-propagation.cpp",
+          "source_path": "dependency-propagation.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "specialization",
+                "name": "A",
+                "id": "P3wHAbrIf4CGxTZs+lXT5a3t2K0=",
+                "template_args": [
+                  {
+                    "type": {
+                      "type": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "T"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "is_using": true,
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "1aINBgFfB9zQVkEDJdB0DyLWTmQ=": {
+      "id": "1aINBgFfB9zQVkEDJdB0DyLWTmQ=",
+      "name": "C",
+      "parent": "rjlMNXAaWNMkQYMTJzRA1DR0DiE=",
+      "locations": [
+        {
+          "short_path": "dependency-propagation.cpp",
+          "source_path": "dependency-propagation.cpp",
+          "line": 9
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "specialization",
+                "name": "B",
+                "id": "YZjBn7yW7NyL8yCKqswVvbiptNM=",
+                "template_args": [
+                  {
+                    "type": {
+                      "type": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "T"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "is_using": true,
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "KJWEqOD/QXinlGIqVHqmIlA5Z6E=": {
+      "id": "KJWEqOD/QXinlGIqVHqmIlA5Z6E=",
+      "name": "E",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "dependency-propagation.cpp",
+        "source_path": "dependency-propagation.cpp",
+        "line": 15
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "specialization",
+                    "name": "C",
+                    "id": "1aINBgFfB9zQVkEDJdB0DyLWTmQ=",
+                    "prefix": {
+                      "kind": "identifier",
+                      "name": "N",
+                      "id": "rjlMNXAaWNMkQYMTJzRA1DR0DiE="
+                    },
+                    "template_args": [
+                      {
+                        "type": {
+                          "type": {
+                            "named": {
+                              "name": {
+                                "kind": "identifier",
+                                "name": "int"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              "access": "public"
+            }
+          ],
+          "interface": {}
+        }
+      }
+    }
+  }
+}

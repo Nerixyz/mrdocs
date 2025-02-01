@@ -1,0 +1,364 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "Vn88rrW6JgrUc7j/24MUTRnpkRg=": {
+      "id": "Vn88rrW6JgrUc7j/24MUTRnpkRg=",
+      "name": "g0",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "g0 brief    "
+            }
+          ]
+        },
+        {
+          "param": {
+            "name": "a",
+            "content": [
+              {
+                "text": "one    "
+              }
+            ]
+          }
+        },
+        {
+          "param": {
+            "name": "a",
+            "content": [
+              {
+                "text": "one"
+              }
+            ]
+          }
+        }
+      ],
+      "def_loc": {
+        "short_path": "duplicate-jdoc.cpp",
+        "source_path": "duplicate-jdoc.cpp",
+        "line": 17,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "a",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "q8fclJU+n2M3XqifIjVL9vT9fKQ=": {
+      "id": "q8fclJU+n2M3XqifIjVL9vT9fKQ=",
+      "name": "h1",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "h1 brief    "
+            }
+          ]
+        },
+        {
+          "tparam": {
+            "name": "T",
+            "content": [
+              {
+                "text": "one    "
+              }
+            ]
+          }
+        },
+        {
+          "tparam": {
+            "name": "U",
+            "content": [
+              {
+                "text": "two"
+              }
+            ]
+          }
+        }
+      ],
+      "def_loc": {
+        "short_path": "duplicate-jdoc.cpp",
+        "source_path": "duplicate-jdoc.cpp",
+        "line": 36,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "e1UQQek5v3C9OClW5cGf57XvwQo=": {
+      "id": "e1UQQek5v3C9OClW5cGf57XvwQo=",
+      "name": "f0",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "f0 brief    "
+            }
+          ]
+        },
+        {
+          "returns": [
+            {
+              "text": "int    "
+            }
+          ]
+        },
+        {
+          "returns": [
+            {
+              "text": "int"
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "duplicate-jdoc.cpp",
+        "source_path": "duplicate-jdoc.cpp",
+        "line": 5,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "CnO51rIKTzfiVKHkR3TdPa0eo+8=": {
+      "id": "CnO51rIKTzfiVKHkR3TdPa0eo+8=",
+      "name": "f1",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "f1 brief    "
+            }
+          ]
+        },
+        {
+          "returns": [
+            {
+              "text": "int    "
+            }
+          ]
+        },
+        {
+          "returns": [
+            {
+              "text": "bool"
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "duplicate-jdoc.cpp",
+        "source_path": "duplicate-jdoc.cpp",
+        "line": 11,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "99zzvQbBwXKh7ewapNRMnAKND3I=": {
+      "id": "99zzvQbBwXKh7ewapNRMnAKND3I=",
+      "name": "g1",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "g1 brief    "
+            }
+          ]
+        },
+        {
+          "param": {
+            "name": "a",
+            "content": [
+              {
+                "text": "one    "
+              }
+            ]
+          }
+        },
+        {
+          "param": {
+            "name": "b",
+            "content": [
+              {
+                "text": "two"
+              }
+            ]
+          }
+        }
+      ],
+      "def_loc": {
+        "short_path": "duplicate-jdoc.cpp",
+        "source_path": "duplicate-jdoc.cpp",
+        "line": 23,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "a",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "GUlieEk6E+t8qLpALj3XrWv0CGw=": {
+      "id": "GUlieEk6E+t8qLpALj3XrWv0CGw=",
+      "name": "h0",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "h0 brief    "
+            }
+          ]
+        },
+        {
+          "tparam": {
+            "name": "T",
+            "content": [
+              {
+                "text": "one    "
+              }
+            ]
+          }
+        },
+        {
+          "tparam": {
+            "name": "T",
+            "content": [
+              {
+                "text": "one"
+              }
+            ]
+          }
+        }
+      ],
+      "def_loc": {
+        "short_path": "duplicate-jdoc.cpp",
+        "source_path": "duplicate-jdoc.cpp",
+        "line": 29,
+        "documented": true
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

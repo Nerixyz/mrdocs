@@ -1,0 +1,524 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "ORL9/51wI1T8sdK1zKvAQJvBXXE=": {
+      "id": "ORL9/51wI1T8sdK1zKvAQJvBXXE=",
+      "name": "f0",
+      "parent": "jQQu/8mLNzRQvGtbkKMwwloVDpw=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 3
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "QFsBClaDSL1ON+ZrDqoAhkZkIVE=": {
+      "id": "QFsBClaDSL1ON+ZrDqoAhkZkIVE=",
+      "name": "",
+      "parent": "jQQu/8mLNzRQvGtbkKMwwloVDpw=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 15
+        }
+      ],
+      "inner": {
+        "namespace": {
+          "is_anonymous": true
+        }
+      }
+    },
+    "jQQu/8mLNzRQvGtbkKMwwloVDpw=": {
+      "id": "jQQu/8mLNzRQvGtbkKMwwloVDpw=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 1
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "4hr3niqdAlVLoJDRDfOf4nP1zbU=": {
+      "id": "4hr3niqdAlVLoJDRDfOf4nP1zbU=",
+      "name": "B",
+      "parent": "jQQu/8mLNzRQvGtbkKMwwloVDpw=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 5
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "RAcSjxVkWvI/awJiHw3JE6+Sqi0=": {
+      "id": "RAcSjxVkWvI/awJiHw3JE6+Sqi0=",
+      "name": "f1",
+      "parent": "4hr3niqdAlVLoJDRDfOf4nP1zbU=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 7
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "CcY0g7ewX4RTWRubHOPJAn5T8uY=": {
+      "id": "CcY0g7ewX4RTWRubHOPJAn5T8uY=",
+      "name": "F",
+      "parent": "ZzEKHnfY4xmz/e4XegZ+zBdBnKE=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 30
+        }
+      ],
+      "inner": {
+        "namespace": {
+          "is_inline": true
+        }
+      }
+    },
+    "ztz7MOWesSViYVR7u+aEiSORqG0=": {
+      "id": "ztz7MOWesSViYVR7u+aEiSORqG0=",
+      "name": "E",
+      "parent": "ZzEKHnfY4xmz/e4XegZ+zBdBnKE=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 25
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "HaQCsemzdIbo/5b1lSoHbiA1j68=": {
+      "id": "HaQCsemzdIbo/5b1lSoHbiA1j68=",
+      "name": "f2",
+      "parent": "tNUg3mGNhZhJy+kbMOJmCB7CUds=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 12
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "tNUg3mGNhZhJy+kbMOJmCB7CUds=": {
+      "id": "tNUg3mGNhZhJy+kbMOJmCB7CUds=",
+      "name": "C",
+      "parent": "jQQu/8mLNzRQvGtbkKMwwloVDpw=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 10
+        }
+      ],
+      "inner": {
+        "namespace": {
+          "is_inline": true
+        }
+      }
+    },
+    "0wxfCHJiD3XMfQnSI2NiRruFzmU=": {
+      "id": "0wxfCHJiD3XMfQnSI2NiRruFzmU=",
+      "name": "f3",
+      "parent": "QFsBClaDSL1ON+ZrDqoAhkZkIVE=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 17
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "ZzEKHnfY4xmz/e4XegZ+zBdBnKE=": {
+      "id": "ZzEKHnfY4xmz/e4XegZ+zBdBnKE=",
+      "name": "D",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 21
+        }
+      ],
+      "inner": {
+        "namespace": {
+          "is_inline": true
+        }
+      }
+    },
+    "Wst/dadHi6Smk6pSpSEAkzhH8+M=": {
+      "id": "Wst/dadHi6Smk6pSpSEAkzhH8+M=",
+      "name": "G",
+      "parent": "g8xS0yWD4HcXEKd0Legcg56VOsg=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 45
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "fxIH/xCm0IKZv739SRjeEnzqXCc=": {
+      "id": "fxIH/xCm0IKZv739SRjeEnzqXCc=",
+      "name": "f5",
+      "parent": "ZzEKHnfY4xmz/e4XegZ+zBdBnKE=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 23
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "Qf4PvJJjCKOCzviJDkpMntv8z48=": {
+      "id": "Qf4PvJJjCKOCzviJDkpMntv8z48=",
+      "name": "f6",
+      "parent": "ztz7MOWesSViYVR7u+aEiSORqG0=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 27
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "Vi90nY9KWrCv3wWIlvgWi9fs//E=": {
+      "id": "Vi90nY9KWrCv3wWIlvgWi9fs//E=",
+      "name": "f7",
+      "parent": "CcY0g7ewX4RTWRubHOPJAn5T8uY=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 32
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "JFdBEye4uXzw0ilTytFZ8c1sSbg=": {
+      "id": "JFdBEye4uXzw0ilTytFZ8c1sSbg=",
+      "name": "f10",
+      "parent": "g8xS0yWD4HcXEKd0Legcg56VOsg=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 43
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "aPdRmNGWxbyYECtLNnl/MSIJQxc=": {
+      "id": "aPdRmNGWxbyYECtLNnl/MSIJQxc=",
+      "name": "",
+      "parent": "ZzEKHnfY4xmz/e4XegZ+zBdBnKE=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 35
+        }
+      ],
+      "inner": {
+        "namespace": {
+          "is_anonymous": true
+        }
+      }
+    },
+    "8ddwiGlSyG3c3BJDcb/ZigMDMJU=": {
+      "id": "8ddwiGlSyG3c3BJDcb/ZigMDMJU=",
+      "name": "f8",
+      "parent": "aPdRmNGWxbyYECtLNnl/MSIJQxc=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 37
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "g8xS0yWD4HcXEKd0Legcg56VOsg=": {
+      "id": "g8xS0yWD4HcXEKd0Legcg56VOsg=",
+      "name": "",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 41
+        }
+      ],
+      "inner": {
+        "namespace": {
+          "is_anonymous": true
+        }
+      }
+    },
+    "Hbja2CeJ1Aik0Wvl2z2Ywjfvz3Y=": {
+      "id": "Hbja2CeJ1Aik0Wvl2z2Ywjfvz3Y=",
+      "name": "f11",
+      "parent": "Wst/dadHi6Smk6pSpSEAkzhH8+M=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 47
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "0bLp2uJCrLh6KF6tdyR+5EFm3JA=": {
+      "id": "0bLp2uJCrLh6KF6tdyR+5EFm3JA=",
+      "name": "H",
+      "parent": "g8xS0yWD4HcXEKd0Legcg56VOsg=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 50
+        }
+      ],
+      "inner": {
+        "namespace": {
+          "is_inline": true
+        }
+      }
+    },
+    "emiOGg7QaKWV17XaWH2S5DJ+vL0=": {
+      "id": "emiOGg7QaKWV17XaWH2S5DJ+vL0=",
+      "name": "f12",
+      "parent": "0bLp2uJCrLh6KF6tdyR+5EFm3JA=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 52
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "+dTV+2puUwO4arfDuNZCVAzk0M0=": {
+      "id": "+dTV+2puUwO4arfDuNZCVAzk0M0=",
+      "name": "I",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 63
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "5qwv23b0kUmpB/nx6C7H81pMcW8=": {
+      "id": "5qwv23b0kUmpB/nx6C7H81pMcW8=",
+      "name": "",
+      "parent": "+dTV+2puUwO4arfDuNZCVAzk0M0=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 65
+        }
+      ],
+      "inner": {
+        "namespace": {
+          "is_inline": true,
+          "is_anonymous": true
+        }
+      }
+    },
+    "Wk/88w4XwQou7iSEOBQAnlcQ1ys=": {
+      "id": "Wk/88w4XwQou7iSEOBQAnlcQ1ys=",
+      "name": "f14",
+      "parent": "5qwv23b0kUmpB/nx6C7H81pMcW8=",
+      "locations": [
+        {
+          "short_path": "namespace.cpp",
+          "source_path": "namespace.cpp",
+          "line": 67
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    }
+  }
+}

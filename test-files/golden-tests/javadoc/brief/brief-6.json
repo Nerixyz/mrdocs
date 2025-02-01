@@ -1,0 +1,54 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "e1UQQek5v3C9OClW5cGf57XvwQo=": {
+      "id": "e1UQQek5v3C9OClW5cGf57XvwQo=",
+      "name": "f0",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "desc"
+            }
+          ]
+        },
+        {
+          "brief": [
+            {
+              "text": "brief"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "brief-6.cpp",
+          "source_path": "brief-6.cpp",
+          "line": 7,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "pOYGF6pLJlICuiGO0Xj0daDb/to=": {
+      "id": "pOYGF6pLJlICuiGO0Xj0daDb/to=",
+      "name": "S",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "static-data-def-constexpr.cpp",
+        "source_path": "static-data-def-constexpr.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "static_variables": [
+                "Sugb8cWjf0PRq2dN0pOEbkKY9C4="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "+nDx93NmBRbrBZ8RlBwzPk8rp8I=": {
+      "id": "+nDx93NmBRbrBZ8RlBwzPk8rp8I=",
+      "name": "t",
+      "access": "public",
+      "parent": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "def_loc": {
+        "short_path": "static-data-def-constexpr.cpp",
+        "source_path": "static-data-def-constexpr.cpp",
+        "line": 12
+      },
+      "locations": [
+        {
+          "short_path": "static-data-def-constexpr.cpp",
+          "source_path": "static-data-def-constexpr.cpp",
+          "line": 9
+        }
+      ],
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "initializer": "0",
+          "storage_class": "static",
+          "is_inline": true,
+          "is_constexpr": true,
+          "is_constinit": true
+        }
+      }
+    },
+    "Sugb8cWjf0PRq2dN0pOEbkKY9C4=": {
+      "id": "Sugb8cWjf0PRq2dN0pOEbkKY9C4=",
+      "name": "s",
+      "access": "public",
+      "parent": "pOYGF6pLJlICuiGO0Xj0daDb/to=",
+      "def_loc": {
+        "short_path": "static-data-def-constexpr.cpp",
+        "source_path": "static-data-def-constexpr.cpp",
+        "line": 5
+      },
+      "locations": [
+        {
+          "short_path": "static-data-def-constexpr.cpp",
+          "source_path": "static-data-def-constexpr.cpp",
+          "line": 3
+        }
+      ],
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "S",
+                "id": "pOYGF6pLJlICuiGO0Xj0daDb/to="
+              }
+            }
+          },
+          "initializer": "S{}",
+          "storage_class": "static",
+          "is_inline": true,
+          "is_constexpr": true
+        }
+      }
+    },
+    "CgGNdHpW5mG/i5741WPYQDw28OQ=": {
+      "id": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "name": "T",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "static-data-def-constexpr.cpp",
+        "source_path": "static-data-def-constexpr.cpp",
+        "line": 7
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "static_variables": [
+                "+nDx93NmBRbrBZ8RlBwzPk8rp8I="
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

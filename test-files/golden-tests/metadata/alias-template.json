@@ -1,0 +1,220 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "5tUSuMtQqtYE49jBjSYSWp0DJAM=": {
+      "id": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "alias-template.cpp",
+        "source_path": "alias-template.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {}
+        }
+      }
+    },
+    "i5oK/nki0o3BH2ZAgkGyaGib07g=": {
+      "id": "i5oK/nki0o3BH2ZAgkGyaGib07g=",
+      "name": "D",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "alias-template.cpp",
+        "source_path": "alias-template.cpp",
+        "line": 10
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "typedefs": [
+                "STM3CgeaOEakPrQJdlRWWM4MMFo="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "swBEqeWAJoaWVKty+1lCoYUK04A=": {
+      "id": "swBEqeWAJoaWVKty+1lCoYUK04A=",
+      "name": "B",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "alias-template.cpp",
+        "source_path": "alias-template.cpp",
+        "line": 4
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              },
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {}
+        }
+      }
+    },
+    "STM3CgeaOEakPrQJdlRWWM4MMFo=": {
+      "id": "STM3CgeaOEakPrQJdlRWWM4MMFo=",
+      "name": "E",
+      "access": "public",
+      "parent": "i5oK/nki0o3BH2ZAgkGyaGib07g=",
+      "locations": [
+        {
+          "short_path": "alias-template.cpp",
+          "source_path": "alias-template.cpp",
+          "line": 13
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "specialization",
+                "name": "B",
+                "id": "swBEqeWAJoaWVKty+1lCoYUK04A=",
+                "template_args": [
+                  {
+                    "type": {
+                      "type": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "T"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "type": {
+                      "type": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "U"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "is_using": true,
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "f75RIL8qKOwbyH6ffvrv59F0nCA=": {
+      "id": "f75RIL8qKOwbyH6ffvrv59F0nCA=",
+      "name": "C",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "alias-template.cpp",
+          "source_path": "alias-template.cpp",
+          "line": 7
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "specialization",
+                "name": "A",
+                "id": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+                "template_args": [
+                  {
+                    "type": {
+                      "type": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "T"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "is_using": true,
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

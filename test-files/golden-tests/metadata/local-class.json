@@ -1,0 +1,58 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "s6nsa+zVhpzzrN+yUVPP5rvdXqs=": {
+      "id": "s6nsa+zVhpzzrN+yUVPP5rvdXqs=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "local-class.cpp",
+        "source_path": "local-class.cpp",
+        "line": 1
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "auto": {
+              "keyword": "auto"
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "3JsK1DO0O+wZhv+0meptQrbs3fY=": {
+      "id": "3JsK1DO0O+wZhv+0meptQrbs3fY=",
+      "name": "B",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "local-class.cpp",
+        "source_path": "local-class.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "bases": [
+            {
+              "type": {
+                "decltype": {
+                  "operand": "f()"
+                }
+              },
+              "access": "public"
+            }
+          ],
+          "interface": {}
+        }
+      }
+    }
+  }
+}

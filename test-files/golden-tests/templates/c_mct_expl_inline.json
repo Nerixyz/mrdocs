@@ -1,0 +1,158 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "YrPSaKAbmXgzCAX5WByx4eVoqBM=": {
+      "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "c_mct_expl_inline.cpp",
+        "source_path": "c_mct_expl_inline.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "records": [
+                "TqGFMDXDQ6ddt946aVDeyhY9Ij8=",
+                "FxMFFVpoV2/LOOndnkQ2gu3w69U="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "FxMFFVpoV2/LOOndnkQ2gu3w69U=": {
+      "id": "FxMFFVpoV2/LOOndnkQ2gu3w69U=",
+      "name": "B",
+      "access": "public",
+      "parent": "YrPSaKAbmXgzCAX5WByx4eVoqBM=",
+      "def_loc": {
+        "short_path": "c_mct_expl_inline.cpp",
+        "source_path": "c_mct_expl_inline.cpp",
+        "line": 7
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "explicit",
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "int"
+                      }
+                    }
+                  }
+                }
+              }
+            ],
+            "primary": "TqGFMDXDQ6ddt946aVDeyhY9Ij8="
+          },
+          "interface": {
+            "public": {
+              "functions": [
+                "nxkAf/oNulEWX8A/IPUHkew79Y4="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "TqGFMDXDQ6ddt946aVDeyhY9Ij8=": {
+      "id": "TqGFMDXDQ6ddt946aVDeyhY9Ij8=",
+      "name": "B",
+      "access": "public",
+      "parent": "YrPSaKAbmXgzCAX5WByx4eVoqBM=",
+      "def_loc": {
+        "short_path": "c_mct_expl_inline.cpp",
+        "source_path": "c_mct_expl_inline.cpp",
+        "line": 3
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "functions": [
+                "GOVvMTuIkLp/PqUkD5z7Bvf4+FQ="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "GOVvMTuIkLp/PqUkD5z7Bvf4+FQ=": {
+      "id": "GOVvMTuIkLp/PqUkD5z7Bvf4+FQ=",
+      "name": "f",
+      "access": "public",
+      "parent": "TqGFMDXDQ6ddt946aVDeyhY9Ij8=",
+      "def_loc": {
+        "short_path": "c_mct_expl_inline.cpp",
+        "source_path": "c_mct_expl_inline.cpp",
+        "line": 4
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "nxkAf/oNulEWX8A/IPUHkew79Y4=": {
+      "id": "nxkAf/oNulEWX8A/IPUHkew79Y4=",
+      "name": "g",
+      "access": "public",
+      "parent": "FxMFFVpoV2/LOOndnkQ2gu3w69U=",
+      "def_loc": {
+        "short_path": "c_mct_expl_inline.cpp",
+        "source_path": "c_mct_expl_inline.cpp",
+        "line": 7
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    }
+  }
+}

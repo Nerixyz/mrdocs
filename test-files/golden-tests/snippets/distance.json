@@ -1,0 +1,146 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "GjxEQxG2FMN3Hr0DOMnJo7wvH5Y=": {
+      "id": "GjxEQxG2FMN3Hr0DOMnJo7wvH5Y=",
+      "name": "distance",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Return the distance between two points"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "This function returns the distance between two points    according to the Euclidean distance formula."
+            }
+          ]
+        },
+        {
+          "param": {
+            "name": "x0",
+            "content": [
+              {
+                "text": "The x-coordinate of the first point    "
+              }
+            ]
+          }
+        },
+        {
+          "param": {
+            "name": "y0",
+            "content": [
+              {
+                "text": "The y-coordinate of the first point    "
+              }
+            ]
+          }
+        },
+        {
+          "param": {
+            "name": "x1",
+            "content": [
+              {
+                "text": "The x-coordinate of the second point    "
+              }
+            ]
+          }
+        },
+        {
+          "param": {
+            "name": "y1",
+            "content": [
+              {
+                "text": "The y-coordinate of the second point    "
+              }
+            ]
+          }
+        },
+        {
+          "returns": [
+            {
+              "text": "The distance between the two points"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "distance.cpp",
+          "source_path": "distance.cpp",
+          "line": 12,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "double"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "x0",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "double"
+                  }
+                }
+              }
+            },
+            {
+              "name": "y0",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "double"
+                  }
+                }
+              }
+            },
+            {
+              "name": "x1",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "double"
+                  }
+                }
+              }
+            },
+            {
+              "name": "y1",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "double"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

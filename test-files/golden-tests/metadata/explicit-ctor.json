@@ -1,0 +1,1010 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "gsl+2i8v8v4Lifq3SZ5sFhSfseQ=": {
+      "id": "gsl+2i8v8v4Lifq3SZ5sFhSfseQ=",
+      "name": "ExplicitFalse",
+      "access": "public",
+      "parent": "Lt5u3k14Z7EBxY7Ike3h9qkJ0fo=",
+      "locations": [
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 19
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "lvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "ExplicitFalse",
+                        "id": "Lt5u3k14Z7EBxY7Ike3h9qkJ0fo="
+                      },
+                      "cv_qualifiers": "const"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "class": "constructor"
+        }
+      }
+    },
+    "bonobNKGOblPVcRjxpiPan4nYnc=": {
+      "id": "bonobNKGOblPVcRjxpiPan4nYnc=",
+      "name": "Explicit",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "explicit-ctor.cpp",
+        "source_path": "explicit-ctor.cpp",
+        "line": 3
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "g9d5mhsfXocmI2tew1WJc0xe9FA="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "JPrjQsrkg+QoApI2wln2eGwCGP4=": {
+      "id": "JPrjQsrkg+QoApI2wln2eGwCGP4=",
+      "name": "Explicit",
+      "access": "public",
+      "parent": "bonobNKGOblPVcRjxpiPan4nYnc=",
+      "locations": [
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 4
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "class": "constructor",
+          "explicit": {
+            "implicit": false,
+            "kind": "explicit"
+          }
+        }
+      }
+    },
+    "CuzDbFSxtCdVcGerq2UySnHF7po=": {
+      "id": "CuzDbFSxtCdVcGerq2UySnHF7po=",
+      "name": "Explicit",
+      "access": "public",
+      "parent": "bonobNKGOblPVcRjxpiPan4nYnc=",
+      "locations": [
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 5
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "lvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "Explicit",
+                        "id": "bonobNKGOblPVcRjxpiPan4nYnc="
+                      },
+                      "cv_qualifiers": "const"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "class": "constructor",
+          "explicit": {
+            "implicit": false,
+            "kind": "explicit"
+          }
+        }
+      }
+    },
+    "saOH3agrCzNHcRhbXHOM0FYFxGc=": {
+      "id": "saOH3agrCzNHcRhbXHOM0FYFxGc=",
+      "name": "Explicit",
+      "access": "public",
+      "parent": "bonobNKGOblPVcRjxpiPan4nYnc=",
+      "locations": [
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "rvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "Explicit",
+                        "id": "bonobNKGOblPVcRjxpiPan4nYnc="
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "class": "constructor",
+          "noexcept": {
+            "implicit": false,
+            "kind": "noexcept"
+          },
+          "explicit": {
+            "implicit": false,
+            "kind": "explicit"
+          }
+        }
+      }
+    },
+    "GVN7KvqFotNClBLUnxR3nnPlH7Y=": {
+      "id": "GVN7KvqFotNClBLUnxR3nnPlH7Y=",
+      "name": "ExplicitFalse",
+      "access": "public",
+      "parent": "Lt5u3k14Z7EBxY7Ike3h9qkJ0fo=",
+      "locations": [
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 18
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "class": "constructor"
+        }
+      }
+    },
+    "htdCGapMsdazR1XkXoanrOCkvDE=": {
+      "id": "htdCGapMsdazR1XkXoanrOCkvDE=",
+      "name": "ExplicitTrue",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "explicit-ctor.cpp",
+        "source_path": "explicit-ctor.cpp",
+        "line": 10
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "+/mV1MMQWu/xIZAm0KufhJSfe2c="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "Oj6cGCOaarVfZXkgsr/pOPOOiFY=": {
+      "id": "Oj6cGCOaarVfZXkgsr/pOPOOiFY=",
+      "name": "Explicit",
+      "access": "public",
+      "parent": "bonobNKGOblPVcRjxpiPan4nYnc=",
+      "locations": [
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 7
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            },
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ],
+          "class": "constructor",
+          "explicit": {
+            "implicit": false,
+            "kind": "explicit"
+          }
+        }
+      }
+    },
+    "3sd37ryB4gMx1BgYdDdQzVJFniU=": {
+      "id": "3sd37ryB4gMx1BgYdDdQzVJFniU=",
+      "name": "ExplicitTrue",
+      "access": "public",
+      "parent": "htdCGapMsdazR1XkXoanrOCkvDE=",
+      "locations": [
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 11
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "class": "constructor",
+          "explicit": {
+            "implicit": false,
+            "kind": "explicit",
+            "operand": "true"
+          }
+        }
+      }
+    },
+    "Tj9uY+jY7QBYQC8IsjplHuoDgQo=": {
+      "id": "Tj9uY+jY7QBYQC8IsjplHuoDgQo=",
+      "name": "ExplicitTrue",
+      "access": "public",
+      "parent": "htdCGapMsdazR1XkXoanrOCkvDE=",
+      "locations": [
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 12
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "lvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "ExplicitTrue",
+                        "id": "htdCGapMsdazR1XkXoanrOCkvDE="
+                      },
+                      "cv_qualifiers": "const"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "class": "constructor",
+          "explicit": {
+            "implicit": false,
+            "kind": "explicit",
+            "operand": "true"
+          }
+        }
+      }
+    },
+    "iQOO8pEh0iNSnpupVwR9tCVIf8U=": {
+      "id": "iQOO8pEh0iNSnpupVwR9tCVIf8U=",
+      "name": "ExplicitTrue",
+      "access": "public",
+      "parent": "htdCGapMsdazR1XkXoanrOCkvDE=",
+      "locations": [
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 13
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "rvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "ExplicitTrue",
+                        "id": "htdCGapMsdazR1XkXoanrOCkvDE="
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "class": "constructor",
+          "noexcept": {
+            "implicit": false,
+            "kind": "noexcept"
+          },
+          "explicit": {
+            "implicit": false,
+            "kind": "explicit",
+            "operand": "true"
+          }
+        }
+      }
+    },
+    "gDoLCstIvgYYJng1jhLOLe/yz+Q=": {
+      "id": "gDoLCstIvgYYJng1jhLOLe/yz+Q=",
+      "name": "ExplicitExpression",
+      "access": "public",
+      "parent": "ztb0u1Q4SVBUQ0roTOM7MFlUt/o=",
+      "locations": [
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 28
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "rvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "ExplicitExpression",
+                        "id": "ztb0u1Q4SVBUQ0roTOM7MFlUt/o="
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "class": "constructor",
+          "noexcept": {
+            "implicit": false,
+            "kind": "noexcept"
+          },
+          "explicit": {
+            "implicit": false,
+            "kind": "explicit(...)",
+            "operand": "B"
+          }
+        }
+      }
+    },
+    "XCoHYDLlYJYpV6Ut7Ms0GjcQKjM=": {
+      "id": "XCoHYDLlYJYpV6Ut7Ms0GjcQKjM=",
+      "name": "ExplicitTrue",
+      "access": "public",
+      "parent": "htdCGapMsdazR1XkXoanrOCkvDE=",
+      "locations": [
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 14
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            },
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ],
+          "class": "constructor",
+          "explicit": {
+            "implicit": false,
+            "kind": "explicit",
+            "operand": "true"
+          }
+        }
+      }
+    },
+    "Lt5u3k14Z7EBxY7Ike3h9qkJ0fo=": {
+      "id": "Lt5u3k14Z7EBxY7Ike3h9qkJ0fo=",
+      "name": "ExplicitFalse",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "explicit-ctor.cpp",
+        "source_path": "explicit-ctor.cpp",
+        "line": 17
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "TOHCQYPYPqVGh07dNqjHLu/jDL0="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "qXjKOO0FQ3p2vTehkEQl2kIKpFs=": {
+      "id": "qXjKOO0FQ3p2vTehkEQl2kIKpFs=",
+      "name": "ExplicitFalse",
+      "access": "public",
+      "parent": "Lt5u3k14Z7EBxY7Ike3h9qkJ0fo=",
+      "locations": [
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 20
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "rvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "ExplicitFalse",
+                        "id": "Lt5u3k14Z7EBxY7Ike3h9qkJ0fo="
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "class": "constructor",
+          "noexcept": {
+            "implicit": false,
+            "kind": "noexcept"
+          }
+        }
+      }
+    },
+    "T0aRgSzz7xtFbPWKv3q57ueIYlI=": {
+      "id": "T0aRgSzz7xtFbPWKv3q57ueIYlI=",
+      "name": "ExplicitFalse",
+      "access": "public",
+      "parent": "Lt5u3k14Z7EBxY7Ike3h9qkJ0fo=",
+      "locations": [
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 21
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            },
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ],
+          "class": "constructor"
+        }
+      }
+    },
+    "ztb0u1Q4SVBUQ0roTOM7MFlUt/o=": {
+      "id": "ztb0u1Q4SVBUQ0roTOM7MFlUt/o=",
+      "name": "ExplicitExpression",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "explicit-ctor.cpp",
+        "source_path": "explicit-ctor.cpp",
+        "line": 24
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "non_type": {
+                  "name": "B",
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "bool"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "functions": [
+                "Jly6h0lqrXtaBikwnC2W/T8bQS8="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "s6L5UKI8FLTRiyny1rXgYxG/f/0=": {
+      "id": "s6L5UKI8FLTRiyny1rXgYxG/f/0=",
+      "name": "ExplicitExpression",
+      "access": "public",
+      "parent": "ztb0u1Q4SVBUQ0roTOM7MFlUt/o=",
+      "locations": [
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 26
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "class": "constructor",
+          "explicit": {
+            "implicit": false,
+            "kind": "explicit(...)",
+            "operand": "B"
+          }
+        }
+      }
+    },
+    "Ty1Sv+L6at7TykYdCITSQKmXwVs=": {
+      "id": "Ty1Sv+L6at7TykYdCITSQKmXwVs=",
+      "name": "ExplicitExpression",
+      "access": "public",
+      "parent": "ztb0u1Q4SVBUQ0roTOM7MFlUt/o=",
+      "locations": [
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 27
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "lvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "ExplicitExpression",
+                        "id": "ztb0u1Q4SVBUQ0roTOM7MFlUt/o="
+                      },
+                      "cv_qualifiers": "const"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "class": "constructor",
+          "explicit": {
+            "implicit": false,
+            "kind": "explicit(...)",
+            "operand": "B"
+          }
+        }
+      }
+    },
+    "J31K1hQq31LWiQhVy5ro0V+1pD0=": {
+      "id": "J31K1hQq31LWiQhVy5ro0V+1pD0=",
+      "name": "ExplicitExpression",
+      "access": "public",
+      "parent": "ztb0u1Q4SVBUQ0roTOM7MFlUt/o=",
+      "locations": [
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 29
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            },
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ],
+          "class": "constructor",
+          "explicit": {
+            "implicit": false,
+            "kind": "explicit(...)",
+            "operand": "B"
+          }
+        }
+      }
+    },
+    "+/mV1MMQWu/xIZAm0KufhJSfe2c=": {
+      "id": "+/mV1MMQWu/xIZAm0KufhJSfe2c=",
+      "name": "ExplicitTrue",
+      "access": "public",
+      "parent": "htdCGapMsdazR1XkXoanrOCkvDE=",
+      "locations": [
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 11
+        },
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 12
+        },
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 13
+        },
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 14
+        }
+      ],
+      "inner": {
+        "overloads": {
+          "class": "constructor",
+          "members": [
+            "3sd37ryB4gMx1BgYdDdQzVJFniU=",
+            "Tj9uY+jY7QBYQC8IsjplHuoDgQo=",
+            "iQOO8pEh0iNSnpupVwR9tCVIf8U=",
+            "XCoHYDLlYJYpV6Ut7Ms0GjcQKjM="
+          ]
+        }
+      }
+    },
+    "g9d5mhsfXocmI2tew1WJc0xe9FA=": {
+      "id": "g9d5mhsfXocmI2tew1WJc0xe9FA=",
+      "name": "Explicit",
+      "access": "public",
+      "parent": "bonobNKGOblPVcRjxpiPan4nYnc=",
+      "locations": [
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 4
+        },
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 5
+        },
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 6
+        },
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 7
+        }
+      ],
+      "inner": {
+        "overloads": {
+          "class": "constructor",
+          "members": [
+            "JPrjQsrkg+QoApI2wln2eGwCGP4=",
+            "CuzDbFSxtCdVcGerq2UySnHF7po=",
+            "saOH3agrCzNHcRhbXHOM0FYFxGc=",
+            "Oj6cGCOaarVfZXkgsr/pOPOOiFY="
+          ]
+        }
+      }
+    },
+    "TOHCQYPYPqVGh07dNqjHLu/jDL0=": {
+      "id": "TOHCQYPYPqVGh07dNqjHLu/jDL0=",
+      "name": "ExplicitFalse",
+      "access": "public",
+      "parent": "Lt5u3k14Z7EBxY7Ike3h9qkJ0fo=",
+      "locations": [
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 18
+        },
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 19
+        },
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 20
+        },
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 21
+        }
+      ],
+      "inner": {
+        "overloads": {
+          "class": "constructor",
+          "members": [
+            "GVN7KvqFotNClBLUnxR3nnPlH7Y=",
+            "gsl+2i8v8v4Lifq3SZ5sFhSfseQ=",
+            "qXjKOO0FQ3p2vTehkEQl2kIKpFs=",
+            "T0aRgSzz7xtFbPWKv3q57ueIYlI="
+          ]
+        }
+      }
+    },
+    "Jly6h0lqrXtaBikwnC2W/T8bQS8=": {
+      "id": "Jly6h0lqrXtaBikwnC2W/T8bQS8=",
+      "name": "ExplicitExpression",
+      "access": "public",
+      "parent": "ztb0u1Q4SVBUQ0roTOM7MFlUt/o=",
+      "locations": [
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 26
+        },
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 27
+        },
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 28
+        },
+        {
+          "short_path": "explicit-ctor.cpp",
+          "source_path": "explicit-ctor.cpp",
+          "line": 29
+        }
+      ],
+      "inner": {
+        "overloads": {
+          "class": "constructor",
+          "members": [
+            "s6L5UKI8FLTRiyny1rXgYxG/f/0=",
+            "Ty1Sv+L6at7TykYdCITSQKmXwVs=",
+            "gDoLCstIvgYYJng1jhLOLe/yz+Q=",
+            "J31K1hQq31LWiQhVy5ro0V+1pD0="
+          ]
+        }
+      }
+    }
+  }
+}

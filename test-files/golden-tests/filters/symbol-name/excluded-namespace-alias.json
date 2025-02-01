@@ -1,0 +1,105 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "kPgq2AM8TvyGDGm5jEWfqYlOPmY=": {
+      "id": "kPgq2AM8TvyGDGm5jEWfqYlOPmY=",
+      "name": "B",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "excluded-namespace-alias.cpp",
+          "source_path": "excluded-namespace-alias.cpp",
+          "line": 1
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "3Bv76oUtQq1hnBVVkwioGwKa0oU=": {
+      "id": "3Bv76oUtQq1hnBVVkwioGwKa0oU=",
+      "name": "E",
+      "extraction": "dependency",
+      "parent": "Rj2Fd5N7JujyJxCEKO4hXgEbuZE=",
+      "locations": [
+        {
+          "short_path": "excluded-namespace-alias.cpp",
+          "source_path": "excluded-namespace-alias.cpp",
+          "line": 3
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "X48ZrJbrwHITObLn6vxlcgApA20=": {
+      "id": "X48ZrJbrwHITObLn6vxlcgApA20=",
+      "name": "U",
+      "parent": "kPgq2AM8TvyGDGm5jEWfqYlOPmY=",
+      "locations": [
+        {
+          "short_path": "excluded-namespace-alias.cpp",
+          "source_path": "excluded-namespace-alias.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "TDj0Rc30uD7P5e+F1gsHzHoaV2U=": {
+      "id": "TDj0Rc30uD7P5e+F1gsHzHoaV2U=",
+      "name": "E",
+      "parent": "X48ZrJbrwHITObLn6vxlcgApA20=",
+      "locations": [
+        {
+          "short_path": "excluded-namespace-alias.cpp",
+          "source_path": "excluded-namespace-alias.cpp",
+          "line": 7
+        }
+      ],
+      "inner": {
+        "namespace_alias": {
+          "symbol": {
+            "kind": "identifier",
+            "name": "E",
+            "id": "3Bv76oUtQq1hnBVVkwioGwKa0oU=",
+            "prefix": {
+              "kind": "identifier",
+              "name": "S",
+              "id": "Rj2Fd5N7JujyJxCEKO4hXgEbuZE=",
+              "prefix": {
+                "kind": "identifier",
+                "name": "B",
+                "id": "kPgq2AM8TvyGDGm5jEWfqYlOPmY="
+              }
+            }
+          }
+        }
+      }
+    },
+    "Rj2Fd5N7JujyJxCEKO4hXgEbuZE=": {
+      "id": "Rj2Fd5N7JujyJxCEKO4hXgEbuZE=",
+      "name": "S",
+      "extraction": "dependency",
+      "parent": "kPgq2AM8TvyGDGm5jEWfqYlOPmY=",
+      "locations": [
+        {
+          "short_path": "excluded-namespace-alias.cpp",
+          "source_path": "excluded-namespace-alias.cpp",
+          "line": 2
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "bonobNKGOblPVcRjxpiPan4nYnc=": {
+      "id": "bonobNKGOblPVcRjxpiPan4nYnc=",
+      "name": "Explicit",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "explicit-conv-operator.cpp",
+        "source_path": "explicit-conv-operator.cpp",
+        "line": 3
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "64zY8rVu+TzEUayzMrnV65i9nFc="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "Lt5u3k14Z7EBxY7Ike3h9qkJ0fo=": {
+      "id": "Lt5u3k14Z7EBxY7Ike3h9qkJ0fo=",
+      "name": "ExplicitFalse",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "explicit-conv-operator.cpp",
+        "source_path": "explicit-conv-operator.cpp",
+        "line": 7
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "hJXOxv26Y9uxUYMMVZRsp3Wps4A="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "64zY8rVu+TzEUayzMrnV65i9nFc=": {
+      "id": "64zY8rVu+TzEUayzMrnV65i9nFc=",
+      "name": "operator bool",
+      "access": "public",
+      "parent": "bonobNKGOblPVcRjxpiPan4nYnc=",
+      "locations": [
+        {
+          "short_path": "explicit-conv-operator.cpp",
+          "source_path": "explicit-conv-operator.cpp",
+          "line": 4
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "bool"
+              }
+            }
+          },
+          "params": [],
+          "class": "conversion",
+          "explicit": {
+            "implicit": false,
+            "kind": "explicit"
+          }
+        }
+      }
+    },
+    "hJXOxv26Y9uxUYMMVZRsp3Wps4A=": {
+      "id": "hJXOxv26Y9uxUYMMVZRsp3Wps4A=",
+      "name": "operator bool",
+      "access": "public",
+      "parent": "Lt5u3k14Z7EBxY7Ike3h9qkJ0fo=",
+      "locations": [
+        {
+          "short_path": "explicit-conv-operator.cpp",
+          "source_path": "explicit-conv-operator.cpp",
+          "line": 8
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "bool"
+              }
+            }
+          },
+          "params": [],
+          "class": "conversion"
+        }
+      }
+    },
+    "9tpZWv9eJGfWj37jmTdNTg+gp14=": {
+      "id": "9tpZWv9eJGfWj37jmTdNTg+gp14=",
+      "name": "operator bool",
+      "access": "public",
+      "parent": "htdCGapMsdazR1XkXoanrOCkvDE=",
+      "locations": [
+        {
+          "short_path": "explicit-conv-operator.cpp",
+          "source_path": "explicit-conv-operator.cpp",
+          "line": 12
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "bool"
+              }
+            }
+          },
+          "params": [],
+          "class": "conversion",
+          "explicit": {
+            "implicit": false,
+            "kind": "explicit",
+            "operand": "true"
+          }
+        }
+      }
+    },
+    "htdCGapMsdazR1XkXoanrOCkvDE=": {
+      "id": "htdCGapMsdazR1XkXoanrOCkvDE=",
+      "name": "ExplicitTrue",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "explicit-conv-operator.cpp",
+        "source_path": "explicit-conv-operator.cpp",
+        "line": 11
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "9tpZWv9eJGfWj37jmTdNTg+gp14="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "ztb0u1Q4SVBUQ0roTOM7MFlUt/o=": {
+      "id": "ztb0u1Q4SVBUQ0roTOM7MFlUt/o=",
+      "name": "ExplicitExpression",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "explicit-conv-operator.cpp",
+        "source_path": "explicit-conv-operator.cpp",
+        "line": 15
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "non_type": {
+                  "name": "B",
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "bool"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "functions": [
+                "q6N8XkMK9WWWGKNQnlx/o2E1EYc="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "q6N8XkMK9WWWGKNQnlx/o2E1EYc=": {
+      "id": "q6N8XkMK9WWWGKNQnlx/o2E1EYc=",
+      "name": "operator bool",
+      "access": "public",
+      "parent": "ztb0u1Q4SVBUQ0roTOM7MFlUt/o=",
+      "locations": [
+        {
+          "short_path": "explicit-conv-operator.cpp",
+          "source_path": "explicit-conv-operator.cpp",
+          "line": 17
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "bool"
+              }
+            }
+          },
+          "params": [],
+          "class": "conversion",
+          "explicit": {
+            "implicit": false,
+            "kind": "explicit(...)",
+            "operand": "B"
+          }
+        }
+      }
+    }
+  }
+}

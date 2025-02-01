@@ -1,0 +1,237 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "YAQKEfxRmUjg43kkhT1n65uziVY=": {
+      "id": "YAQKEfxRmUjg43kkhT1n65uziVY=",
+      "name": "N0",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "blacklist_0.cpp",
+          "source_path": "blacklist_0.cpp",
+          "line": 1
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "N8VuRKoz/jzHCbelCVCZNKALQAQ=": {
+      "id": "N8VuRKoz/jzHCbelCVCZNKALQAQ=",
+      "name": "N3",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "blacklist_0.cpp",
+          "source_path": "blacklist_0.cpp",
+          "line": 32
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "YuxL8gi2heeMoessDsonV4JrAE8=": {
+      "id": "YuxL8gi2heeMoessDsonV4JrAE8=",
+      "name": "f0",
+      "parent": "YAQKEfxRmUjg43kkhT1n65uziVY=",
+      "locations": [
+        {
+          "short_path": "blacklist_0.cpp",
+          "source_path": "blacklist_0.cpp",
+          "line": 3
+        },
+        {
+          "short_path": "blacklist_0.cpp",
+          "source_path": "blacklist_0.cpp",
+          "line": 16
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "5KW7wj+cGonGOIACqamGb1QGyoA=": {
+      "id": "5KW7wj+cGonGOIACqamGb1QGyoA=",
+      "name": "N4",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "blacklist_0.cpp",
+          "source_path": "blacklist_0.cpp",
+          "line": 38
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "9FbH1+tQ3QOHCAntoCpAF02+8Kk=": {
+      "id": "9FbH1+tQ3QOHCAntoCpAF02+8Kk=",
+      "name": "N5",
+      "parent": "5KW7wj+cGonGOIACqamGb1QGyoA=",
+      "locations": [
+        {
+          "short_path": "blacklist_0.cpp",
+          "source_path": "blacklist_0.cpp",
+          "line": 40
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "sK1hKPIAxfUIYUOIhOe9SnoXfg0=": {
+      "id": "sK1hKPIAxfUIYUOIhOe9SnoXfg0=",
+      "name": "f1",
+      "parent": "9FbH1+tQ3QOHCAntoCpAF02+8Kk=",
+      "locations": [
+        {
+          "short_path": "blacklist_0.cpp",
+          "source_path": "blacklist_0.cpp",
+          "line": 43
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "MNQItF4HxM3PrWN0lDhIV9SWyJ0=": {
+      "id": "MNQItF4HxM3PrWN0lDhIV9SWyJ0=",
+      "name": "N6",
+      "parent": "5KW7wj+cGonGOIACqamGb1QGyoA=",
+      "locations": [
+        {
+          "short_path": "blacklist_0.cpp",
+          "source_path": "blacklist_0.cpp",
+          "line": 46
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "A2qNEj3jle5vHK6wdVGm8fPrpmA=": {
+      "id": "A2qNEj3jle5vHK6wdVGm8fPrpmA=",
+      "name": "f1",
+      "parent": "MNQItF4HxM3PrWN0lDhIV9SWyJ0=",
+      "locations": [
+        {
+          "short_path": "blacklist_0.cpp",
+          "source_path": "blacklist_0.cpp",
+          "line": 49
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "8E1oh5tVObxYv0gOEFPZQKych8Q=": {
+      "id": "8E1oh5tVObxYv0gOEFPZQKych8Q=",
+      "name": "N7",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "blacklist_0.cpp",
+          "source_path": "blacklist_0.cpp",
+          "line": 53
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "7YcdamD2ZytBo4Q6k708mR/RScw=": {
+      "id": "7YcdamD2ZytBo4Q6k708mR/RScw=",
+      "name": "N8",
+      "parent": "8E1oh5tVObxYv0gOEFPZQKych8Q=",
+      "locations": [
+        {
+          "short_path": "blacklist_0.cpp",
+          "source_path": "blacklist_0.cpp",
+          "line": 55
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "u4ylO6On5J13jZbcYjnClcxqHJ4=": {
+      "id": "u4ylO6On5J13jZbcYjnClcxqHJ4=",
+      "name": "N9",
+      "parent": "8E1oh5tVObxYv0gOEFPZQKych8Q=",
+      "locations": [
+        {
+          "short_path": "blacklist_0.cpp",
+          "source_path": "blacklist_0.cpp",
+          "line": 61
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "n2jChqyQNCb7NN3FjohUkKbB2M8=": {
+      "id": "n2jChqyQNCb7NN3FjohUkKbB2M8=",
+      "name": "g0",
+      "parent": "u4ylO6On5J13jZbcYjnClcxqHJ4=",
+      "locations": [
+        {
+          "short_path": "blacklist_0.cpp",
+          "source_path": "blacklist_0.cpp",
+          "line": 64
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    }
+  }
+}

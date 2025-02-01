@@ -1,0 +1,261 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "PmhXjCXUJYVnj/a7NhfjjSesyp0=": {
+      "id": "PmhXjCXUJYVnj/a7NhfjjSesyp0=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "requires-clause.cpp",
+          "source_path": "requires-clause.cpp",
+          "line": 1
+        },
+        {
+          "short_path": "requires-clause.cpp",
+          "source_path": "requires-clause.cpp",
+          "line": 4
+        },
+        {
+          "short_path": "requires-clause.cpp",
+          "source_path": "requires-clause.cpp",
+          "line": 7
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "requires": "(sizeof(U) == 2)"
+        }
+      }
+    },
+    "DpFFGgi+BFqL0vqMeTo07C/C52U=": {
+      "id": "DpFFGgi+BFqL0vqMeTo07C/C52U=",
+      "name": "g",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "requires-clause.cpp",
+          "source_path": "requires-clause.cpp",
+          "line": 10
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ],
+            "requires": "(sizeof(T) == 4)"
+          }
+        }
+      }
+    },
+    "z7MI+IUsfEDLtbTA1tQWSumGLBs=": {
+      "id": "z7MI+IUsfEDLtbTA1tQWSumGLBs=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "requires-clause.cpp",
+          "source_path": "requires-clause.cpp",
+          "line": 19
+        }
+      ],
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ],
+            "requires": "(sizeof(T) == 2)"
+          },
+          "interface": {}
+        }
+      }
+    },
+    "2wtiun6ZhVQnXDRTMS2D5R4fUMg=": {
+      "id": "2wtiun6ZhVQnXDRTMS2D5R4fUMg=",
+      "name": "g",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "requires-clause.cpp",
+          "source_path": "requires-clause.cpp",
+          "line": 10
+        },
+        {
+          "short_path": "requires-clause.cpp",
+          "source_path": "requires-clause.cpp",
+          "line": 13
+        },
+        {
+          "short_path": "requires-clause.cpp",
+          "source_path": "requires-clause.cpp",
+          "line": 16
+        }
+      ],
+      "inner": {
+        "overloads": {
+          "members": [
+            "DpFFGgi+BFqL0vqMeTo07C/C52U=",
+            "RaeBbQ+JdyeIhQj1YFV9px9qQX4=",
+            "MBfRSzQTxxU/MHbtcQQLCODsyvE="
+          ]
+        }
+      }
+    },
+    "RaeBbQ+JdyeIhQj1YFV9px9qQX4=": {
+      "id": "RaeBbQ+JdyeIhQj1YFV9px9qQX4=",
+      "name": "g",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "requires-clause.cpp",
+          "source_path": "requires-clause.cpp",
+          "line": 13
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ],
+            "requires": "(sizeof(T) == 2)"
+          }
+        }
+      }
+    },
+    "MBfRSzQTxxU/MHbtcQQLCODsyvE=": {
+      "id": "MBfRSzQTxxU/MHbtcQQLCODsyvE=",
+      "name": "g",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "requires-clause.cpp",
+          "source_path": "requires-clause.cpp",
+          "line": 16
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ],
+            "requires": "(sizeof(U) == 2)"
+          }
+        }
+      }
+    },
+    "hE7z0ScEG2siyLDy5uy7WHaROj0=": {
+      "id": "hE7z0ScEG2siyLDy5uy7WHaROj0=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "requires-clause.cpp",
+          "source_path": "requires-clause.cpp",
+          "line": 22
+        }
+      ],
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ],
+            "requires": "(sizeof(U) == 2)"
+          },
+          "interface": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "pmVtLf5hBBPEGDMBiRb6W7pOgbU=": {
+      "id": "pmVtLf5hBBPEGDMBiRb6W7pOgbU=",
+      "name": "E0",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "E0 brief."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "E0 description."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "enum.cpp",
+        "source_path": "enum.cpp",
+        "line": 5,
+        "documented": true
+      },
+      "inner": {
+        "enum": {
+          "type": null,
+          "constants": [
+            "PKsKOtl3cLUHJP4nEw+EKQK4fUE=",
+            "AXLqFIJBEk7eAdup5AR/wvnrMzc="
+          ]
+        }
+      }
+    },
+    "PKsKOtl3cLUHJP4nEw+EKQK4fUE=": {
+      "id": "PKsKOtl3cLUHJP4nEw+EKQK4fUE=",
+      "name": "e0",
+      "parent": "pmVtLf5hBBPEGDMBiRb6W7pOgbU=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "e0 brief."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "e0 description."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "enum.cpp",
+          "source_path": "enum.cpp",
+          "line": 11,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "enum_constant": {
+          "value": 1,
+          "written": "1"
+        }
+      }
+    },
+    "AXLqFIJBEk7eAdup5AR/wvnrMzc=": {
+      "id": "AXLqFIJBEk7eAdup5AR/wvnrMzc=",
+      "name": "e1",
+      "parent": "pmVtLf5hBBPEGDMBiRb6W7pOgbU=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "e1 brief."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "e1 description."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "enum.cpp",
+          "source_path": "enum.cpp",
+          "line": 16,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "enum_constant": {
+          "value": 2,
+          "written": ""
+        }
+      }
+    },
+    "Rifzp55QTXd/noKg5TyWoEJWlpE=": {
+      "id": "Rifzp55QTXd/noKg5TyWoEJWlpE=",
+      "name": "e3",
+      "parent": "YVlrwdT9xevSZZOb/TqEFyXYRzs=",
+      "locations": [
+        {
+          "short_path": "enum.cpp",
+          "source_path": "enum.cpp",
+          "line": 22
+        }
+      ],
+      "inner": {
+        "enum_constant": {
+          "value": 1,
+          "written": ""
+        }
+      }
+    },
+    "YVlrwdT9xevSZZOb/TqEFyXYRzs=": {
+      "id": "YVlrwdT9xevSZZOb/TqEFyXYRzs=",
+      "name": "E1",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "enum.cpp",
+        "source_path": "enum.cpp",
+        "line": 19
+      },
+      "inner": {
+        "enum": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "char"
+              }
+            }
+          },
+          "constants": [
+            "WhHxTXqItGXwZujc82O1Xfzbaz4=",
+            "Rifzp55QTXd/noKg5TyWoEJWlpE="
+          ]
+        }
+      }
+    },
+    "WhHxTXqItGXwZujc82O1Xfzbaz4=": {
+      "id": "WhHxTXqItGXwZujc82O1Xfzbaz4=",
+      "name": "e2",
+      "parent": "YVlrwdT9xevSZZOb/TqEFyXYRzs=",
+      "locations": [
+        {
+          "short_path": "enum.cpp",
+          "source_path": "enum.cpp",
+          "line": 21
+        }
+      ],
+      "inner": {
+        "enum_constant": {
+          "value": 0,
+          "written": ""
+        }
+      }
+    },
+    "pjF+x6gHHvGroB7+mumMEpLLPDw=": {
+      "id": "pjF+x6gHHvGroB7+mumMEpLLPDw=",
+      "name": "E2",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "E2 brief."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "E2 description."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "enum.cpp",
+        "source_path": "enum.cpp",
+        "line": 29,
+        "documented": true
+      },
+      "inner": {
+        "enum": {
+          "scoped": true,
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "constants": [
+            "RyRlkoU0rHCqW5D5O8YXfJrvfaw=",
+            "xFkU6j7yjwyQB2aStQjCIF9O+sQ="
+          ]
+        }
+      }
+    },
+    "RyRlkoU0rHCqW5D5O8YXfJrvfaw=": {
+      "id": "RyRlkoU0rHCqW5D5O8YXfJrvfaw=",
+      "name": "e4",
+      "parent": "pjF+x6gHHvGroB7+mumMEpLLPDw=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "e4 brief."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "e4 description."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "enum.cpp",
+          "source_path": "enum.cpp",
+          "line": 35,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "enum_constant": {
+          "value": 0,
+          "written": ""
+        }
+      }
+    },
+    "xFkU6j7yjwyQB2aStQjCIF9O+sQ=": {
+      "id": "xFkU6j7yjwyQB2aStQjCIF9O+sQ=",
+      "name": "e5",
+      "parent": "pjF+x6gHHvGroB7+mumMEpLLPDw=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "e5 brief."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "e5 description."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "enum.cpp",
+          "source_path": "enum.cpp",
+          "line": 40,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "enum_constant": {
+          "value": 1,
+          "written": ""
+        }
+      }
+    },
+    "sSur7Z1606gfBcxeK64ws2daEXI=": {
+      "id": "sSur7Z1606gfBcxeK64ws2daEXI=",
+      "name": "E3",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "enum.cpp",
+        "source_path": "enum.cpp",
+        "line": 43
+      },
+      "inner": {
+        "enum": {
+          "scoped": true,
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "char"
+              }
+            }
+          },
+          "constants": [
+            "m/aInWQVfzBhSp/BbwL1S6HYfgI=",
+            "s6xZcC+IxMf8dGaSjBuD4CkmAuU="
+          ]
+        }
+      }
+    },
+    "m/aInWQVfzBhSp/BbwL1S6HYfgI=": {
+      "id": "m/aInWQVfzBhSp/BbwL1S6HYfgI=",
+      "name": "e6",
+      "parent": "sSur7Z1606gfBcxeK64ws2daEXI=",
+      "locations": [
+        {
+          "short_path": "enum.cpp",
+          "source_path": "enum.cpp",
+          "line": 45
+        }
+      ],
+      "inner": {
+        "enum_constant": {
+          "value": 0,
+          "written": ""
+        }
+      }
+    },
+    "s6xZcC+IxMf8dGaSjBuD4CkmAuU=": {
+      "id": "s6xZcC+IxMf8dGaSjBuD4CkmAuU=",
+      "name": "e7",
+      "parent": "sSur7Z1606gfBcxeK64ws2daEXI=",
+      "locations": [
+        {
+          "short_path": "enum.cpp",
+          "source_path": "enum.cpp",
+          "line": 46
+        }
+      ],
+      "inner": {
+        "enum_constant": {
+          "value": 1,
+          "written": ""
+        }
+      }
+    }
+  }
+}

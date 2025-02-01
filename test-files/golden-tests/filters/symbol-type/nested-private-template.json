@@ -1,0 +1,137 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "sjnSu9g/42wrfWC6AbtyVuLVV6Y=": {
+      "id": "sjnSu9g/42wrfWC6AbtyVuLVV6Y=",
+      "name": "range",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "nested-private-template.cpp",
+        "source_path": "nested-private-template.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "class"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "private": {
+              "records": [
+                "7XlFKPcXRfyYPWc4WPN3PAH+m58=",
+                "BCRU3eMBRSysyvFsjJj+0yg+Vfc="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "7XlFKPcXRfyYPWc4WPN3PAH+m58=": {
+      "id": "7XlFKPcXRfyYPWc4WPN3PAH+m58=",
+      "name": "impl",
+      "access": "private",
+      "parent": "sjnSu9g/42wrfWC6AbtyVuLVV6Y=",
+      "locations": [
+        {
+          "short_path": "nested-private-template.cpp",
+          "source_path": "nested-private-template.cpp",
+          "line": 4
+        }
+      ],
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "R",
+                  "key": "class"
+                }
+              },
+              {
+                "non_type": {
+                  "name": "",
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "bool"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "interface": {}
+        }
+      }
+    },
+    "BCRU3eMBRSysyvFsjJj+0yg+Vfc=": {
+      "id": "BCRU3eMBRSysyvFsjJj+0yg+Vfc=",
+      "name": "impl",
+      "access": "private",
+      "parent": "sjnSu9g/42wrfWC6AbtyVuLVV6Y=",
+      "def_loc": {
+        "short_path": "nested-private-template.cpp",
+        "source_path": "nested-private-template.cpp",
+        "line": 10
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "partial",
+            "params": [
+              {
+                "type": {
+                  "name": "R",
+                  "key": "class"
+                }
+              }
+            ],
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "R"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "non_type": {
+                  "value": "false"
+                }
+              }
+            ],
+            "primary": "7XlFKPcXRfyYPWc4WPN3PAH+m58="
+          },
+          "interface": {}
+        }
+      }
+    }
+  }
+}

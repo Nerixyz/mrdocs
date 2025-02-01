@@ -1,0 +1,43 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "C0LRBO38MuY9CAdrRQ/gbJutBAw=": {
+      "id": "C0LRBO38MuY9CAdrRQ/gbJutBAw=",
+      "name": "TEST",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "include-self.cpp",
+          "source_path": "include-self.cpp",
+          "line": 1
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "3fDo50p0XYyS9fd9RqKyi2wjy/M=": {
+      "id": "3fDo50p0XYyS9fd9RqKyi2wjy/M=",
+      "name": "SUCCESS",
+      "parent": "C0LRBO38MuY9CAdrRQ/gbJutBAw=",
+      "def_loc": {
+        "short_path": "include-self.cpp",
+        "source_path": "include-self.cpp",
+        "line": 3
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    }
+  }
+}

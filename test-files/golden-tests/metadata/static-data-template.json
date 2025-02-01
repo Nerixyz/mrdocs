@@ -1,0 +1,215 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "5tUSuMtQqtYE49jBjSYSWp0DJAM=": {
+      "id": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "static-data-template.cpp",
+        "source_path": "static-data-template.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "static_variables": [
+                "XzfcXqh7M7tQVHWKvlB891KIC/0=",
+                "odTOUblgmooUozrBqW3qKzPWSO4=",
+                "eKdgKT44WwfN7UkQXGEqVJssIPM="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "XzfcXqh7M7tQVHWKvlB891KIC/0=": {
+      "id": "XzfcXqh7M7tQVHWKvlB891KIC/0=",
+      "name": "x",
+      "access": "public",
+      "parent": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "def_loc": {
+        "short_path": "static-data-template.cpp",
+        "source_path": "static-data-template.cpp",
+        "line": 4
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T"
+              }
+            }
+          },
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              },
+              {
+                "type": {
+                  "name": "V",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "initializer": "0",
+          "storage_class": "static",
+          "is_inline": true,
+          "is_constexpr": true
+        }
+      }
+    },
+    "odTOUblgmooUozrBqW3qKzPWSO4=": {
+      "id": "odTOUblgmooUozrBqW3qKzPWSO4=",
+      "name": "x",
+      "access": "public",
+      "parent": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "def_loc": {
+        "short_path": "static-data-template.cpp",
+        "source_path": "static-data-template.cpp",
+        "line": 7
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "T"
+              }
+            }
+          },
+          "template": {
+            "kind": "partial",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ],
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "pointer": {
+                      "pointee": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "U"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "type": {
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "T"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "initializer": "1",
+          "storage_class": "static",
+          "is_inline": true,
+          "is_constexpr": true
+        }
+      }
+    },
+    "eKdgKT44WwfN7UkQXGEqVJssIPM=": {
+      "id": "eKdgKT44WwfN7UkQXGEqVJssIPM=",
+      "name": "x",
+      "access": "public",
+      "parent": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "def_loc": {
+        "short_path": "static-data-template.cpp",
+        "source_path": "static-data-template.cpp",
+        "line": 10
+      },
+      "inner": {
+        "variable": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "bool"
+              }
+            }
+          },
+          "template": {
+            "kind": "explicit",
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "T"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "type": {
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "long"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "initializer": "2",
+          "storage_class": "static",
+          "is_inline": true,
+          "is_constexpr": true
+        }
+      }
+    }
+  }
+}

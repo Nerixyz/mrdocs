@@ -1,0 +1,109 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "IjtkITsyqdEWPMXZF3lD/2/XH0s=": {
+      "id": "IjtkITsyqdEWPMXZF3lD/2/XH0s=",
+      "name": "LongName",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "using-2.cpp",
+          "source_path": "using-2.cpp",
+          "line": 1
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "G92XaEqIwVs05hrwdNXMhpeFqkU=": {
+      "id": "G92XaEqIwVs05hrwdNXMhpeFqkU=",
+      "name": "S1",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "using-2.cpp",
+          "source_path": "using-2.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "using": {
+          "class": "normal",
+          "symbols": [
+            "ZJXGFTX+0w4vyLiZBRJM4VP5/5Y="
+          ],
+          "qualifier": {
+            "kind": "identifier",
+            "name": "LongName",
+            "id": "IjtkITsyqdEWPMXZF3lD/2/XH0s="
+          }
+        }
+      }
+    },
+    "ZJXGFTX+0w4vyLiZBRJM4VP5/5Y=": {
+      "id": "ZJXGFTX+0w4vyLiZBRJM4VP5/5Y=",
+      "name": "S1",
+      "parent": "IjtkITsyqdEWPMXZF3lD/2/XH0s=",
+      "def_loc": {
+        "short_path": "using-2.cpp",
+        "source_path": "using-2.cpp",
+        "line": 2
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "AsUl1L5PkCm5NvYpI3F7g6rfMlw=": {
+      "id": "AsUl1L5PkCm5NvYpI3F7g6rfMlw=",
+      "name": "S2",
+      "parent": "IjtkITsyqdEWPMXZF3lD/2/XH0s=",
+      "def_loc": {
+        "short_path": "using-2.cpp",
+        "source_path": "using-2.cpp",
+        "line": 3
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {}
+        }
+      }
+    },
+    "0Ljxy8EQ03btL9wIVt4SqbP1U2M=": {
+      "id": "0Ljxy8EQ03btL9wIVt4SqbP1U2M=",
+      "name": "S2",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "using-2.cpp",
+          "source_path": "using-2.cpp",
+          "line": 7
+        }
+      ],
+      "inner": {
+        "using": {
+          "class": "normal",
+          "symbols": [
+            "AsUl1L5PkCm5NvYpI3F7g6rfMlw="
+          ],
+          "qualifier": {
+            "kind": "identifier",
+            "name": "LongName",
+            "id": "IjtkITsyqdEWPMXZF3lD/2/XH0s="
+          }
+        }
+      }
+    }
+  }
+}

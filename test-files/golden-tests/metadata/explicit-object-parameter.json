@@ -1,0 +1,183 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "XLLL4h9bZlRyA4AQMlfVPCuwMoU=": {
+      "id": "XLLL4h9bZlRyA4AQMlfVPCuwMoU=",
+      "name": "value",
+      "access": "public",
+      "parent": "/TAtWMuvF+kz/B0ChmDlGQtnkaA=",
+      "locations": [
+        {
+          "short_path": "explicit-object-parameter.cpp",
+          "source_path": "explicit-object-parameter.cpp",
+          "line": 3
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "rvalue_reference": {
+              "pointee": {
+                "auto": {
+                  "keyword": "auto"
+                }
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "self",
+              "type": {
+                "rvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "Self"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "Self",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "is_explicit_object_member_function": true,
+          "constexpr_kind": "constexpr"
+        }
+      }
+    },
+    "FJLn2btgYITuCKtnX1SNqTrY7Gk=": {
+      "id": "FJLn2btgYITuCKtnX1SNqTrY7Gk=",
+      "name": "value",
+      "access": "public",
+      "parent": "/TAtWMuvF+kz/B0ChmDlGQtnkaA=",
+      "locations": [
+        {
+          "short_path": "explicit-object-parameter.cpp",
+          "source_path": "explicit-object-parameter.cpp",
+          "line": 3
+        },
+        {
+          "short_path": "explicit-object-parameter.cpp",
+          "source_path": "explicit-object-parameter.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "overloads": {
+          "members": [
+            "XLLL4h9bZlRyA4AQMlfVPCuwMoU=",
+            "aOpxAmSvyM7g6X3lLAJG5i3CTZA="
+          ]
+        }
+      }
+    },
+    "/TAtWMuvF+kz/B0ChmDlGQtnkaA=": {
+      "id": "/TAtWMuvF+kz/B0ChmDlGQtnkaA=",
+      "name": "Optional",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "explicit-object-parameter.cpp",
+        "source_path": "explicit-object-parameter.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "FJLn2btgYITuCKtnX1SNqTrY7Gk="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "aOpxAmSvyM7g6X3lLAJG5i3CTZA=": {
+      "id": "aOpxAmSvyM7g6X3lLAJG5i3CTZA=",
+      "name": "value",
+      "access": "public",
+      "parent": "/TAtWMuvF+kz/B0ChmDlGQtnkaA=",
+      "locations": [
+        {
+          "short_path": "explicit-object-parameter.cpp",
+          "source_path": "explicit-object-parameter.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "rvalue_reference": {
+              "pointee": {
+                "auto": {
+                  "keyword": "auto"
+                }
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "self",
+              "type": {
+                "rvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "Self"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "name": "x",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "Self",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "is_explicit_object_member_function": true,
+          "constexpr_kind": "constexpr"
+        }
+      }
+    }
+  }
+}

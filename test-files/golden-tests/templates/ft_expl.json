@@ -1,0 +1,105 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "PmhXjCXUJYVnj/a7NhfjjSesyp0=": {
+      "id": "PmhXjCXUJYVnj/a7NhfjjSesyp0=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "ft_expl.cpp",
+        "source_path": "ft_expl.cpp",
+        "line": 1
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "ytuvwgqk+lakIfCF209MYkKEp4k=": {
+      "id": "ytuvwgqk+lakIfCF209MYkKEp4k=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "ft_expl.cpp",
+        "source_path": "ft_expl.cpp",
+        "line": 4
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "template": {
+            "kind": "explicit",
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "int"
+                      }
+                    }
+                  }
+                }
+              }
+            ],
+            "primary": "PmhXjCXUJYVnj/a7NhfjjSesyp0="
+          }
+        }
+      }
+    },
+    "4aGYna+rxs12RgCDhUtoWDpmKfs=": {
+      "id": "4aGYna+rxs12RgCDhUtoWDpmKfs=",
+      "name": "f",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "ft_expl.cpp",
+        "source_path": "ft_expl.cpp",
+        "line": 1
+      },
+      "inner": {
+        "overloads": {
+          "members": [
+            "PmhXjCXUJYVnj/a7NhfjjSesyp0=",
+            "ytuvwgqk+lakIfCF209MYkKEp4k="
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1000 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "7FuwQh5wWHsQZAFDRF5GiHXiYdI=": {
+      "id": "7FuwQh5wWHsQZAFDRF5GiHXiYdI=",
+      "name": "E",
+      "access": "public",
+      "parent": "CSFzdUEgi4+pu0K2D3isHXeaoFQ=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 47
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "functions": [
+                "cJsLsaJ126sgoCXsFOa+lMSNEVI="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "EyperGIiZ7cSv/PB2BApKjPRQVA=": {
+      "id": "EyperGIiZ7cSv/PB2BApKjPRQVA=",
+      "name": "C",
+      "access": "public",
+      "parent": "/vjeowK9rbOfBZNuMjVMRn2iGMo=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 36
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "explicit",
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "pointer": {
+                      "pointee": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "double"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            ],
+            "primary": "UYi0dO2mWSf0nD8WRfX9JD1eJyw="
+          },
+          "interface": {
+            "public": {
+              "functions": [
+                "4hePn1dLCqLal3xld/sSlBvpu6U="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "dKDSVrZun8skBV/NUCmJyCUOvJA=": {
+      "id": "dKDSVrZun8skBV/NUCmJyCUOvJA=",
+      "name": "B",
+      "access": "public",
+      "parent": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 6
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "functions": [
+                "P0HRKTdcNYA5qjhIXTqtJIxYItQ="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "c4jAAYDw9qnOxUCpXquNT7fALUY=": {
+      "id": "c4jAAYDw9qnOxUCpXquNT7fALUY=",
+      "name": "f",
+      "access": "public",
+      "parent": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 4
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "UYi0dO2mWSf0nD8WRfX9JD1eJyw=": {
+      "id": "UYi0dO2mWSf0nD8WRfX9JD1eJyw=",
+      "name": "C",
+      "access": "public",
+      "parent": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 12
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "functions": [
+                "5XAhWGI1AQuRh2DnECuhvkGU0qs="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "5tUSuMtQqtYE49jBjSYSWp0DJAM=": {
+      "id": "5tUSuMtQqtYE49jBjSYSWp0DJAM=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "T",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "records": [
+                "dKDSVrZun8skBV/NUCmJyCUOvJA=",
+                "UYi0dO2mWSf0nD8WRfX9JD1eJyw="
+              ],
+              "functions": [
+                "c4jAAYDw9qnOxUCpXquNT7fALUY="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "5XAhWGI1AQuRh2DnECuhvkGU0qs=": {
+      "id": "5XAhWGI1AQuRh2DnECuhvkGU0qs=",
+      "name": "h",
+      "access": "public",
+      "parent": "UYi0dO2mWSf0nD8WRfX9JD1eJyw=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 15
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "P0HRKTdcNYA5qjhIXTqtJIxYItQ=": {
+      "id": "P0HRKTdcNYA5qjhIXTqtJIxYItQ=",
+      "name": "g",
+      "access": "public",
+      "parent": "dKDSVrZun8skBV/NUCmJyCUOvJA=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 9
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "5vQMmBbKdcjmr6fZ5KE/+hqkRD0=": {
+      "id": "5vQMmBbKdcjmr6fZ5KE/+hqkRD0=",
+      "name": "f",
+      "access": "public",
+      "parent": "AKwlChAOi+0ttIAPsD7uitS+gk0=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 19
+      },
+      "locations": [
+        {
+          "short_path": "spec-mem-implicit-instantiation.cpp",
+          "source_path": "spec-mem-implicit-instantiation.cpp",
+          "line": 4
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "AKwlChAOi+0ttIAPsD7uitS+gk0=": {
+      "id": "AKwlChAOi+0ttIAPsD7uitS+gk0=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 2
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "explicit",
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "int"
+                      }
+                    }
+                  }
+                }
+              }
+            ],
+            "primary": "5tUSuMtQqtYE49jBjSYSWp0DJAM="
+          },
+          "interface": {
+            "public": {
+              "records": [
+                "O0cvG3FLegojxWfTpLGLrtCaiDg=",
+                "TIHR+/r3scoX8MpUnGX9TnhdTMw=",
+                "kLfkJ6zwS7/fgRzTYaPfbg3WHg8="
+              ],
+              "functions": [
+                "5vQMmBbKdcjmr6fZ5KE/+hqkRD0="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "bJ8v5jNLvcM2EtaEdF2cpbTmU5s=": {
+      "id": "bJ8v5jNLvcM2EtaEdF2cpbTmU5s=",
+      "name": "C",
+      "access": "public",
+      "parent": "C6fFmGgpPJ7jgwKJA98mfx5cxts=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 27
+      },
+      "locations": [
+        {
+          "short_path": "spec-mem-implicit-instantiation.cpp",
+          "source_path": "spec-mem-implicit-instantiation.cpp",
+          "line": 12
+        }
+      ],
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {
+            "public": {
+              "functions": [
+                "FnUXB08e7tKDcXA1I7E6hiu2/i0="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "O0cvG3FLegojxWfTpLGLrtCaiDg=": {
+      "id": "O0cvG3FLegojxWfTpLGLrtCaiDg=",
+      "name": "B",
+      "access": "public",
+      "parent": "AKwlChAOi+0ttIAPsD7uitS+gk0=",
+      "locations": [
+        {
+          "short_path": "spec-mem-implicit-instantiation.cpp",
+          "source_path": "spec-mem-implicit-instantiation.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {}
+        }
+      }
+    },
+    "7YGPyrC+yNaV349G+Ofic+lrQQ0=": {
+      "id": "7YGPyrC+yNaV349G+Ofic+lrQQ0=",
+      "name": "B",
+      "access": "public",
+      "parent": "C6fFmGgpPJ7jgwKJA98mfx5cxts=",
+      "locations": [
+        {
+          "short_path": "spec-mem-implicit-instantiation.cpp",
+          "source_path": "spec-mem-implicit-instantiation.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {}
+        }
+      }
+    },
+    "27+9TQyh1Vcx+C3POBLdyXJP8bo=": {
+      "id": "27+9TQyh1Vcx+C3POBLdyXJP8bo=",
+      "name": "E",
+      "access": "public",
+      "parent": "CSFzdUEgi4+pu0K2D3isHXeaoFQ=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 48
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "explicit",
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "int"
+                      }
+                    }
+                  }
+                }
+              }
+            ],
+            "primary": "7FuwQh5wWHsQZAFDRF5GiHXiYdI="
+          },
+          "interface": {
+            "public": {
+              "functions": [
+                "ePyn5n+volZWM9Xn5rQhbb07Yn8="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "TIHR+/r3scoX8MpUnGX9TnhdTMw=": {
+      "id": "TIHR+/r3scoX8MpUnGX9TnhdTMw=",
+      "name": "C",
+      "access": "public",
+      "parent": "AKwlChAOi+0ttIAPsD7uitS+gk0=",
+      "locations": [
+        {
+          "short_path": "spec-mem-implicit-instantiation.cpp",
+          "source_path": "spec-mem-implicit-instantiation.cpp",
+          "line": 12
+        }
+      ],
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {}
+        }
+      }
+    },
+    "7fGykhsl+TDnhidf/wArzvaeUXY=": {
+      "id": "7fGykhsl+TDnhidf/wArzvaeUXY=",
+      "name": "g",
+      "access": "public",
+      "parent": "kLfkJ6zwS7/fgRzTYaPfbg3WHg8=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 22
+      },
+      "locations": [
+        {
+          "short_path": "spec-mem-implicit-instantiation.cpp",
+          "source_path": "spec-mem-implicit-instantiation.cpp",
+          "line": 9
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "kLfkJ6zwS7/fgRzTYaPfbg3WHg8=": {
+      "id": "kLfkJ6zwS7/fgRzTYaPfbg3WHg8=",
+      "name": "B",
+      "access": "public",
+      "parent": "AKwlChAOi+0ttIAPsD7uitS+gk0=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 7
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "explicit",
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "long"
+                      }
+                    }
+                  }
+                }
+              }
+            ],
+            "primary": "dKDSVrZun8skBV/NUCmJyCUOvJA="
+          },
+          "interface": {
+            "public": {
+              "functions": [
+                "7fGykhsl+TDnhidf/wArzvaeUXY="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "FnUXB08e7tKDcXA1I7E6hiu2/i0=": {
+      "id": "FnUXB08e7tKDcXA1I7E6hiu2/i0=",
+      "name": "i",
+      "access": "public",
+      "parent": "bJ8v5jNLvcM2EtaEdF2cpbTmU5s=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 30
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "C6fFmGgpPJ7jgwKJA98mfx5cxts=": {
+      "id": "C6fFmGgpPJ7jgwKJA98mfx5cxts=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 2
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "explicit",
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "short"
+                      }
+                    }
+                  }
+                }
+              }
+            ],
+            "primary": "5tUSuMtQqtYE49jBjSYSWp0DJAM="
+          },
+          "interface": {
+            "public": {
+              "records": [
+                "7YGPyrC+yNaV349G+Ofic+lrQQ0=",
+                "bJ8v5jNLvcM2EtaEdF2cpbTmU5s="
+              ],
+              "functions": [
+                "Bkfxhhw3rhTX4AsAahIpOZcNmmo="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "Bkfxhhw3rhTX4AsAahIpOZcNmmo=": {
+      "id": "Bkfxhhw3rhTX4AsAahIpOZcNmmo=",
+      "name": "f",
+      "access": "public",
+      "parent": "C6fFmGgpPJ7jgwKJA98mfx5cxts=",
+      "locations": [
+        {
+          "short_path": "spec-mem-implicit-instantiation.cpp",
+          "source_path": "spec-mem-implicit-instantiation.cpp",
+          "line": 4
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "xYK8qpEgWzczUMGnNUx+ozeBle0=": {
+      "id": "xYK8qpEgWzczUMGnNUx+ozeBle0=",
+      "name": "C",
+      "access": "public",
+      "parent": "/vjeowK9rbOfBZNuMjVMRn2iGMo=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 36
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "partial",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ],
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "pointer": {
+                      "pointee": {
+                        "named": {
+                          "name": {
+                            "kind": "identifier",
+                            "name": "U"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            ],
+            "primary": "UYi0dO2mWSf0nD8WRfX9JD1eJyw="
+          },
+          "interface": {
+            "public": {
+              "functions": [
+                "ks7mzzkRLaNXkyZ4CdZPO75g8js="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "ks7mzzkRLaNXkyZ4CdZPO75g8js=": {
+      "id": "ks7mzzkRLaNXkyZ4CdZPO75g8js=",
+      "name": "j",
+      "access": "public",
+      "parent": "xYK8qpEgWzczUMGnNUx+ozeBle0=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 38
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "/vjeowK9rbOfBZNuMjVMRn2iGMo=": {
+      "id": "/vjeowK9rbOfBZNuMjVMRn2iGMo=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 2
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "explicit",
+            "args": [
+              {
+                "type": {
+                  "type": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "bool"
+                      }
+                    }
+                  }
+                }
+              }
+            ],
+            "primary": "5tUSuMtQqtYE49jBjSYSWp0DJAM="
+          },
+          "interface": {
+            "public": {
+              "records": [
+                "6QY0PJXWe/WbREWJNqGWAxKfjl8=",
+                "CmGU1i/sBhCN4qrHoR7Et/3vN18=",
+                "xYK8qpEgWzczUMGnNUx+ozeBle0=",
+                "EyperGIiZ7cSv/PB2BApKjPRQVA="
+              ],
+              "functions": [
+                "MXnrYOauCPqySxkgtxhqKGFRX5w="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "MXnrYOauCPqySxkgtxhqKGFRX5w=": {
+      "id": "MXnrYOauCPqySxkgtxhqKGFRX5w=",
+      "name": "f",
+      "access": "public",
+      "parent": "/vjeowK9rbOfBZNuMjVMRn2iGMo=",
+      "locations": [
+        {
+          "short_path": "spec-mem-implicit-instantiation.cpp",
+          "source_path": "spec-mem-implicit-instantiation.cpp",
+          "line": 4
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "6QY0PJXWe/WbREWJNqGWAxKfjl8=": {
+      "id": "6QY0PJXWe/WbREWJNqGWAxKfjl8=",
+      "name": "B",
+      "access": "public",
+      "parent": "/vjeowK9rbOfBZNuMjVMRn2iGMo=",
+      "locations": [
+        {
+          "short_path": "spec-mem-implicit-instantiation.cpp",
+          "source_path": "spec-mem-implicit-instantiation.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {}
+        }
+      }
+    },
+    "CmGU1i/sBhCN4qrHoR7Et/3vN18=": {
+      "id": "CmGU1i/sBhCN4qrHoR7Et/3vN18=",
+      "name": "C",
+      "access": "public",
+      "parent": "/vjeowK9rbOfBZNuMjVMRn2iGMo=",
+      "locations": [
+        {
+          "short_path": "spec-mem-implicit-instantiation.cpp",
+          "source_path": "spec-mem-implicit-instantiation.cpp",
+          "line": 12
+        }
+      ],
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "template": {
+            "kind": "primary",
+            "params": [
+              {
+                "type": {
+                  "name": "U",
+                  "key": "typename"
+                }
+              }
+            ]
+          },
+          "interface": {}
+        }
+      }
+    },
+    "4hePn1dLCqLal3xld/sSlBvpu6U=": {
+      "id": "4hePn1dLCqLal3xld/sSlBvpu6U=",
+      "name": "j",
+      "access": "public",
+      "parent": "EyperGIiZ7cSv/PB2BApKjPRQVA=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 41
+      },
+      "locations": [
+        {
+          "short_path": "spec-mem-implicit-instantiation.cpp",
+          "source_path": "spec-mem-implicit-instantiation.cpp",
+          "line": 38
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "CSFzdUEgi4+pu0K2D3isHXeaoFQ=": {
+      "id": "CSFzdUEgi4+pu0K2D3isHXeaoFQ=",
+      "name": "D",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 45
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "records": [
+                "7FuwQh5wWHsQZAFDRF5GiHXiYdI=",
+                "27+9TQyh1Vcx+C3POBLdyXJP8bo="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "cJsLsaJ126sgoCXsFOa+lMSNEVI=": {
+      "id": "cJsLsaJ126sgoCXsFOa+lMSNEVI=",
+      "name": "k",
+      "access": "public",
+      "parent": "7FuwQh5wWHsQZAFDRF5GiHXiYdI=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 50
+      },
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "ePyn5n+volZWM9Xn5rQhbb07Yn8=": {
+      "id": "ePyn5n+volZWM9Xn5rQhbb07Yn8=",
+      "name": "k",
+      "access": "public",
+      "parent": "27+9TQyh1Vcx+C3POBLdyXJP8bo=",
+      "def_loc": {
+        "short_path": "spec-mem-implicit-instantiation.cpp",
+        "source_path": "spec-mem-implicit-instantiation.cpp",
+        "line": 54
+      },
+      "locations": [
+        {
+          "short_path": "spec-mem-implicit-instantiation.cpp",
+          "source_path": "spec-mem-implicit-instantiation.cpp",
+          "line": 50
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    }
+  }
+}

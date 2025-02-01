@@ -1,0 +1,458 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "KiY+7o+uUp3h7bndNOpI2AuCrAE=": {
+      "id": "KiY+7o+uUp3h7bndNOpI2AuCrAE=",
+      "name": "h",
+      "access": "public",
+      "parent": "ejPqzkotYMoiJcYkJf0fmJ0UNFM=",
+      "locations": [
+        {
+          "short_path": "excluded-base-class.cpp",
+          "source_path": "excluded-base-class.cpp",
+          "line": 29
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "has_override_attr": true,
+          "is_virtual": true
+        }
+      }
+    },
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "jQQu/8mLNzRQvGtbkKMwwloVDpw=": {
+      "id": "jQQu/8mLNzRQvGtbkKMwwloVDpw=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "excluded-base-class.cpp",
+          "source_path": "excluded-base-class.cpp",
+          "line": 1
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "JgPp0cAF/suYYKB1RQalvRP+hjk=": {
+      "id": "JgPp0cAF/suYYKB1RQalvRP+hjk=",
+      "name": "g",
+      "access": "public",
+      "parent": "ejPqzkotYMoiJcYkJf0fmJ0UNFM=",
+      "locations": [
+        {
+          "short_path": "excluded-base-class.cpp",
+          "source_path": "excluded-base-class.cpp",
+          "line": 7
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "is_virtual": true,
+          "is_virtual_as_written": true
+        }
+      }
+    },
+    "JZaxtrYAfw1G84jAxs8cAhx9OiI=": {
+      "id": "JZaxtrYAfw1G84jAxs8cAhx9OiI=",
+      "name": "f",
+      "access": "public",
+      "extraction": "dependency",
+      "parent": "9QgUJNKn+WNP3bawIZL9jzTlEGc=",
+      "locations": [
+        {
+          "short_path": "excluded-base-class.cpp",
+          "source_path": "excluded-base-class.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "/TldxA72JGXtufh5RbJgxLW2mwU=": {
+      "id": "/TldxA72JGXtufh5RbJgxLW2mwU=",
+      "name": "D",
+      "parent": "jQQu/8mLNzRQvGtbkKMwwloVDpw=",
+      "def_loc": {
+        "short_path": "excluded-base-class.cpp",
+        "source_path": "excluded-base-class.cpp",
+        "line": 15
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "C",
+                    "id": "9QgUJNKn+WNP3bawIZL9jzTlEGc=",
+                    "prefix": {
+                      "kind": "identifier",
+                      "name": "B",
+                      "id": "4hr3niqdAlVLoJDRDfOf4nP1zbU="
+                    }
+                  }
+                }
+              },
+              "access": "public"
+            }
+          ],
+          "interface": {
+            "public": {
+              "functions": [
+                "o+85JO3Sv4bIWiG3+bfyUw5gJWI=",
+                "NiHV825xQJhfQDhKCeAex3UuHGY=",
+                "d5/JtPJCrP6OG8ToxUKNR5xqJ4I=",
+                "BcIYmKdVh0f6TsMPCA/M0Cmr9VI="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "9QgUJNKn+WNP3bawIZL9jzTlEGc=": {
+      "id": "9QgUJNKn+WNP3bawIZL9jzTlEGc=",
+      "name": "C",
+      "extraction": "dependency",
+      "parent": "4hr3niqdAlVLoJDRDfOf4nP1zbU=",
+      "def_loc": {
+        "short_path": "excluded-base-class.cpp",
+        "source_path": "excluded-base-class.cpp",
+        "line": 4
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "interface": {
+            "public": {
+              "functions": [
+                "JZaxtrYAfw1G84jAxs8cAhx9OiI=",
+                "nBnLguNvCkPZjaF1iBX1XgyJMZw=",
+                "2V3fy6qk9Sajf7Ofl2rYe6yb4FY="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "nBnLguNvCkPZjaF1iBX1XgyJMZw=": {
+      "id": "nBnLguNvCkPZjaF1iBX1XgyJMZw=",
+      "name": "g",
+      "access": "public",
+      "extraction": "dependency",
+      "parent": "9QgUJNKn+WNP3bawIZL9jzTlEGc=",
+      "locations": [
+        {
+          "short_path": "excluded-base-class.cpp",
+          "source_path": "excluded-base-class.cpp",
+          "line": 7
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "is_virtual": true,
+          "is_virtual_as_written": true
+        }
+      }
+    },
+    "4hr3niqdAlVLoJDRDfOf4nP1zbU=": {
+      "id": "4hr3niqdAlVLoJDRDfOf4nP1zbU=",
+      "name": "B",
+      "extraction": "dependency",
+      "parent": "jQQu/8mLNzRQvGtbkKMwwloVDpw=",
+      "locations": [
+        {
+          "short_path": "excluded-base-class.cpp",
+          "source_path": "excluded-base-class.cpp",
+          "line": 3
+        }
+      ],
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "d5/JtPJCrP6OG8ToxUKNR5xqJ4I=": {
+      "id": "d5/JtPJCrP6OG8ToxUKNR5xqJ4I=",
+      "name": "i",
+      "access": "public",
+      "parent": "/TldxA72JGXtufh5RbJgxLW2mwU=",
+      "locations": [
+        {
+          "short_path": "excluded-base-class.cpp",
+          "source_path": "excluded-base-class.cpp",
+          "line": 19
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "2V3fy6qk9Sajf7Ofl2rYe6yb4FY=": {
+      "id": "2V3fy6qk9Sajf7Ofl2rYe6yb4FY=",
+      "name": "h",
+      "access": "public",
+      "extraction": "dependency",
+      "parent": "9QgUJNKn+WNP3bawIZL9jzTlEGc=",
+      "locations": [
+        {
+          "short_path": "excluded-base-class.cpp",
+          "source_path": "excluded-base-class.cpp",
+          "line": 8
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "is_virtual": true,
+          "is_virtual_as_written": true,
+          "is_pure": true
+        }
+      }
+    },
+    "o+85JO3Sv4bIWiG3+bfyUw5gJWI=": {
+      "id": "o+85JO3Sv4bIWiG3+bfyUw5gJWI=",
+      "name": "g",
+      "access": "public",
+      "parent": "/TldxA72JGXtufh5RbJgxLW2mwU=",
+      "locations": [
+        {
+          "short_path": "excluded-base-class.cpp",
+          "source_path": "excluded-base-class.cpp",
+          "line": 17
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "has_override_attr": true,
+          "is_virtual": true
+        }
+      }
+    },
+    "NiHV825xQJhfQDhKCeAex3UuHGY=": {
+      "id": "NiHV825xQJhfQDhKCeAex3UuHGY=",
+      "name": "h",
+      "access": "public",
+      "parent": "/TldxA72JGXtufh5RbJgxLW2mwU=",
+      "locations": [
+        {
+          "short_path": "excluded-base-class.cpp",
+          "source_path": "excluded-base-class.cpp",
+          "line": 18
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [],
+          "has_override_attr": true,
+          "is_virtual": true
+        }
+      }
+    },
+    "ejPqzkotYMoiJcYkJf0fmJ0UNFM=": {
+      "id": "ejPqzkotYMoiJcYkJf0fmJ0UNFM=",
+      "name": "E",
+      "parent": "jQQu/8mLNzRQvGtbkKMwwloVDpw=",
+      "def_loc": {
+        "short_path": "excluded-base-class.cpp",
+        "source_path": "excluded-base-class.cpp",
+        "line": 27
+      },
+      "inner": {
+        "record": {
+          "kind": "class",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "C",
+                    "id": "9QgUJNKn+WNP3bawIZL9jzTlEGc=",
+                    "prefix": {
+                      "kind": "identifier",
+                      "name": "B",
+                      "id": "4hr3niqdAlVLoJDRDfOf4nP1zbU="
+                    }
+                  }
+                }
+              },
+              "access": "public"
+            }
+          ],
+          "interface": {
+            "public": {
+              "functions": [
+                "KiY+7o+uUp3h7bndNOpI2AuCrAE=",
+                "0wO8aZwuOLvF7/RooHUZJ5SyKzk=",
+                "e7VYD0d5BKg0c6yEn8zt92t304s=",
+                "JgPp0cAF/suYYKB1RQalvRP+hjk="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "0wO8aZwuOLvF7/RooHUZJ5SyKzk=": {
+      "id": "0wO8aZwuOLvF7/RooHUZJ5SyKzk=",
+      "name": "i",
+      "access": "public",
+      "parent": "ejPqzkotYMoiJcYkJf0fmJ0UNFM=",
+      "locations": [
+        {
+          "short_path": "excluded-base-class.cpp",
+          "source_path": "excluded-base-class.cpp",
+          "line": 30
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "BcIYmKdVh0f6TsMPCA/M0Cmr9VI=": {
+      "id": "BcIYmKdVh0f6TsMPCA/M0Cmr9VI=",
+      "name": "f",
+      "access": "public",
+      "parent": "/TldxA72JGXtufh5RbJgxLW2mwU=",
+      "locations": [
+        {
+          "short_path": "excluded-base-class.cpp",
+          "source_path": "excluded-base-class.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "e7VYD0d5BKg0c6yEn8zt92t304s=": {
+      "id": "e7VYD0d5BKg0c6yEn8zt92t304s=",
+      "name": "f",
+      "access": "public",
+      "parent": "ejPqzkotYMoiJcYkJf0fmJ0UNFM=",
+      "locations": [
+        {
+          "short_path": "excluded-base-class.cpp",
+          "source_path": "excluded-base-class.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    }
+  }
+}

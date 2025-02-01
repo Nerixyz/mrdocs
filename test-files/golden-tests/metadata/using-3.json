@@ -1,0 +1,262 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "YrPSaKAbmXgzCAX5WByx4eVoqBM=": {
+      "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "using-3.cpp",
+        "source_path": "using-3.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "7Bg4Ruo9NHdsGok6ICFQWW1MBuE="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "7Bg4Ruo9NHdsGok6ICFQWW1MBuE=": {
+      "id": "7Bg4Ruo9NHdsGok6ICFQWW1MBuE=",
+      "name": "f",
+      "access": "public",
+      "parent": "YrPSaKAbmXgzCAX5WByx4eVoqBM=",
+      "locations": [
+        {
+          "short_path": "using-3.cpp",
+          "source_path": "using-3.cpp",
+          "line": 3
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "3JsK1DO0O+wZhv+0meptQrbs3fY=": {
+      "id": "3JsK1DO0O+wZhv+0meptQrbs3fY=",
+      "name": "B",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "using-3.cpp",
+        "source_path": "using-3.cpp",
+        "line": 6
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "L8SG5UwdWbdrxlsWfl5qGz09wUw="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "gYtMTvi6Y8IYub83GUwP4tNrNh8=": {
+      "id": "gYtMTvi6Y8IYub83GUwP4tNrNh8=",
+      "name": "f",
+      "access": "public",
+      "parent": "BrX2oZup9qgy4SfJloKCuUYZshA=",
+      "locations": [
+        {
+          "short_path": "using-3.cpp",
+          "source_path": "using-3.cpp",
+          "line": 13
+        }
+      ],
+      "inner": {
+        "using": {
+          "class": "normal",
+          "symbols": [
+            "7Bg4Ruo9NHdsGok6ICFQWW1MBuE="
+          ],
+          "qualifier": {
+            "kind": "identifier",
+            "name": "A",
+            "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM="
+          }
+        }
+      }
+    },
+    "L8SG5UwdWbdrxlsWfl5qGz09wUw=": {
+      "id": "L8SG5UwdWbdrxlsWfl5qGz09wUw=",
+      "name": "f",
+      "access": "public",
+      "parent": "3JsK1DO0O+wZhv+0meptQrbs3fY=",
+      "locations": [
+        {
+          "short_path": "using-3.cpp",
+          "source_path": "using-3.cpp",
+          "line": 8
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "bool"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "BrX2oZup9qgy4SfJloKCuUYZshA=": {
+      "id": "BrX2oZup9qgy4SfJloKCuUYZshA=",
+      "name": "C",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "using-3.cpp",
+        "source_path": "using-3.cpp",
+        "line": 11
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "bases": [
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "A",
+                    "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM="
+                  }
+                }
+              },
+              "access": "public"
+            },
+            {
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "B",
+                    "id": "3JsK1DO0O+wZhv+0meptQrbs3fY="
+                  }
+                }
+              },
+              "access": "public"
+            }
+          ],
+          "interface": {
+            "public": {
+              "functions": [
+                "gjPF5EpyYY6WRB5mUVLv/E655Js="
+              ],
+              "usings": [
+                "gYtMTvi6Y8IYub83GUwP4tNrNh8=",
+                "Ok4Drv8j7QjZMYzH/iHOHoNf+YY="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "Ok4Drv8j7QjZMYzH/iHOHoNf+YY=": {
+      "id": "Ok4Drv8j7QjZMYzH/iHOHoNf+YY=",
+      "name": "f",
+      "access": "public",
+      "parent": "BrX2oZup9qgy4SfJloKCuUYZshA=",
+      "locations": [
+        {
+          "short_path": "using-3.cpp",
+          "source_path": "using-3.cpp",
+          "line": 14
+        }
+      ],
+      "inner": {
+        "using": {
+          "class": "normal",
+          "symbols": [
+            "L8SG5UwdWbdrxlsWfl5qGz09wUw="
+          ],
+          "qualifier": {
+            "kind": "identifier",
+            "name": "B",
+            "id": "3JsK1DO0O+wZhv+0meptQrbs3fY="
+          }
+        }
+      }
+    },
+    "gjPF5EpyYY6WRB5mUVLv/E655Js=": {
+      "id": "gjPF5EpyYY6WRB5mUVLv/E655Js=",
+      "name": "f",
+      "access": "public",
+      "parent": "BrX2oZup9qgy4SfJloKCuUYZshA=",
+      "locations": [
+        {
+          "short_path": "using-3.cpp",
+          "source_path": "using-3.cpp",
+          "line": 3
+        },
+        {
+          "short_path": "using-3.cpp",
+          "source_path": "using-3.cpp",
+          "line": 8
+        }
+      ],
+      "inner": {
+        "overloads": {
+          "members": [
+            "7Bg4Ruo9NHdsGok6ICFQWW1MBuE=",
+            "L8SG5UwdWbdrxlsWfl5qGz09wUw="
+          ]
+        }
+      }
+    }
+  }
+}

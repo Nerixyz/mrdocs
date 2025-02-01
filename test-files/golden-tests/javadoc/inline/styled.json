@@ -1,0 +1,193 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "YrPSaKAbmXgzCAX5WByx4eVoqBM=": {
+      "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM=",
+      "name": "A",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Brief for A"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Paragraph with "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "code"
+              }
+            },
+            {
+              "text": ", "
+            },
+            {
+              "styled": {
+                "style": "bold",
+                "text": "bold"
+              }
+            },
+            {
+              "text": " text, and "
+            },
+            {
+              "styled": {
+                "style": "italic",
+                "text": "italic"
+              }
+            },
+            {
+              "text": " text."
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "We can also escape these markers: `, *, and _."
+            }
+          ]
+        }
+      ],
+      "def_loc": {
+        "short_path": "styled.cpp",
+        "source_path": "styled.cpp",
+        "line": 8,
+        "documented": true
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "functions": [
+                "CKPqawUTt6FNIN9qEFTMcdnvPkI="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "CKPqawUTt6FNIN9qEFTMcdnvPkI=": {
+      "id": "CKPqawUTt6FNIN9qEFTMcdnvPkI=",
+      "name": "compare",
+      "access": "public",
+      "parent": "YrPSaKAbmXgzCAX5WByx4eVoqBM=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Compare function"
+            }
+          ]
+        },
+        {
+          "returns": [
+            {
+              "styled": {
+                "style": "mono",
+                "text": "-1"
+              }
+            },
+            {
+              "text": " if "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "*this < other"
+              }
+            },
+            {
+              "text": ", "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "0"
+              }
+            },
+            {
+              "text": " if        "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "this == other"
+              }
+            },
+            {
+              "text": ", and 1 if "
+            },
+            {
+              "styled": {
+                "style": "mono",
+                "text": "this > other"
+              }
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "styled.cpp",
+          "source_path": "styled.cpp",
+          "line": 14,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "other",
+              "type": {
+                "lvalue_reference": {
+                  "pointee": {
+                    "named": {
+                      "name": {
+                        "kind": "identifier",
+                        "name": "A",
+                        "id": "YrPSaKAbmXgzCAX5WByx4eVoqBM="
+                      },
+                      "cv_qualifiers": "const"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "noexcept": {
+            "implicit": false,
+            "kind": "noexcept"
+          },
+          "is_const": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "khwJweIqd5FuWAg8T+l+GEljQVc=": {
+      "id": "khwJweIqd5FuWAg8T+l+GEljQVc=",
+      "name": "f3",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Brief"
+            }
+          ]
+        },
+        {
+          "heading": {
+            "text": "Custom par"
+          }
+        },
+        {
+          "code": [
+            {
+              "text": "    void f3();"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "par-1.cpp",
+          "source_path": "par-1.cpp",
+          "line": 33,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "CnO51rIKTzfiVKHkR3TdPa0eo+8=": {
+      "id": "CnO51rIKTzfiVKHkR3TdPa0eo+8=",
+      "name": "f1",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Brief"
+            }
+          ]
+        },
+        {
+          "heading": {
+            "text": "Custom par"
+          }
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Paragraph 1"
+            }
+          ]
+        },
+        {
+          "code": [
+            {
+              "text": "    void f1();"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "par-1.cpp",
+          "source_path": "par-1.cpp",
+          "line": 11,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "0MJUv5yGFR9nXWFLeYc+rjOY+iM=": {
+      "id": "0MJUv5yGFR9nXWFLeYc+rjOY+iM=",
+      "name": "f2",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Brief"
+            }
+          ]
+        },
+        {
+          "heading": {
+            "text": "Custom par"
+          }
+        },
+        {
+          "paragraph": [
+            {
+              "text": "Paragraph 2"
+            }
+          ]
+        },
+        {
+          "code": [
+            {
+              "text": "    void f2();"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "par-1.cpp",
+          "source_path": "par-1.cpp",
+          "line": 24,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "5wJFEWD4Ev/Vf3QN/mFlKhtbC6E=": {
+      "id": "5wJFEWD4Ev/Vf3QN/mFlKhtbC6E=",
+      "name": "f4",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "Brief"
+            }
+          ]
+        },
+        {
+          "heading": {
+            "text": "Custom par"
+          }
+        },
+        {
+          "code": [
+            {
+              "text": "    void f4();"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "par-1.cpp",
+          "source_path": "par-1.cpp",
+          "line": 43,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    }
+  }
+}

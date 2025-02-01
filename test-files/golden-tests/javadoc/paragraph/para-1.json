@@ -1,0 +1,145 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "khwJweIqd5FuWAg8T+l+GEljQVc=": {
+      "id": "khwJweIqd5FuWAg8T+l+GEljQVc=",
+      "name": "f3",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "para-1.cpp",
+          "source_path": "para-1.cpp",
+          "line": 17,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "CnO51rIKTzfiVKHkR3TdPa0eo+8=": {
+      "id": "CnO51rIKTzfiVKHkR3TdPa0eo+8=",
+      "name": "f1",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "para-1.cpp",
+          "source_path": "para-1.cpp",
+          "line": 5
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "0MJUv5yGFR9nXWFLeYc+rjOY+iM=": {
+      "id": "0MJUv5yGFR9nXWFLeYc+rjOY+iM=",
+      "name": "f2",
+      "parent": "//////////////////////////8=",
+      "locations": [
+        {
+          "short_path": "para-1.cpp",
+          "source_path": "para-1.cpp",
+          "line": 10,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "5wJFEWD4Ev/Vf3QN/mFlKhtbC6E=": {
+      "id": "5wJFEWD4Ev/Vf3QN/mFlKhtbC6E=",
+      "name": "f4",
+      "parent": "//////////////////////////8=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "brief"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "a"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "b "
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "c "
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "para-1.cpp",
+          "source_path": "para-1.cpp",
+          "line": 27,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    }
+  }
+}

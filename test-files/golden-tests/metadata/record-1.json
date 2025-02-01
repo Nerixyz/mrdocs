@@ -1,0 +1,328 @@
+{
+  "root": "//////////////////////////8=",
+  "index": {
+    "//////////////////////////8=": {
+      "id": "//////////////////////////8=",
+      "name": "",
+      "inner": {
+        "namespace": {}
+      }
+    },
+    "wwp4SQjMPktMmsnvq1thxjxFHFs=": {
+      "id": "wwp4SQjMPktMmsnvq1thxjxFHFs=",
+      "name": "U2",
+      "access": "public",
+      "parent": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "locations": [
+        {
+          "short_path": "record-1.cpp",
+          "source_path": "record-1.cpp",
+          "line": 4
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "char"
+              }
+            }
+          },
+          "is_using": false
+        }
+      }
+    },
+    "6UtddyCJy89K/bZpTmDb5jVXwAY=": {
+      "id": "6UtddyCJy89K/bZpTmDb5jVXwAY=",
+      "name": "U1",
+      "access": "public",
+      "parent": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "locations": [
+        {
+          "short_path": "record-1.cpp",
+          "source_path": "record-1.cpp",
+          "line": 3
+        }
+      ],
+      "inner": {
+        "typedef": {
+          "type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "is_using": true
+        }
+      }
+    },
+    "/xzUDYrXtCl2xCoyCvXqIZ4fKfA=": {
+      "id": "/xzUDYrXtCl2xCoyCvXqIZ4fKfA=",
+      "name": "g1",
+      "access": "protected",
+      "parent": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "brief-g1"
+            }
+          ]
+        },
+        {
+          "paragraph": [
+            {
+              "text": "desc"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "record-1.cpp",
+          "source_path": "record-1.cpp",
+          "line": 15,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "CgGNdHpW5mG/i5741WPYQDw28OQ=": {
+      "id": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "name": "T",
+      "parent": "//////////////////////////8=",
+      "def_loc": {
+        "short_path": "record-1.cpp",
+        "source_path": "record-1.cpp",
+        "line": 1
+      },
+      "inner": {
+        "record": {
+          "kind": "struct",
+          "interface": {
+            "public": {
+              "typedefs": [
+                "6UtddyCJy89K/bZpTmDb5jVXwAY=",
+                "wwp4SQjMPktMmsnvq1thxjxFHFs="
+              ],
+              "functions": [
+                "9sznTZ3/SXQNZpCsoMG8KWGLuEc=",
+                "w0ONazxXaWlB0RQLjfDqDWICUwo=",
+                "TkBjWwqMDycyUbq+TJZ9qfUhSn0="
+              ]
+            },
+            "protected": {
+              "functions": [
+                "/xzUDYrXtCl2xCoyCvXqIZ4fKfA=",
+                "flHl59B/bdRwuiNeh3sHqCycic0=",
+                "DKxv4h+rP37b0u6O1qbB+u416ZY="
+              ]
+            }
+          }
+        }
+      }
+    },
+    "w0ONazxXaWlB0RQLjfDqDWICUwo=": {
+      "id": "w0ONazxXaWlB0RQLjfDqDWICUwo=",
+      "name": "f2",
+      "access": "public",
+      "parent": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "locations": [
+        {
+          "short_path": "record-1.cpp",
+          "source_path": "record-1.cpp",
+          "line": 7
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "flHl59B/bdRwuiNeh3sHqCycic0=": {
+      "id": "flHl59B/bdRwuiNeh3sHqCycic0=",
+      "name": "g2",
+      "access": "protected",
+      "parent": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "brief-g2"
+            }
+          ]
+        },
+        {
+          "returns": [
+            {
+              "text": "the number 2"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "record-1.cpp",
+          "source_path": "record-1.cpp",
+          "line": 21,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "int"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "9sznTZ3/SXQNZpCsoMG8KWGLuEc=": {
+      "id": "9sznTZ3/SXQNZpCsoMG8KWGLuEc=",
+      "name": "f1",
+      "access": "public",
+      "parent": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "locations": [
+        {
+          "short_path": "record-1.cpp",
+          "source_path": "record-1.cpp",
+          "line": 6
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "void"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "TkBjWwqMDycyUbq+TJZ9qfUhSn0=": {
+      "id": "TkBjWwqMDycyUbq+TJZ9qfUhSn0=",
+      "name": "f3",
+      "access": "public",
+      "parent": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "locations": [
+        {
+          "short_path": "record-1.cpp",
+          "source_path": "record-1.cpp",
+          "line": 8
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "char"
+              }
+            }
+          },
+          "params": []
+        }
+      }
+    },
+    "DKxv4h+rP37b0u6O1qbB+u416ZY=": {
+      "id": "DKxv4h+rP37b0u6O1qbB+u416ZY=",
+      "name": "g3",
+      "access": "protected",
+      "parent": "CgGNdHpW5mG/i5741WPYQDw28OQ=",
+      "javadoc": [
+        {
+          "paragraph": [
+            {
+              "text": "brief-g3"
+            }
+          ]
+        },
+        {
+          "returns": [
+            {
+              "text": "the separator        "
+            }
+          ]
+        },
+        {
+          "param": {
+            "name": "x",
+            "content": [
+              {
+                "text": "any old number"
+              }
+            ]
+          }
+        }
+      ],
+      "locations": [
+        {
+          "short_path": "record-1.cpp",
+          "source_path": "record-1.cpp",
+          "line": 28,
+          "documented": true
+        }
+      ],
+      "inner": {
+        "function": {
+          "return_type": {
+            "named": {
+              "name": {
+                "kind": "identifier",
+                "name": "char"
+              }
+            }
+          },
+          "params": [
+            {
+              "name": "x",
+              "type": {
+                "named": {
+                  "name": {
+                    "kind": "identifier",
+                    "name": "int"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
